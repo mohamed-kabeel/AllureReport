@@ -1,0 +1,12 @@
+{
+  "userId": "afedbe18-dea6-43e2-8454-405c3066d68c",
+  "name": "lkg9twqerk",
+  "email": "trenton.ryan@hotmail.com",
+  "phoneNumber": "4450223550",
+  "identityNo": "6287621367",
+  "notes": "42se5c2u7m",
+  "branchIds": ["0539cb78-fdce-4f9e-b27a-864acbefafc8"],
+  "roleIds": ["1b71f5d5-ec30-4603-a19c-b6dcffa59038"],
+  "laundaryId": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+  "collectionPointIds": ["0d2b5bf7-fa62-4807-39ee-08ddd350d2bb"]
+}

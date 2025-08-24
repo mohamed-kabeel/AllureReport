@@ -1,0 +1,18 @@
+{
+    "success": true,
+    "message": "تم استرجاع الخصومات والزيادات بنجاح.",
+    "data": [
+        
+    ],
+    "errors": null,
+    "pagination": {
+        "totalRecords": 0,
+        "pageNumber": 1,
+        "pageSize": 10,
+        "totalPages": 0,
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "isPaginated": true
+    },
+    "statusCode": 200
+}

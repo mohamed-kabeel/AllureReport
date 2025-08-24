@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "تم استرجاع الطلب بنجاح",
+    "data": [
+        {
+            "orderId": "e9e2461c-bb8b-43ae-9c76-08dde2d53359",
+            "orderNumber": "ORD-20250824-2BE617",
+            "customer": {
+                "name": "Jon Nader",
+                "forceNo": null,
+                "civilId": "string",
+                "phoneNumber": null,
+                "rank": null,
+                "isInternal": false,
+                "address": {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "description": "Suite 136 4174 Jina Squares, Bednarside, IL 12081-3251",
+                    "location": null,
+                    "city": null,
+                    "state": null,
+                    "area": null,
+                    "latitude": null,
+                    "longitude": null
+                }
+            },
+            "customerType": "External",
+            "orderDate": "2025-08-24T09:26:17.9047628",
+            "servicesCount": 1,
+            "orderStatus": {
+                "id": 3,
+                "name": "تم الاستلام",
+                "color": "#6F42C1"
+            },
+            "paymentStatus": {
+                "id": 2,
+                "name": "غير مدفوع",
+                "color": "#FFA500"
+            },
+            "paymentType": {
+                "id": 1,
+                "name": "كاش",
+                "color": "#1E90FF"
+            },
+            "orderType": {
+                "id": 2,
+                "name": "استلام",
+                "color": "#1E90FF"
+            },
+            "assignment": {
+                "id": 0,
+                "name": "غير معيّن",
+                "color": "#6C757D"
+            },
+            "branchs": {
+                "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                "name": "string"
+            },
+            "collectionPoints": null,
+            "driverName": null,
+            "duration": "الآن",
+            "totalPrice": 11.88,
+            "subTotal": 11.00,
+            "vatAmount": 0.55,
+            "discountCode": "k93djinmql74v1kurx6h",
+            "taxAmount": 0.33,
+            "totalQuantities": 0,
+            "rate": null,
+            "isCollectionPointOrder": false,
+            "notes": null,
+            "deliveryStatus": {
+                "id": 1,
+                "name": "طلب جديد",
+                "color": "#FFA500"
+            },
+            "services": [
+                {
+                    "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                    "name": "خدمة 443",
+                    "unitPrice": 0.00,
+                    "quantity": 1,
+                    "category": {
+                        "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                        "name": null
+                    }
+                }
+            ],
+            "createdBy": {
+                "id": "9543a89f-143e-45b6-9a09-1f2b03f6a982",
+                "name": "LaundryStaff"
+            },
+            "laundry": null
+        }
+    ],
+    "pagination": {
+        "totalRecords": 1,
+        "pageNumber": 1,
+        "pageSize": 10,
+        "totalPages": 1,
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "isPaginated": true
+    }
+}

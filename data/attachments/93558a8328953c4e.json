@@ -1,0 +1,24 @@
+{
+    "success": true,
+    "message": "تمت إضافة الملاحظة بنجاح.",
+    "data": [
+        {
+            "id": "d0926f45-2b77-4dba-ba9c-ac979b645933",
+            "noteText": "Dolore neque cum et cumque.",
+            "createdAt": "2025-08-24T07:24:14.2096117Z",
+            "createdByUserId": "fe780599-d108-474d-87c6-1d46fb2d5ab0",
+            "createdByUserName": "Bree White1",
+            "createdByRole": null,
+            "target": 1
+        }
+    ],
+    "pagination": {
+        "totalRecords": 1,
+        "pageNumber": 1,
+        "pageSize": 1,
+        "totalPages": 1,
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "isPaginated": true
+    }
+}

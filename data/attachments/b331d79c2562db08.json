@@ -1,0 +1,54 @@
+{
+    "success": true,
+    "message": "تم تحديث الباقة بنجاح.",
+    "data": {
+        "id": "fd8f740d-926e-4b01-4d15-08dde2df08bf",
+        "name": "93yg424noh",
+        "nameAr": "93yg424noh",
+        "nameEn": "f1aqa2jb5t",
+        "fromDate": "2025-08-14T12:47:34.078Z",
+        "toDate": "2025-09-30T12:47:34.078Z",
+        "duration": 10,
+        "price": 10,
+        "isActive": true,
+        "totalQuantity": 5,
+        "requestStatus": null,
+        "createdAt": "2025-08-24T10:24:15.8931628",
+        "laundary": {
+            "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+            "name": "hef71cityz"
+        },
+        "ranks": [
+            {
+                "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                "name": "رتبة تجريبية",
+                "nameEn": "Test Rank",
+                "nameAr": "رتبة تجريبية"
+            }
+        ],
+        "categories": [
+            {
+                "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                "name": "تصنيف 1",
+                "nameAr": "تصنيف 1",
+                "nameEn": "84itpp8s1v9d33dteohe",
+                "services": [
+                    {
+                        "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                        "branch": {
+                            "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                            "name": "string"
+                        },
+                        "name": "خدمة 443",
+                        "nameAr": "خدمة 443",
+                        "nameEn": "new ",
+                        "quantity": 5
+                    }
+                ]
+            }
+        ]
+    },
+    "errors": null,
+    "pagination": null,
+    "statusCode": 200
+}

@@ -1,0 +1,249 @@
+{
+    "success": true,
+    "message": "FetchStateData",
+    "data": [
+        {
+            "id": "006be14d-11fb-4e3c-c134-08ddae4affbd",
+            "nameEn": "Bawshar",
+            "nameAr": "بوشر",
+            "isActive": true
+        },
+        {
+            "id": "ab9b7cae-3c55-47fe-c135-08ddae4affbd",
+            "nameEn": "Mutrah",
+            "nameAr": "صلالة",
+            "isActive": true
+        },
+        {
+            "id": "9413e922-b272-4918-c136-08ddae4affbd",
+            "nameEn": "Al Seeb",
+            "nameAr": "السيب",
+            "isActive": true
+        },
+        {
+            "id": "cb6a19c3-1b6c-4de2-c137-08ddae4affbd",
+            "nameEn": "Qurayyat",
+            "nameAr": "قريات",
+            "isActive": true
+        },
+        {
+            "id": "7df9aebf-141f-4dee-c138-08ddae4affbd",
+            "nameEn": "Bawshar",
+            "nameAr": "بوشر",
+            "isActive": true
+        },
+        {
+            "id": "762a1013-5817-483a-c139-08ddae4affbd",
+            "nameEn": "Mutrah",
+            "nameAr": "صلالة",
+            "isActive": true
+        },
+        {
+            "id": "e80c56a1-8e92-4ea7-c13a-08ddae4affbd",
+            "nameEn": "Al Seeb",
+            "nameAr": "السيب",
+            "isActive": true
+        },
+        {
+            "id": "2d04faaf-70d0-4a28-c13b-08ddae4affbd",
+            "nameEn": "Qurayyat",
+            "nameAr": "قريات",
+            "isActive": true
+        },
+        {
+            "id": "caea1e42-0c60-451c-c13c-08ddae4affbd",
+            "nameEn": "Bawshar",
+            "nameAr": "بوشر",
+            "isActive": true
+        },
+        {
+            "id": "523035ff-3cfc-497f-c13d-08ddae4affbd",
+            "nameEn": "Mutrah",
+            "nameAr": "صلالة",
+            "isActive": true
+        },
+        {
+            "id": "5d8b6ad3-c47b-4837-c13e-08ddae4affbd",
+            "nameEn": "Al Seeb",
+            "nameAr": "السيب",
+            "isActive": true
+        },
+        {
+            "id": "b7b5b300-d9df-4f00-c13f-08ddae4affbd",
+            "nameEn": "Qurayyat",
+            "nameAr": "قريات",
+            "isActive": true
+        },
+        {
+            "id": "f7dd3041-78c1-468d-c140-08ddae4affbd",
+            "nameEn": "Bawshar",
+            "nameAr": "بوشر",
+            "isActive": true
+        },
+        {
+            "id": "996c93e1-eb04-4bb1-c141-08ddae4affbd",
+            "nameEn": "Mutrah",
+            "nameAr": "صلالة",
+            "isActive": true
+        },
+        {
+            "id": "3253026b-3b83-4f48-c142-08ddae4affbd",
+            "nameEn": "Al Seeb",
+            "nameAr": "السيب",
+            "isActive": true
+        },
+        {
+            "id": "e030e8f7-9a33-4f14-c143-08ddae4affbd",
+            "nameEn": "Qurayyat",
+            "nameAr": "قريات",
+            "isActive": true
+        },
+        {
+            "id": "72f269bc-82d9-4c96-c144-08ddae4affbd",
+            "nameEn": "Bawshar",
+            "nameAr": "بوشر",
+            "isActive": true
+        },
+        {
+            "id": "ad376f52-e83f-4534-c145-08ddae4affbd",
+            "nameEn": "Mutrah",
+            "nameAr": "صلالة",
+            "isActive": true
+        },
+        {
+            "id": "75faeb54-2a12-4520-c146-08ddae4affbd",
+            "nameEn": "Al Seeb",
+            "nameAr": "السيب",
+            "isActive": true
+        },
+        {
+            "id": "9006b5a4-3b9d-49d1-c147-08ddae4affbd",
+            "nameEn": "Qurayyat",
+            "nameAr": "قريات",
+            "isActive": true
+        },
+        {
+            "id": "902fa832-dc27-46b7-c148-08ddae4affbd",
+            "nameEn": "Bawshar",
+            "nameAr": "بوشر",
+            "isActive": true
+        },
+        {
+            "id": "39c5628a-657a-4630-c149-08ddae4affbd",
+            "nameEn": "Mutrah",
+            "nameAr": "صلالة",
+            "isActive": true
+        },
+        {
+            "id": "8efeb025-2d5e-42d7-c14a-08ddae4affbd",
+            "nameEn": "Al Seeb",
+            "nameAr": "السيب",
+            "isActive": true
+        },
+        {
+            "id": "9298c99d-6ff1-4e10-c14b-08ddae4affbd",
+            "nameEn": "Qurayyat",
+            "nameAr": "قريات",
+            "isActive": true
+        },
+        {
+            "id": "c7f35ff3-aee9-4f38-c14c-08ddae4affbd",
+            "nameEn": "Bawshar",
+            "nameAr": "بوشر",
+            "isActive": true
+        },
+        {
+            "id": "3d0c7281-fb4d-4b27-c14d-08ddae4affbd",
+            "nameEn": "Mutrah",
+            "nameAr": "صلالة",
+            "isActive": true
+        },
+        {
+            "id": "f87a544b-772c-4cf5-c14e-08ddae4affbd",
+            "nameEn": "Al Seeb",
+            "nameAr": "السيب",
+            "isActive": true
+        },
+        {
+            "id": "c598ab62-312a-40cb-c14f-08ddae4affbd",
+            "nameEn": "Qurayyat",
+            "nameAr": "قريات",
+            "isActive": true
+        },
+        {
+            "id": "5f212a8c-9f9b-4a7a-c150-08ddae4affbd",
+            "nameEn": "Bawshar",
+            "nameAr": "بوشر",
+            "isActive": true
+        },
+        {
+            "id": "94d59b92-68db-4659-c151-08ddae4affbd",
+            "nameEn": "Mutrah",
+            "nameAr": "صلالة",
+            "isActive": true
+        },
+        {
+            "id": "a2a6d3d3-add7-42f9-c152-08ddae4affbd",
+            "nameEn": "Al Seeb",
+            "nameAr": "السيب",
+            "isActive": true
+        },
+        {
+            "id": "b34fd88d-78df-455b-c153-08ddae4affbd",
+            "nameEn": "Qurayyat",
+            "nameAr": "قريات",
+            "isActive": true
+        },
+        {
+            "id": "6885317c-c8b4-4568-c154-08ddae4affbd",
+            "nameEn": "Bawshar",
+            "nameAr": "بوشر",
+            "isActive": true
+        },
+        {
+            "id": "777a8095-7d67-492f-c155-08ddae4affbd",
+            "nameEn": "Mutrah",
+            "nameAr": "صلالة",
+            "isActive": true
+        },
+        {
+            "id": "4a6e916c-a634-47db-c156-08ddae4affbd",
+            "nameEn": "Al Seeb",
+            "nameAr": "السيب",
+            "isActive": true
+        },
+        {
+            "id": "bf9e051c-828a-476d-c157-08ddae4affbd",
+            "nameEn": "Qurayyat",
+            "nameAr": "قريات",
+            "isActive": true
+        },
+        {
+            "id": "952751b3-527f-436c-c158-08ddae4affbd",
+            "nameEn": "Bawshar",
+            "nameAr": "بوشر",
+            "isActive": true
+        },
+        {
+            "id": "1ecbf464-9237-4fb9-c159-08ddae4affbd",
+            "nameEn": "Mutrah",
+            "nameAr": "صلالة",
+            "isActive": true
+        },
+        {
+            "id": "876e5d79-f19d-466e-c15a-08ddae4affbd",
+            "nameEn": "Al Seeb",
+            "nameAr": "السيب",
+            "isActive": true
+        },
+        {
+            "id": "cf2d5bbf-93f3-4d99-c15b-08ddae4affbd",
+            "nameEn": "Qurayyat",
+            "nameAr": "قريات",
+            "isActive": true
+        }
+    ],
+    "errors": null,
+    "pagination": null,
+    "statusCode": 200
+}

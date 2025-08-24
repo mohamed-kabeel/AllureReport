@@ -1,0 +1,1 @@
+https://staging-api-laundry.rieaya.live/api/LaundryAddingRequest/ApproveCollectionPoint_AddingRequest/4f57aad4-c05a-4f1a-c6cc-08dde2d5019f

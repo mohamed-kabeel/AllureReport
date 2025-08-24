@@ -1,0 +1,6 @@
+{
+  "userId": "72d2e920-627e-4f63-9aed-e4ab08da3ffe",
+  "permissionIds": [
+    "556440a4-2800-4db7-86fc-a9b68621b2d3"
+  ]
+}

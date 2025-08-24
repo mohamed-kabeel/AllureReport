@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "message": null,
+    "data": [
+        {
+            "id": "b475cefb-eba9-40ba-8eeb-54973cedf81d",
+            "name": "ظدبثذقضعاك",
+            "nameAr": "ظدبثذقضعاك",
+            "nameEN": "bsont4ka3k",
+            "isActive": true
+        }
+    ],
+    "pagination": {
+        "totalRecords": 1,
+        "pageNumber": 1,
+        "pageSize": 1,
+        "totalPages": 1,
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "isPaginated": true
+    }
+}

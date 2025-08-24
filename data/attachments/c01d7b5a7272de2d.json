@@ -1,0 +1,26 @@
+{
+    "success": true,
+    "message": "تم استرجاع الفئات بنجاح.",
+    "data": [
+        {
+            "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+            "name": "رتبة تجريبية",
+            "nameAr": "رتبة تجريبية",
+            "nameEn": "Test Rank",
+            "color": "#FF5733",
+            "grad": null,
+            "isActive": true
+        }
+    ],
+    "errors": null,
+    "pagination": {
+        "totalRecords": 1,
+        "pageNumber": 1,
+        "pageSize": 10,
+        "totalPages": 1,
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "isPaginated": true
+    },
+    "statusCode": 200
+}

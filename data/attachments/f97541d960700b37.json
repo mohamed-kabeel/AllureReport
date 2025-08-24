@@ -1,0 +1,117 @@
+{
+    "success": true,
+    "message": null,
+    "data": [
+        {
+            "orderId": "440f7195-1439-444e-b7e1-08dddb36c228",
+            "orderNumber": "ORD-20250814-0B4642",
+            "customer": {
+                "name": "ApexTest",
+                "forceNo": null,
+                "civilId": "96309630",
+                "phoneNumber": null,
+                "rank": null,
+                "isInternal": false,
+                "address": {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "description": "October",
+                    "location": null,
+                    "city": null,
+                    "state": null,
+                    "area": null,
+                    "latitude": null,
+                    "longitude": null
+                }
+            },
+            "customerType": "External",
+            "orderDate": "2025-08-14T16:30:38.854578",
+            "servicesCount": 1,
+            "orderStatus": {
+                "id": 2,
+                "name": "في الطريق إلى المغسلة",
+                "color": "#1E90FF"
+            },
+            "paymentStatus": {
+                "id": 2,
+                "name": "غير مدفوع",
+                "color": "#FFA500"
+            },
+            "paymentType": {
+                "id": 1,
+                "name": "كاش",
+                "color": "#1E90FF"
+            },
+            "orderType": {
+                "id": 2,
+                "name": "استلام",
+                "color": "#1E90FF"
+            },
+            "assignment": {
+                "id": 2,
+                "name": "مقبول",
+                "color": "#28A745"
+            },
+            "branchs": {
+                "id": "dea4c134-d326-4244-847f-1aa3ec3623c6",
+                "name": "Zeina test"
+            },
+            "collectionPoints": null,
+            "driverName": "Delivery2",
+            "duration": "2 أسبوع",
+            "totalPrice": 3060.00,
+            "subTotal": 2000.00,
+            "vatAmount": 100.00,
+            "discountCode": "Gh2025",
+            "taxAmount": 960.00,
+            "totalQuantities": 20,
+            "rate": null,
+            "isCollectionPointOrder": false,
+            "notes": [
+                {
+                    "id": "f62260b1-4fbc-4850-a01c-9bdb6346a898",
+                    "noteText": "TestExternalNote",
+                    "createdAt": "2025-08-14T16:30:38.8549954",
+                    "createdByUserId": "9543a89f-143e-45b6-9a09-1f2b03f6a982",
+                    "createdByUserName": "LaundryStaff",
+                    "createdByRole": "LaundaryStaff",
+                    "target": 0
+                }
+            ],
+            "deliveryStatus": {
+                "id": 3,
+                "name": "تم الاستلام من العميل",
+                "color": "#CF27F5"
+            },
+            "services": [
+                {
+                    "id": "773956a6-baed-4f28-89da-1562fe5d6076",
+                    "name": "خدمة 5",
+                    "unitPrice": 100.00,
+                    "quantity": 20,
+                    "category": {
+                        "id": "01b0a9b8-2e23-441f-9326-338e5a55c239",
+                        "name": "تصنيف 6"
+                    }
+                }
+            ],
+            "createdBy": {
+                "id": "9543a89f-143e-45b6-9a09-1f2b03f6a982",
+                "name": "LaundryStaff"
+            },
+            "laundry": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz",
+                "whatAppNumber": "1960281421"
+            }
+        }
+    ],
+    "pagination": {
+        "totalRecords": 1,
+        "pageNumber": 1,
+        "pageSize": 10,
+        "totalPages": 1,
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "isPaginated": true
+    }
+}

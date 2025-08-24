@@ -1,0 +1,333 @@
+{
+    "success": true,
+    "message": null,
+    "data": [
+        {
+            "id": "16e5ebd5-70a4-4292-b11e-b4a0c6d33a5c",
+            "name": "عشركضحصنحم",
+            "nameAr": "عشركضحصنحم",
+            "nameEn": "4l5qp48lak",
+            "price": 100.00,
+            "isActive": true,
+            "serviceCategory": {
+                "id": "8b76f6b8-798e-4c48-80f1-8ae0571825b2",
+                "name": "مدعذضيذدوت",
+                "nameAr": "مدعذضيذدوت",
+                "nameEn": "f1ki5ixt57o4r9u145vt",
+                "isActive": false
+            },
+            "laundry": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "branches": [
+                {
+                    "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                    "name": "string"
+                }
+            ],
+            "collectionPoints": [
+                {
+                    "id": "e0039a27-231e-4de6-d98a-08ddde1b5f42",
+                    "name": "Sample Service"
+                }
+            ]
+        },
+        {
+            "id": "aaf4953b-ecba-4654-be40-4023f4fe5b74",
+            "name": "تيست خدمة 4",
+            "nameAr": "تيست خدمة 4",
+            "nameEn": "test service 4",
+            "price": 30.00,
+            "isActive": true,
+            "serviceCategory": {
+                "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                "name": "تصنيف 2",
+                "nameAr": "تصنيف 2",
+                "nameEn": "4g60htnuibkvmag42paf",
+                "isActive": false
+            },
+            "laundry": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "branches": [
+                {
+                    "id": "1d55f772-ead4-4dd4-9ba9-1ed9199b776b",
+                    "name": "04kgaytbnf"
+                }
+            ],
+            "collectionPoints": [
+                
+            ]
+        },
+        {
+            "id": "47afa665-0087-4154-bd07-6e3a9aece88c",
+            "name": "تيست خدمة 3",
+            "nameAr": "تيست خدمة 3",
+            "nameEn": "test service 3",
+            "price": 20.00,
+            "isActive": true,
+            "serviceCategory": {
+                "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                "name": "تصنيف 2",
+                "nameAr": "تصنيف 2",
+                "nameEn": "4g60htnuibkvmag42paf",
+                "isActive": false
+            },
+            "laundry": {
+                "id": "b06b3f75-9fe1-4ade-bff1-675339c159b5",
+                "name": "مغسلة الاحتراف"
+            },
+            "branches": [
+                {
+                    "id": "88ed5d3f-837a-4f1f-b2dd-f22f5d6230de",
+                    "name": "فرع الاحتراف 2"
+                }
+            ],
+            "collectionPoints": [
+                
+            ]
+        },
+        {
+            "id": "987b0793-98c1-432c-bc5c-782b9b97c46b",
+            "name": "تيست خدمة 2",
+            "nameAr": "تيست خدمة 2",
+            "nameEn": "test service 2",
+            "price": 10.00,
+            "isActive": true,
+            "serviceCategory": {
+                "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                "name": "تصنيف 2",
+                "nameAr": "تصنيف 2",
+                "nameEn": "4g60htnuibkvmag42paf",
+                "isActive": false
+            },
+            "laundry": {
+                "id": "b06b3f75-9fe1-4ade-bff1-675339c159b5",
+                "name": "مغسلة الاحتراف"
+            },
+            "branches": [
+                {
+                    "id": "88ed5d3f-837a-4f1f-b2dd-f22f5d6230de",
+                    "name": "فرع الاحتراف 2"
+                }
+            ],
+            "collectionPoints": [
+                
+            ]
+        },
+        {
+            "id": "0745cfa3-0ca2-4eed-b028-a67d5492b953",
+            "name": "نيو ميزة 1133",
+            "nameAr": "نيو ميزة 1133",
+            "nameEn": "new ",
+            "price": 111.00,
+            "isActive": true,
+            "serviceCategory": {
+                "id": "11f5d325-14be-4b7c-8a32-fd6680e7704a",
+                "name": "تصنيف 8",
+                "nameAr": "تصنيف 8",
+                "nameEn": "kgrj8nnfyovk1q0s336d",
+                "isActive": false
+            },
+            "laundry": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "branches": [
+                {
+                    "id": "a9e756d7-e3a7-49ef-be48-2ececc8bef45",
+                    "name": "Khaled Alaa 2"
+                },
+                {
+                    "id": "05377c05-7b0f-4f9e-a7b1-3d3745177a39",
+                    "name": "Khaled Alaa 3"
+                },
+                {
+                    "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                    "name": "string"
+                }
+            ],
+            "collectionPoints": [
+                {
+                    "id": "e0039a27-231e-4de6-d98a-08ddde1b5f42",
+                    "name": "Sample Service"
+                }
+            ]
+        },
+        {
+            "id": "81a14392-84e3-4db8-8fcf-a4fd28062879",
+            "name": "نيو ميزة 12",
+            "nameAr": "نيو ميزة 12",
+            "nameEn": "Delivery",
+            "price": 11.00,
+            "isActive": true,
+            "serviceCategory": {
+                "id": "11f5d325-14be-4b7c-8a32-fd6680e7704a",
+                "name": "تصنيف 8",
+                "nameAr": "تصنيف 8",
+                "nameEn": "kgrj8nnfyovk1q0s336d",
+                "isActive": false
+            },
+            "laundry": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "branches": [
+                {
+                    "id": "a9e756d7-e3a7-49ef-be48-2ececc8bef45",
+                    "name": "Khaled Alaa 2"
+                },
+                {
+                    "id": "05377c05-7b0f-4f9e-a7b1-3d3745177a39",
+                    "name": "Khaled Alaa 3"
+                },
+                {
+                    "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                    "name": "string"
+                }
+            ],
+            "collectionPoints": [
+                {
+                    "id": "e0039a27-231e-4de6-d98a-08ddde1b5f42",
+                    "name": "Sample Service"
+                }
+            ]
+        },
+        {
+            "id": "b10f9afc-2805-4e42-a4af-a42cf6a0c38a",
+            "name": "new",
+            "nameAr": "new",
+            "nameEn": "nw",
+            "price": 11.00,
+            "isActive": true,
+            "serviceCategory": {
+                "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                "name": "تصنيف 1",
+                "nameAr": "تصنيف 1",
+                "nameEn": "84itpp8s1v9d33dteohe",
+                "isActive": false
+            },
+            "laundry": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "branches": [
+                {
+                    "id": "05377c05-7b0f-4f9e-a7b1-3d3745177a39",
+                    "name": "Khaled Alaa 3"
+                }
+            ],
+            "collectionPoints": [
+                {
+                    "id": "e0039a27-231e-4de6-d98a-08ddde1b5f42",
+                    "name": "Sample Service"
+                }
+            ]
+        },
+        {
+            "id": "e679d686-48ae-4b5d-ae64-166d4986cb76",
+            "name": "خدمة 12",
+            "nameAr": "خدمة 12",
+            "nameEn": "211",
+            "price": 11.00,
+            "isActive": true,
+            "serviceCategory": {
+                "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                "name": "تصنيف 1",
+                "nameAr": "تصنيف 1",
+                "nameEn": "84itpp8s1v9d33dteohe",
+                "isActive": false
+            },
+            "laundry": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "branches": [
+                {
+                    "id": "a9e756d7-e3a7-49ef-be48-2ececc8bef45",
+                    "name": "Khaled Alaa 2"
+                },
+                {
+                    "id": "05377c05-7b0f-4f9e-a7b1-3d3745177a39",
+                    "name": "Khaled Alaa 3"
+                }
+            ],
+            "collectionPoints": [
+                {
+                    "id": "e0039a27-231e-4de6-d98a-08ddde1b5f42",
+                    "name": "Sample Service"
+                }
+            ]
+        },
+        {
+            "id": "f6b46db2-d207-44f9-a0d9-eb9dc520929e",
+            "name": "خدمة 14",
+            "nameAr": "خدمة 14",
+            "nameEn": "142",
+            "price": 11.00,
+            "isActive": true,
+            "serviceCategory": {
+                "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                "name": "تصنيف 1",
+                "nameAr": "تصنيف 1",
+                "nameEn": "84itpp8s1v9d33dteohe",
+                "isActive": false
+            },
+            "laundry": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "branches": [
+                {
+                    "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                    "name": "string"
+                }
+            ],
+            "collectionPoints": [
+                
+            ]
+        },
+        {
+            "id": "ccae7094-9eff-439c-a01e-0dbe7645544b",
+            "name": "خدمة 13",
+            "nameAr": "خدمة 13",
+            "nameEn": "32",
+            "price": 11.00,
+            "isActive": true,
+            "serviceCategory": {
+                "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                "name": "تصنيف 2",
+                "nameAr": "تصنيف 2",
+                "nameEn": "4g60htnuibkvmag42paf",
+                "isActive": false
+            },
+            "laundry": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "branches": [
+                {
+                    "id": "a9e756d7-e3a7-49ef-be48-2ececc8bef45",
+                    "name": "Khaled Alaa 2"
+                }
+            ],
+            "collectionPoints": [
+                {
+                    "id": "e0039a27-231e-4de6-d98a-08ddde1b5f42",
+                    "name": "Sample Service"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "totalRecords": 16,
+        "pageNumber": 1,
+        "pageSize": 10,
+        "totalPages": 2,
+        "hasNextPage": true,
+        "hasPreviousPage": false,
+        "isPaginated": true
+    }
+}

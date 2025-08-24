@@ -1,0 +1,1061 @@
+{
+    "success": true,
+    "message": null,
+    "data": [
+        {
+            "orderId": "38d2d10b-1c1e-4f68-88c5-08dde0b31737",
+            "orderNumber": "ORD-20250821-79FE0C",
+            "customer": {
+                "name": "Benefaciary Benefaciary Benefaciary Benefaciary",
+                "forceNo": "51",
+                "civilId": "66666003",
+                "phoneNumber": "66666003",
+                "rank": {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية"
+                },
+                "isInternal": true,
+                "address": {
+                    "id": "8fb5e891-2fd3-468c-8567-08dde0b096b3",
+                    "description": "TestUpdate FirstAddress for user",
+                    "location": null,
+                    "city": null,
+                    "state": null,
+                    "area": "الخوير",
+                    "latitude": 10,
+                    "longitude": 20
+                }
+            },
+            "customerType": "Internal",
+            "orderDate": "2025-08-21T16:03:14.9504707",
+            "servicesCount": 1,
+            "orderStatus": {
+                "id": 1,
+                "name": "قيد الانتظار",
+                "color": "#FFA500"
+            },
+            "paymentStatus": {
+                "id": 2,
+                "name": "غير مدفوع",
+                "color": "#FFA500"
+            },
+            "paymentType": {
+                "id": 2,
+                "name": "فيزا",
+                "color": "#FFA500"
+            },
+            "orderType": {
+                "id": 2,
+                "name": "استلام",
+                "color": "#1E90FF"
+            },
+            "assignment": {
+                "id": 0,
+                "name": "غير معيّن",
+                "color": "#6C757D"
+            },
+            "branchs": {
+                "id": "dea4c134-d326-4244-847f-1aa3ec3623c6",
+                "name": "Zeina test"
+            },
+            "collectionPoints": {
+                "id": "78ed35d7-b7d3-4315-bdaf-08ddd3dec4ba",
+                "name": "test"
+            },
+            "driverName": null,
+            "duration": "3 يوم",
+            "totalPrice": 0.00,
+            "subTotal": 0.00,
+            "vatAmount": 0,
+            "discountCode": "2025ZAM",
+            "taxAmount": 0,
+            "totalQuantities": 10,
+            "rate": null,
+            "isCollectionPointOrder": true,
+            "notes": [
+                {
+                    "id": "66f84492-ca4c-4c2e-8ac0-827ff95347ab",
+                    "noteText": "Test Adding order as benefacairy and address",
+                    "createdAt": "2025-08-21T16:03:14.9554333",
+                    "createdByUserId": "19024b1c-fbf9-4877-8e9d-5a5d9c180025",
+                    "createdByUserName": "Benefaciary Benefaciary Benefaciary Benefaciary",
+                    "createdByRole": "Beneficiary",
+                    "target": 0
+                }
+            ],
+            "deliveryStatus": {
+                "id": 1,
+                "name": "طلب جديد",
+                "color": "#FFA500"
+            },
+            "services": [
+                {
+                    "id": "773956a6-baed-4f28-89da-1562fe5d6076",
+                    "name": "خدمة 5",
+                    "unitPrice": 100.00,
+                    "quantity": 10,
+                    "category": {
+                        "id": "01b0a9b8-2e23-441f-9326-338e5a55c239",
+                        "name": "تصنيف 6"
+                    }
+                }
+            ],
+            "createdBy": {
+                "id": "19024b1c-fbf9-4877-8e9d-5a5d9c180025",
+                "name": "Benefaciary Benefaciary Benefaciary Benefaciary"
+            },
+            "laundry": {
+                "id": "b06b3f75-9fe1-4ade-bff1-675339c159b5",
+                "name": "مغسلة الاحتراف",
+                "whatAppNumber": "987654321"
+            }
+        },
+        {
+            "orderId": "0f7d9476-8a39-4a50-6039-08dddff1592a",
+            "orderNumber": "ORD-20250820-DAED7D",
+            "customer": {
+                "name": "Benefaciary Benefaciary Benefaciary Benefaciary",
+                "forceNo": "51",
+                "civilId": "66666003",
+                "phoneNumber": "66666003",
+                "rank": {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية"
+                },
+                "isInternal": true,
+                "address": null
+            },
+            "customerType": "Internal",
+            "orderDate": "2025-08-20T16:56:23.233489",
+            "servicesCount": 3,
+            "orderStatus": {
+                "id": 1,
+                "name": "قيد الانتظار",
+                "color": "#FFA500"
+            },
+            "paymentStatus": {
+                "id": 2,
+                "name": "غير مدفوع",
+                "color": "#FFA500"
+            },
+            "paymentType": {
+                "id": 2,
+                "name": "فيزا",
+                "color": "#FFA500"
+            },
+            "orderType": {
+                "id": 1,
+                "name": "توصيل ",
+                "color": "#28A745"
+            },
+            "assignment": {
+                "id": 0,
+                "name": "غير معيّن",
+                "color": "#6C757D"
+            },
+            "branchs": {
+                "id": "88ed5d3f-837a-4f1f-b2dd-f22f5d6230de",
+                "name": "فرع الاحتراف 2"
+            },
+            "collectionPoints": null,
+            "driverName": null,
+            "duration": "4 يوم",
+            "totalPrice": 0.00,
+            "subTotal": 0.00,
+            "vatAmount": 0,
+            "discountCode": null,
+            "taxAmount": 0,
+            "totalQuantities": 10,
+            "rate": null,
+            "isCollectionPointOrder": false,
+            "notes": [
+                
+            ],
+            "deliveryStatus": {
+                "id": 1,
+                "name": "طلب جديد",
+                "color": "#FFA500"
+            },
+            "services": [
+                {
+                    "id": "987b0793-98c1-432c-bc5c-782b9b97c46b",
+                    "name": "تيست خدمة 2",
+                    "unitPrice": 10.00,
+                    "quantity": 2,
+                    "category": {
+                        "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                        "name": "تصنيف 2"
+                    }
+                },
+                {
+                    "id": "aaf4953b-ecba-4654-be40-4023f4fe5b74",
+                    "name": "تيست خدمة 4",
+                    "unitPrice": 30.00,
+                    "quantity": 5,
+                    "category": {
+                        "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                        "name": "تصنيف 2"
+                    }
+                },
+                {
+                    "id": "47afa665-0087-4154-bd07-6e3a9aece88c",
+                    "name": "تيست خدمة 3",
+                    "unitPrice": 20.00,
+                    "quantity": 3,
+                    "category": {
+                        "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                        "name": "تصنيف 2"
+                    }
+                }
+            ],
+            "createdBy": {
+                "id": "19024b1c-fbf9-4877-8e9d-5a5d9c180025",
+                "name": "Benefaciary Benefaciary Benefaciary Benefaciary"
+            },
+            "laundry": {
+                "id": "b06b3f75-9fe1-4ade-bff1-675339c159b5",
+                "name": "مغسلة الاحتراف",
+                "whatAppNumber": "987654321"
+            }
+        },
+        {
+            "orderId": "3929b086-0b3a-4b62-a90c-08dddfeafc20",
+            "orderNumber": "ORD-20250820-35B04E",
+            "customer": {
+                "name": "Benefaciary Benefaciary Benefaciary Benefaciary",
+                "forceNo": "51",
+                "civilId": "66666003",
+                "phoneNumber": "66666003",
+                "rank": {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية"
+                },
+                "isInternal": true,
+                "address": null
+            },
+            "customerType": "Internal",
+            "orderDate": "2025-08-20T16:37:51.881455",
+            "servicesCount": 3,
+            "orderStatus": {
+                "id": 1,
+                "name": "قيد الانتظار",
+                "color": "#FFA500"
+            },
+            "paymentStatus": {
+                "id": 2,
+                "name": "غير مدفوع",
+                "color": "#FFA500"
+            },
+            "paymentType": {
+                "id": 2,
+                "name": "فيزا",
+                "color": "#FFA500"
+            },
+            "orderType": {
+                "id": 1,
+                "name": "توصيل ",
+                "color": "#28A745"
+            },
+            "assignment": {
+                "id": 0,
+                "name": "غير معيّن",
+                "color": "#6C757D"
+            },
+            "branchs": {
+                "id": "88ed5d3f-837a-4f1f-b2dd-f22f5d6230de",
+                "name": "فرع الاحتراف 2"
+            },
+            "collectionPoints": null,
+            "driverName": null,
+            "duration": "4 يوم",
+            "totalPrice": 0.00,
+            "subTotal": 0.00,
+            "vatAmount": 0,
+            "discountCode": null,
+            "taxAmount": 0,
+            "totalQuantities": 10,
+            "rate": null,
+            "isCollectionPointOrder": false,
+            "notes": [
+                
+            ],
+            "deliveryStatus": {
+                "id": 1,
+                "name": "طلب جديد",
+                "color": "#FFA500"
+            },
+            "services": [
+                {
+                    "id": "47afa665-0087-4154-bd07-6e3a9aece88c",
+                    "name": "تيست خدمة 3",
+                    "unitPrice": 20.00,
+                    "quantity": 3,
+                    "category": {
+                        "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                        "name": "تصنيف 2"
+                    }
+                },
+                {
+                    "id": "987b0793-98c1-432c-bc5c-782b9b97c46b",
+                    "name": "تيست خدمة 2",
+                    "unitPrice": 10.00,
+                    "quantity": 2,
+                    "category": {
+                        "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                        "name": "تصنيف 2"
+                    }
+                },
+                {
+                    "id": "aaf4953b-ecba-4654-be40-4023f4fe5b74",
+                    "name": "تيست خدمة 4",
+                    "unitPrice": 30.00,
+                    "quantity": 5,
+                    "category": {
+                        "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                        "name": "تصنيف 2"
+                    }
+                }
+            ],
+            "createdBy": {
+                "id": "19024b1c-fbf9-4877-8e9d-5a5d9c180025",
+                "name": "Benefaciary Benefaciary Benefaciary Benefaciary"
+            },
+            "laundry": {
+                "id": "b06b3f75-9fe1-4ade-bff1-675339c159b5",
+                "name": "مغسلة الاحتراف",
+                "whatAppNumber": "987654321"
+            }
+        },
+        {
+            "orderId": "2fa7d525-6c23-4766-a90b-08dddfeafc20",
+            "orderNumber": "ORD-20250820-6B2296",
+            "customer": {
+                "name": "Benefaciary Benefaciary Benefaciary Benefaciary",
+                "forceNo": "51",
+                "civilId": "66666003",
+                "phoneNumber": "66666003",
+                "rank": {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية"
+                },
+                "isInternal": true,
+                "address": null
+            },
+            "customerType": "Internal",
+            "orderDate": "2025-08-20T16:26:36.2613343",
+            "servicesCount": 3,
+            "orderStatus": {
+                "id": 1,
+                "name": "قيد الانتظار",
+                "color": "#FFA500"
+            },
+            "paymentStatus": {
+                "id": 2,
+                "name": "غير مدفوع",
+                "color": "#FFA500"
+            },
+            "paymentType": {
+                "id": 2,
+                "name": "فيزا",
+                "color": "#FFA500"
+            },
+            "orderType": {
+                "id": 1,
+                "name": "توصيل ",
+                "color": "#28A745"
+            },
+            "assignment": {
+                "id": 0,
+                "name": "غير معيّن",
+                "color": "#6C757D"
+            },
+            "branchs": {
+                "id": "88ed5d3f-837a-4f1f-b2dd-f22f5d6230de",
+                "name": "فرع الاحتراف 2"
+            },
+            "collectionPoints": null,
+            "driverName": null,
+            "duration": "4 يوم",
+            "totalPrice": 0.00,
+            "subTotal": 0.00,
+            "vatAmount": 0,
+            "discountCode": null,
+            "taxAmount": 0,
+            "totalQuantities": 10,
+            "rate": null,
+            "isCollectionPointOrder": false,
+            "notes": [
+                
+            ],
+            "deliveryStatus": {
+                "id": 1,
+                "name": "طلب جديد",
+                "color": "#FFA500"
+            },
+            "services": [
+                {
+                    "id": "aaf4953b-ecba-4654-be40-4023f4fe5b74",
+                    "name": "تيست خدمة 4",
+                    "unitPrice": 30.00,
+                    "quantity": 5,
+                    "category": {
+                        "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                        "name": "تصنيف 2"
+                    }
+                },
+                {
+                    "id": "47afa665-0087-4154-bd07-6e3a9aece88c",
+                    "name": "تيست خدمة 3",
+                    "unitPrice": 20.00,
+                    "quantity": 3,
+                    "category": {
+                        "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                        "name": "تصنيف 2"
+                    }
+                },
+                {
+                    "id": "987b0793-98c1-432c-bc5c-782b9b97c46b",
+                    "name": "تيست خدمة 2",
+                    "unitPrice": 10.00,
+                    "quantity": 2,
+                    "category": {
+                        "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                        "name": "تصنيف 2"
+                    }
+                }
+            ],
+            "createdBy": {
+                "id": "19024b1c-fbf9-4877-8e9d-5a5d9c180025",
+                "name": "Benefaciary Benefaciary Benefaciary Benefaciary"
+            },
+            "laundry": {
+                "id": "b06b3f75-9fe1-4ade-bff1-675339c159b5",
+                "name": "مغسلة الاحتراف",
+                "whatAppNumber": "987654321"
+            }
+        },
+        {
+            "orderId": "f4e01b7b-57d0-4b0f-a90a-08dddfeafc20",
+            "orderNumber": "ORD-20250820-E4F185",
+            "customer": {
+                "name": "Benefaciary Benefaciary Benefaciary Benefaciary",
+                "forceNo": "51",
+                "civilId": "66666003",
+                "phoneNumber": "66666003",
+                "rank": {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية"
+                },
+                "isInternal": true,
+                "address": null
+            },
+            "customerType": "Internal",
+            "orderDate": "2025-08-20T16:22:30.4371404",
+            "servicesCount": 3,
+            "orderStatus": {
+                "id": 1,
+                "name": "قيد الانتظار",
+                "color": "#FFA500"
+            },
+            "paymentStatus": {
+                "id": 2,
+                "name": "غير مدفوع",
+                "color": "#FFA500"
+            },
+            "paymentType": {
+                "id": 2,
+                "name": "فيزا",
+                "color": "#FFA500"
+            },
+            "orderType": {
+                "id": 1,
+                "name": "توصيل ",
+                "color": "#28A745"
+            },
+            "assignment": {
+                "id": 0,
+                "name": "غير معيّن",
+                "color": "#6C757D"
+            },
+            "branchs": {
+                "id": "88ed5d3f-837a-4f1f-b2dd-f22f5d6230de",
+                "name": "فرع الاحتراف 2"
+            },
+            "collectionPoints": null,
+            "driverName": null,
+            "duration": "4 يوم",
+            "totalPrice": 0.00,
+            "subTotal": 0.00,
+            "vatAmount": 0,
+            "discountCode": null,
+            "taxAmount": 0,
+            "totalQuantities": 6,
+            "rate": null,
+            "isCollectionPointOrder": false,
+            "notes": [
+                
+            ],
+            "deliveryStatus": {
+                "id": 1,
+                "name": "طلب جديد",
+                "color": "#FFA500"
+            },
+            "services": [
+                {
+                    "id": "aaf4953b-ecba-4654-be40-4023f4fe5b74",
+                    "name": "تيست خدمة 4",
+                    "unitPrice": 30.00,
+                    "quantity": 1,
+                    "category": {
+                        "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                        "name": "تصنيف 2"
+                    }
+                },
+                {
+                    "id": "47afa665-0087-4154-bd07-6e3a9aece88c",
+                    "name": "تيست خدمة 3",
+                    "unitPrice": 20.00,
+                    "quantity": 2,
+                    "category": {
+                        "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                        "name": "تصنيف 2"
+                    }
+                },
+                {
+                    "id": "987b0793-98c1-432c-bc5c-782b9b97c46b",
+                    "name": "تيست خدمة 2",
+                    "unitPrice": 10.00,
+                    "quantity": 3,
+                    "category": {
+                        "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                        "name": "تصنيف 2"
+                    }
+                }
+            ],
+            "createdBy": {
+                "id": "19024b1c-fbf9-4877-8e9d-5a5d9c180025",
+                "name": "Benefaciary Benefaciary Benefaciary Benefaciary"
+            },
+            "laundry": {
+                "id": "b06b3f75-9fe1-4ade-bff1-675339c159b5",
+                "name": "مغسلة الاحتراف",
+                "whatAppNumber": "987654321"
+            }
+        },
+        {
+            "orderId": "27ec2c20-cde6-4eae-a909-08dddfeafc20",
+            "orderNumber": "ORD-20250820-FFB1B1",
+            "customer": {
+                "name": "Benefaciary Benefaciary Benefaciary Benefaciary",
+                "forceNo": "51",
+                "civilId": "66666003",
+                "phoneNumber": "66666003",
+                "rank": {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية"
+                },
+                "isInternal": true,
+                "address": null
+            },
+            "customerType": "Internal",
+            "orderDate": "2025-08-20T16:10:49.2479404",
+            "servicesCount": 1,
+            "orderStatus": {
+                "id": 1,
+                "name": "قيد الانتظار",
+                "color": "#FFA500"
+            },
+            "paymentStatus": {
+                "id": 2,
+                "name": "غير مدفوع",
+                "color": "#FFA500"
+            },
+            "paymentType": {
+                "id": 2,
+                "name": "فيزا",
+                "color": "#FFA500"
+            },
+            "orderType": {
+                "id": 1,
+                "name": "توصيل ",
+                "color": "#28A745"
+            },
+            "assignment": {
+                "id": 0,
+                "name": "غير معيّن",
+                "color": "#6C757D"
+            },
+            "branchs": {
+                "id": "88ed5d3f-837a-4f1f-b2dd-f22f5d6230de",
+                "name": "فرع الاحتراف 2"
+            },
+            "collectionPoints": null,
+            "driverName": null,
+            "duration": "4 يوم",
+            "totalPrice": 0.00,
+            "subTotal": 0.00,
+            "vatAmount": 0,
+            "discountCode": null,
+            "taxAmount": 0,
+            "totalQuantities": 4,
+            "rate": null,
+            "isCollectionPointOrder": false,
+            "notes": [
+                
+            ],
+            "deliveryStatus": {
+                "id": 1,
+                "name": "طلب جديد",
+                "color": "#FFA500"
+            },
+            "services": [
+                {
+                    "id": "4196b7f9-6775-460c-b417-59fe56d69b69",
+                    "name": "تست ",
+                    "unitPrice": 20.00,
+                    "quantity": 4,
+                    "category": {
+                        "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                        "name": "تصنيف 2"
+                    }
+                }
+            ],
+            "createdBy": {
+                "id": "19024b1c-fbf9-4877-8e9d-5a5d9c180025",
+                "name": "Benefaciary Benefaciary Benefaciary Benefaciary"
+            },
+            "laundry": {
+                "id": "b06b3f75-9fe1-4ade-bff1-675339c159b5",
+                "name": "مغسلة الاحتراف",
+                "whatAppNumber": "987654321"
+            }
+        },
+        {
+            "orderId": "855f7555-e516-4584-8882-08ddde2357e1",
+            "orderNumber": "ORD-20250818-053746",
+            "customer": {
+                "name": "زينب",
+                "forceNo": null,
+                "civilId": "1231564656",
+                "phoneNumber": null,
+                "rank": null,
+                "isInternal": false,
+                "address": {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "description": "address",
+                    "location": null,
+                    "city": null,
+                    "state": null,
+                    "area": null,
+                    "latitude": null,
+                    "longitude": null
+                }
+            },
+            "customerType": "External",
+            "orderDate": "2025-08-18T09:49:13.603564",
+            "servicesCount": 2,
+            "orderStatus": {
+                "id": 1,
+                "name": "قيد الانتظار",
+                "color": "#FFA500"
+            },
+            "paymentStatus": {
+                "id": 2,
+                "name": "غير مدفوع",
+                "color": "#FFA500"
+            },
+            "paymentType": {
+                "id": 1,
+                "name": "كاش",
+                "color": "#1E90FF"
+            },
+            "orderType": {
+                "id": 1,
+                "name": "توصيل ",
+                "color": "#28A745"
+            },
+            "assignment": {
+                "id": 0,
+                "name": "غير معيّن",
+                "color": "#6C757D"
+            },
+            "branchs": {
+                "id": "dc453949-a4c8-4529-8138-14dc1a5db6e4",
+                "name": "فرع3"
+            },
+            "collectionPoints": null,
+            "driverName": null,
+            "duration": "7 يوم",
+            "totalPrice": 2916.00,
+            "subTotal": 1200.00,
+            "vatAmount": 60.00,
+            "discountCode": "string",
+            "taxAmount": 1656.00,
+            "totalQuantities": 20,
+            "rate": null,
+            "isCollectionPointOrder": false,
+            "notes": [
+                {
+                    "id": "fc493a5e-ae3a-4425-82e3-07105d81d182",
+                    "noteText": "string",
+                    "createdAt": "2025-08-18T09:49:13.6037743",
+                    "createdByUserId": "c9b05fcf-627b-43de-978f-27a05ecfdf61",
+                    "createdByUserName": "موظف مغسله Don'tDeletedplease",
+                    "createdByRole": "LaundaryStaff",
+                    "target": 0
+                }
+            ],
+            "deliveryStatus": {
+                "id": 1,
+                "name": "طلب جديد",
+                "color": "#FFA500"
+            },
+            "services": [
+                {
+                    "id": "2d28e642-76db-4073-8225-ab50efd8d5cc",
+                    "name": "خدمة 4",
+                    "unitPrice": 100.00,
+                    "quantity": 10,
+                    "category": {
+                        "id": "92e39cf7-7041-4fa9-a60c-903e11ee96dc",
+                        "name": "تصنيف 5"
+                    }
+                },
+                {
+                    "id": "4196b7f9-6775-460c-b417-59fe56d69b69",
+                    "name": "تست ",
+                    "unitPrice": 20.00,
+                    "quantity": 10,
+                    "category": {
+                        "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                        "name": "تصنيف 2"
+                    }
+                }
+            ],
+            "createdBy": {
+                "id": "c9b05fcf-627b-43de-978f-27a05ecfdf61",
+                "name": "موظف مغسله Don'tDeletedplease"
+            },
+            "laundry": {
+                "id": "b06b3f75-9fe1-4ade-bff1-675339c159b5",
+                "name": "مغسلة الاحتراف",
+                "whatAppNumber": "987654321"
+            }
+        },
+        {
+            "orderId": "3b8f4d67-8b48-4593-c331-08dddd768325",
+            "orderNumber": "ORD-20250817-DDBE48",
+            "customer": {
+                "name": "karim",
+                "forceNo": null,
+                "civilId": "123456",
+                "phoneNumber": null,
+                "rank": null,
+                "isInternal": false,
+                "address": {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "description": "address",
+                    "location": null,
+                    "city": null,
+                    "state": null,
+                    "area": null,
+                    "latitude": null,
+                    "longitude": null
+                }
+            },
+            "customerType": "External",
+            "orderDate": "2025-08-17T13:12:03.2569945",
+            "servicesCount": 1,
+            "orderStatus": {
+                "id": 1,
+                "name": "قيد الانتظار",
+                "color": "#FFA500"
+            },
+            "paymentStatus": {
+                "id": 2,
+                "name": "غير مدفوع",
+                "color": "#FFA500"
+            },
+            "paymentType": {
+                "id": 1,
+                "name": "كاش",
+                "color": "#1E90FF"
+            },
+            "orderType": {
+                "id": 1,
+                "name": "توصيل ",
+                "color": "#28A745"
+            },
+            "assignment": {
+                "id": 0,
+                "name": "غير معيّن",
+                "color": "#6C757D"
+            },
+            "branchs": {
+                "id": "17eef2e2-c29e-459e-963b-f0f503e9e789",
+                "name": "فرع اسواق الرعاية 1"
+            },
+            "collectionPoints": null,
+            "driverName": null,
+            "duration": "7 يوم",
+            "totalPrice": 336.00,
+            "subTotal": 200.00,
+            "vatAmount": 10.00,
+            "discountCode": "Code 22",
+            "taxAmount": 126.00,
+            "totalQuantities": 20,
+            "rate": null,
+            "isCollectionPointOrder": false,
+            "notes": [
+                {
+                    "id": "52df41f2-f944-4ccc-ae9c-13b70826c6af",
+                    "noteText": "string Notes ",
+                    "createdAt": "2025-08-17T13:12:03.2572639",
+                    "createdByUserId": "9543a89f-143e-45b6-9a09-1f2b03f6a982",
+                    "createdByUserName": "LaundryStaff",
+                    "createdByRole": "LaundaryStaff",
+                    "target": 0
+                }
+            ],
+            "deliveryStatus": {
+                "id": 1,
+                "name": "طلب جديد",
+                "color": "#FFA500"
+            },
+            "services": [
+                {
+                    "id": "5cd5c81c-fe91-4342-8ac7-5204cfae5145",
+                    "name": "خدمة 3",
+                    "unitPrice": 10.00,
+                    "quantity": 20,
+                    "category": {
+                        "id": "e267cf63-ca11-4325-9936-c7e9cd4f0507",
+                        "name": "تصنيف 4"
+                    }
+                }
+            ],
+            "createdBy": {
+                "id": "9543a89f-143e-45b6-9a09-1f2b03f6a982",
+                "name": "LaundryStaff"
+            },
+            "laundry": {
+                "id": "287bf4c7-a687-4044-8a45-eab3f7261b9e",
+                "name": "m0haopu87y",
+                "whatAppNumber": "6452652286"
+            }
+        },
+        {
+            "orderId": "b54a332d-51a9-4f88-7edc-08dddb050747",
+            "orderNumber": "ORD-20250814-190F3E",
+            "customer": {
+                "name": "string",
+                "forceNo": null,
+                "civilId": "123156",
+                "phoneNumber": null,
+                "rank": null,
+                "isInternal": false,
+                "address": {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "description": "bhjsbdfhvldsabfhsdbhluflbhlusdkagd",
+                    "location": null,
+                    "city": null,
+                    "state": null,
+                    "area": null,
+                    "latitude": null,
+                    "longitude": null
+                }
+            },
+            "customerType": "External",
+            "orderDate": "2025-08-14T10:34:39.9743663",
+            "servicesCount": 1,
+            "orderStatus": {
+                "id": 1,
+                "name": "قيد الانتظار",
+                "color": "#FFA500"
+            },
+            "paymentStatus": {
+                "id": 2,
+                "name": "غير مدفوع",
+                "color": "#FFA500"
+            },
+            "paymentType": {
+                "id": 1,
+                "name": "كاش",
+                "color": "#1E90FF"
+            },
+            "orderType": {
+                "id": 1,
+                "name": "توصيل ",
+                "color": "#28A745"
+            },
+            "assignment": {
+                "id": 0,
+                "name": "غير معيّن",
+                "color": "#6C757D"
+            },
+            "branchs": {
+                "id": "b38b4122-07b1-4443-bf7d-392b28764ea6",
+                "name": "فرع الاحتراف"
+            },
+            "collectionPoints": null,
+            "driverName": null,
+            "duration": "2 أسبوع",
+            "totalPrice": 918.00,
+            "subTotal": 600.00,
+            "vatAmount": 30.00,
+            "discountCode": "code",
+            "taxAmount": 288.00,
+            "totalQuantities": 6,
+            "rate": null,
+            "isCollectionPointOrder": false,
+            "notes": [
+                {
+                    "id": "88e6e082-ccba-4150-9aa6-44a3f64f8e0b",
+                    "noteText": "string",
+                    "createdAt": "2025-08-14T10:34:39.9745873",
+                    "createdByUserId": "9543a89f-143e-45b6-9a09-1f2b03f6a982",
+                    "createdByUserName": "LaundryStaff",
+                    "createdByRole": "LaundaryStaff",
+                    "target": 0
+                }
+            ],
+            "deliveryStatus": {
+                "id": 1,
+                "name": "طلب جديد",
+                "color": "#FFA500"
+            },
+            "services": [
+                {
+                    "id": "b3627b2a-22a4-4ff5-b279-2827c3929002",
+                    "name": "خدمة الاحتراف",
+                    "unitPrice": 100.00,
+                    "quantity": 6,
+                    "category": {
+                        "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                        "name": "تصنيف 1"
+                    }
+                }
+            ],
+            "createdBy": {
+                "id": "9543a89f-143e-45b6-9a09-1f2b03f6a982",
+                "name": "LaundryStaff"
+            },
+            "laundry": {
+                "id": "b06b3f75-9fe1-4ade-bff1-675339c159b5",
+                "name": "مغسلة الاحتراف",
+                "whatAppNumber": "987654321"
+            }
+        },
+        {
+            "orderId": "30241fed-474c-4e8c-6b6b-08ddd8b7b2b4",
+            "orderNumber": "ORD-20250811-3F7588",
+            "customer": {
+                "name": "string",
+                "forceNo": null,
+                "civilId": "123156",
+                "phoneNumber": null,
+                "rank": null,
+                "isInternal": false,
+                "address": {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "description": "bhjsbdfhvldsabfhsdbhluflbhlusdkagd",
+                    "location": null,
+                    "city": null,
+                    "state": null,
+                    "area": null,
+                    "latitude": null,
+                    "longitude": null
+                }
+            },
+            "customerType": "External",
+            "orderDate": "2025-08-11T12:16:04.5143078",
+            "servicesCount": 1,
+            "orderStatus": {
+                "id": 1,
+                "name": "قيد الانتظار",
+                "color": "#FFA500"
+            },
+            "paymentStatus": {
+                "id": 2,
+                "name": "غير مدفوع",
+                "color": "#FFA500"
+            },
+            "paymentType": {
+                "id": 1,
+                "name": "كاش",
+                "color": "#1E90FF"
+            },
+            "orderType": {
+                "id": 1,
+                "name": "توصيل ",
+                "color": "#28A745"
+            },
+            "assignment": {
+                "id": 0,
+                "name": "غير معيّن",
+                "color": "#6C757D"
+            },
+            "branchs": {
+                "id": "8dab9003-5563-49a3-a372-44040124965b",
+                "name": "Luke Merrill"
+            },
+            "collectionPoints": null,
+            "driverName": null,
+            "duration": "2 أسبوع",
+            "totalPrice": 18054.00,
+            "subTotal": 11800.00,
+            "vatAmount": 590.00,
+            "discountCode": "mkfdg15",
+            "taxAmount": 5664.00,
+            "totalQuantities": 50,
+            "rate": null,
+            "isCollectionPointOrder": false,
+            "notes": [
+                {
+                    "id": "19fa1c2f-7884-48c4-9921-46fa76250055",
+                    "noteText": "string",
+                    "createdAt": "2025-08-11T12:16:04.514566",
+                    "createdByUserId": "9543a89f-143e-45b6-9a09-1f2b03f6a982",
+                    "createdByUserName": "LaundryStaff",
+                    "createdByRole": "LaundaryStaff",
+                    "target": 0
+                }
+            ],
+            "deliveryStatus": {
+                "id": 1,
+                "name": "طلب جديد",
+                "color": "#FFA500"
+            },
+            "services": [
+                {
+                    "id": "d121d2b5-44ea-4d0c-b9c7-8b4c9b97b8c6",
+                    "name": "الخدمة (عربي) 3",
+                    "unitPrice": 236.00,
+                    "quantity": 50,
+                    "category": {
+                        "id": "ae813f30-ce01-4a39-a144-bf58d0e08c52",
+                        "name": "category 11082025"
+                    }
+                }
+            ],
+            "createdBy": {
+                "id": "9543a89f-143e-45b6-9a09-1f2b03f6a982",
+                "name": "LaundryStaff"
+            },
+            "laundry": {
+                "id": "deb96ed4-979b-4e27-99cc-a7f0e37b9c43",
+                "name": "First Laundry",
+                "whatAppNumber": "9630002511111"
+            }
+        }
+    ],
+    "pagination": {
+        "totalRecords": 15,
+        "pageNumber": 1,
+        "pageSize": 10,
+        "totalPages": 2,
+        "hasNextPage": true,
+        "hasPreviousPage": false,
+        "isPaginated": true
+    }
+}

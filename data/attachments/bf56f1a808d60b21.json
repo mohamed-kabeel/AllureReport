@@ -1,0 +1,16 @@
+{
+    "success": true,
+    "message": "تم التحديث بنجاح",
+    "data": [
+        "تم تحديث حالة الطلب بنجاح."
+    ],
+    "pagination": {
+        "totalRecords": 1,
+        "pageNumber": 1,
+        "pageSize": 1,
+        "totalPages": 1,
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "isPaginated": true
+    }
+}

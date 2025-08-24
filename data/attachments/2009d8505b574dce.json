@@ -1,0 +1,85 @@
+{
+    "success": true,
+    "message": null,
+    "data": [
+        {
+            "id": "9bfe6aec-f5a3-4cd7-a004-261a8e853208",
+            "name": "مضيضطشرلظج",
+            "nameAr": "مضيضطشرلظج",
+            "nameEN": "hajwxwk3rf",
+            "isActive": true
+        },
+        {
+            "id": "5a04dc4c-bd08-4580-ac78-6810bb72aa9c",
+            "name": "هذثبوكنلحه",
+            "nameAr": "هذثبوكنلحه",
+            "nameEN": "f3jytzxqzt",
+            "isActive": true
+        },
+        {
+            "id": "43454274-e9f6-4831-bc80-358aea3575de",
+            "name": "امثتدزحكظد",
+            "nameAr": "امثتدزحكظد",
+            "nameEN": "spdlat3l4x",
+            "isActive": true
+        },
+        {
+            "id": "3c43c4fa-a0af-4c5f-83bf-3c2d7496b057",
+            "name": "جررموبجفبق",
+            "nameAr": "جررموبجفبق",
+            "nameEN": "e80u66onew",
+            "isActive": true
+        },
+        {
+            "id": "a9cf85ba-e564-4b74-9c50-e8c025595cf4",
+            "name": "وخطفبخشثكه",
+            "nameAr": "وخطفبخشثكه",
+            "nameEN": "r712wt5x8i",
+            "isActive": true
+        },
+        {
+            "id": "8108484b-24a2-4aee-8230-12d066d3631a",
+            "name": "نستدجشصعتز",
+            "nameAr": "نستدجشصعتز",
+            "nameEN": "maiuxerdng",
+            "isActive": true
+        },
+        {
+            "id": "3994695d-8461-49d3-b89f-25fdd1ad181e",
+            "name": "ذرثنجارغخن",
+            "nameAr": "ذرثنجارغخن",
+            "nameEN": "fyqpsyicdp",
+            "isActive": true
+        },
+        {
+            "id": "11825891-4d55-4d98-90b0-64069347e16b",
+            "name": "يسدثدغسذجذ",
+            "nameAr": "يسدثدغسذجذ",
+            "nameEN": "5qycuj3y0r",
+            "isActive": true
+        },
+        {
+            "id": "f491d185-32fe-4023-945a-e6800da8c133",
+            "name": "هكثذاخكمزط",
+            "nameAr": "هكثذاخكمزط",
+            "nameEN": "upami0dgwl",
+            "isActive": true
+        },
+        {
+            "id": "2497ba62-db72-4c86-af70-f9d9e96d2ba9",
+            "name": "test ",
+            "nameAr": "test ",
+            "nameEN": "test2",
+            "isActive": true
+        }
+    ],
+    "pagination": {
+        "totalRecords": 10,
+        "pageNumber": 1,
+        "pageSize": 10,
+        "totalPages": 1,
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "isPaginated": true
+    }
+}

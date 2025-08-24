@@ -1,0 +1,14 @@
+{
+    "type": "https://tools.ietf.org/html/rfc9110#section-15.5.1",
+    "title": "One or more validation errors occurred.",
+    "status": 400,
+    "errors": {
+        "dto": [
+            "The dto field is required."
+        ],
+        "$.subPermissionIds[0]": [
+            "The JSON value could not be converted to System.Guid. Path: $.subPermissionIds[0] | LineNumber: 4 | BytePositionInLine: 6."
+        ]
+    },
+    "traceId": "00-863c22d0b46a0a93b767c0639ecd13ff-57f1a176a7a1e868-00"
+}

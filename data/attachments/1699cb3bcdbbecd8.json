@@ -1,0 +1,76 @@
+{
+    "success": true,
+    "message": "تم تحديث الخصم بنجاح.",
+    "data": {
+        "id": "04f47ab5-75e9-4ddc-a56c-08dde2df113a",
+        "name": "كوحظقشفموح",
+        "nameAr": "كوحظقشفموح",
+        "nameEn": "yuq6mi",
+        "type": {
+            "id": 1,
+            "name": "خصم",
+            "color": "#007bff"
+        },
+        "coupon": "k4jkup",
+        "fromDate": "2025-08-17T08:14:52.56Z",
+        "toDate": "2025-08-30T08:14:52.56Z",
+        "value": 230,
+        "valueType": {
+            "id": 2,
+            "name": "مبلغ",
+            "color": "#007bff"
+        },
+        "isActive": true,
+        "laundary": {
+            "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+            "name": "hef71cityz"
+        },
+        "quantity": 2,
+        "createdAt": "2025-08-24T10:23:05.1104642",
+        "ranks": [
+            {
+                "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                "name": "رتبة تجريبية",
+                "nameEn": "Test Rank",
+                "nameAr": "رتبة تجريبية"
+            }
+        ],
+        "categories": [
+            {
+                "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                "name": "تصنيف 1",
+                "nameAr": "تصنيف 1",
+                "nameEn": "84itpp8s1v9d33dteohe",
+                "services": [
+                    {
+                        "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                        "name": "خدمة 443",
+                        "nameAr": "خدمة 443",
+                        "nameEn": "new ",
+                        "price": 11.00,
+                        "branch": {
+                            "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                            "name": "string"
+                        }
+                    }
+                ]
+            }
+        ],
+        "beneficiaries": [
+            {
+                "id": "72d2e920-627e-4f63-9aed-e4ab08da3ffe",
+                "name": "زينب ",
+                "nameAr": "Benefaciary Benefaciary Benefaciary",
+                "nameEn": "Benefaciary2 Benefaciary2 Benefaciary2",
+                "identityNo": "66666002",
+                "email": "52@rop.gov.ps",
+                "photo": "Uploads/Default.png",
+                "phoneNumber": "66666002",
+                "forceNo": "52"
+            }
+        ]
+    },
+    "errors": null,
+    "pagination": null,
+    "statusCode": 200
+}

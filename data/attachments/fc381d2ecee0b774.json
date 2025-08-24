@@ -1,0 +1,24 @@
+{
+    "success": true,
+    "message": "تم جلب حالات الفروع بنجاح.",
+    "data": [
+        {
+            "id": 1,
+            "name": "Activated",
+            "displayName": null
+        },
+        {
+            "id": 2,
+            "name": "DeActivated",
+            "displayName": null
+        },
+        {
+            "id": 3,
+            "name": "Unavailable",
+            "displayName": null
+        }
+    ],
+    "errors": null,
+    "pagination": null,
+    "statusCode": 200
+}

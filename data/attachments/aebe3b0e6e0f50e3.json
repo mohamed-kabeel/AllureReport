@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "message": "تم تحديث المرفق بنجاح.",
+    "data": {
+        "id": "7c53f87e-905f-4a6b-ec1c-08dde2df1a2b",
+        "description": "Porro similique quam cumque id quia.",
+        "type": "autem",
+        "isGallery": true,
+        "url": "Uploads/LaundaryAttachments/test_b8105a0f-d0fa-4b34-9316-6929912bfe9d.jpeg",
+        "createdAt": "2025-08-24T10:23:20.1006734"
+    },
+    "errors": null,
+    "pagination": null,
+    "statusCode": 200
+}

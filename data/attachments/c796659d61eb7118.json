@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "message": "تم تحديث المرفق بنجاح.",
+    "data": {
+        "id": "dc6d0cdc-440e-434d-6059-08dde2d51a55",
+        "description": "Non ipsam in.",
+        "type": "laborum",
+        "isGallery": true,
+        "url": "Uploads/LaundaryAttachments/test_f5c5c1ae-ad20-4f27-99d5-4f08f0b23252.jpeg",
+        "createdAt": "2025-08-24T09:25:40.0966907"
+    },
+    "errors": null,
+    "pagination": null,
+    "statusCode": 200
+}

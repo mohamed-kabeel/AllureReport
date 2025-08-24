@@ -1,0 +1,31 @@
+{
+    "id": "16e5ebd5-70a4-4292-b11e-b4a0c6d33a5c",
+    "name": "عشركضحصنحم",
+    "nameAr": "عشركضحصنحم",
+    "nameEn": "4l5qp48lak",
+    "price": 100.00,
+    "isActive": true,
+    "serviceCategory": {
+        "id": "8b76f6b8-798e-4c48-80f1-8ae0571825b2",
+        "name": "مدعذضيذدوت",
+        "nameAr": "مدعذضيذدوت",
+        "nameEn": "f1ki5ixt57o4r9u145vt",
+        "isActive": true
+    },
+    "laundry": {
+        "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+        "name": "hef71cityz"
+    },
+    "branches": [
+        {
+            "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+            "name": "string"
+        }
+    ],
+    "collectionPoints": [
+        {
+            "id": "e0039a27-231e-4de6-d98a-08ddde1b5f42",
+            "name": "Sample Service"
+        }
+    ]
+}

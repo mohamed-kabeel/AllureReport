@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "message": "تم جلب نقطة التجميع بنجاح.",
+    "data": {
+        "id": "e57eb46f-1d97-4856-4c77-08dde2d5164a",
+        "name": "oo6l5c15iz",
+        "city": "مسقط",
+        "description": "99skgizxyl",
+        "location": "zhxw91cu52gao9cwqb9qmcqrm0vral",
+        "state": "بوشر",
+        "area": "روي",
+        "address": null,
+        "phoneNumber": "4444004401",
+        "laundaryId": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+        "collectionPointsStatus": 1,
+        "branchInfos": [
+            {
+                "branchId": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                "branchName": "string"
+            }
+        ],
+        "orderCount": 0
+    },
+    "errors": null,
+    "pagination": null,
+    "statusCode": 200
+}

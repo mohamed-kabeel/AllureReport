@@ -1,0 +1,38 @@
+{
+    "success": true,
+    "message": "تم الجلب بنجاح",
+    "data": [
+        {
+            "id": "24a80717-2950-45a9-95f7-fa678eba5dc9",
+            "branches": [
+                {
+                    "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                    "name": "string"
+                }
+            ],
+            "collectionPoints": [
+                {
+                    "id": "e0039a27-231e-4de6-d98a-08ddde1b5f42",
+                    "name": "Sample Service"
+                }
+            ],
+            "laundry": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "days": "monday",
+            "from": "12:00 ص",
+            "to": "12:00 ص",
+            "isActive": false
+        }
+    ],
+    "pagination": {
+        "totalRecords": 1,
+        "pageNumber": 1,
+        "pageSize": 1,
+        "totalPages": 1,
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "isPaginated": true
+    }
+}

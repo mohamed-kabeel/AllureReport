@@ -1,0 +1,1 @@
+https://staging-api-laundry.rieaya.live/api/PackageSubscriptions/subscribe/2f204692-3081-43df-158d-08ddd33666c1

@@ -1,0 +1,11 @@
+{
+  "categoryId": "8b76f6b8-798e-4c48-80f1-8ae0571825b2",
+  "laundryId": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+  "branchIds": ["ea46dde6-47ef-4019-946b-f92161b1f3f4"],
+  "collectionPointIds": ["e0039a27-231e-4de6-d98a-08ddde1b5f42"],
+  "services": [{
+      "serviceNameAr": "عشركضحصنحم",
+      "serviceNameEn": "4l5qp48lak",
+      "price": 100
+  }]
+}

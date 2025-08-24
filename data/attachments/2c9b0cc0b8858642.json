@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "message": null,
+    "data": [
+        {
+            "nameAr": "مضيضطشرلظج",
+            "nameEN": "hajwxwk3rf"
+        }
+    ],
+    "pagination": {
+        "totalRecords": 1,
+        "pageNumber": 1,
+        "pageSize": 1,
+        "totalPages": 1,
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "isPaginated": true
+    }
+}

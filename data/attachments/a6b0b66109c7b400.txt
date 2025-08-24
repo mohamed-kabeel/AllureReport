@@ -1,0 +1,1 @@
+https://staging-api-laundry.rieaya.live/api/LaundaryService/toggle-active/c22c5f86-f48a-4944-a869-ce505b86a3b8

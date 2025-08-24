@@ -1,0 +1,1 @@
+https://staging-api-laundry.rieaya.live/api/LaundryCities/toggle-activation/519155a0-3996-4cfd-6cf1-08dde2d52094

@@ -1,0 +1,15 @@
+{
+  "name": "du1qkfupdk",
+  "userIds": null,
+  "typeOfRank": "all",
+  "isAllRanks": true,
+  "rankIds": null,
+  "typeOfService": "all",
+  "serviceIds": null,
+  "privilegeIds": [
+    "a9cf85ba-e564-4b74-9c50-e8c025595cf4",
+    "8108484b-24a2-4aee-8230-12d066d3631a"
+  ],
+  "isActive": true,
+  "isAllServices": true
+}

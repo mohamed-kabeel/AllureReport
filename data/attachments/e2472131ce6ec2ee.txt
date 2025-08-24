@@ -1,0 +1,30 @@
+{
+  "beneficiaries": [
+    "72d2e920-627e-4f63-9aed-e4ab08da3ffe"
+  ],
+  "coupon": "k5xb8l",
+  "fromDate": "2025-08-17T08:14:52.560Z",
+  "isActive": true,
+  "nameAr": "عفقثخزغدلت",
+  "nameEn": "ukcrzl",
+  "ranks": [
+    "d192a9f7-b8d6-4b15-828b-3d37cc4407a2"
+  ],
+  "serviceCategories": [
+    {
+      "categoryId": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+      "services": [
+        {
+          "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+          "branchId": "ea46dde6-47ef-4019-946b-f92161b1f3f4"
+        , "note": "Soluta occaecati eum inventore." }
+      ]
+    , "note": "Soluta occaecati eum inventore." }
+  ],
+  "toDate": "2025-08-30T08:14:52.560Z",
+  "type": 1,
+  "value": 2,
+  "valueType": 1,
+  "quantity": 2,
+  "note": "32ltcq"
+, "note": "Soluta occaecati eum inventore." }

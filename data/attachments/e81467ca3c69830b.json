@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "message": null,
+    "data": [
+        {
+            "id": "9bfe6aec-f5a3-4cd7-a004-261a8e853208",
+            "name": "مضيضطشرلظج",
+            "nameAr": "مضيضطشرلظج",
+            "nameEN": "hajwxwk3rf",
+            "isActive": true
+        }
+    ],
+    "pagination": {
+        "totalRecords": 1,
+        "pageNumber": 1,
+        "pageSize": 1,
+        "totalPages": 1,
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "isPaginated": true
+    }
+}

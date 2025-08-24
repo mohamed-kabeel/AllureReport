@@ -1,0 +1,902 @@
+{
+    "success": true,
+    "message": null,
+    "data": [
+        {
+            "id": "2d5be3ab-0de2-4fd5-9cba-7775219ec6bc",
+            "orderId": "e9e2461c-bb8b-43ae-9c76-08dde2d53359",
+            "invoiceNumber": "INV-20250824-9DEE74",
+            "createdAt": "2025-08-24T09:26:17.9095083",
+            "orderNumber": "ORD-20250824-2BE617",
+            "orderStatus": {
+                "id": 2,
+                "name": "في الطريق إلى المغسلة",
+                "color": "#1E90FF"
+            },
+            "paymentStatus": {
+                "id": 2,
+                "name": "غير مدفوع",
+                "color": "#FFA500"
+            },
+            "deliveryStatus": null,
+            "paymentMethod": {
+                "id": 1,
+                "name": "كاش",
+                "color": "#1E90FF"
+            },
+            "orderType": {
+                "id": 2,
+                "name": "استلام",
+                "color": "#1E90FF"
+            },
+            "customerType": "External",
+            "customer": {
+                "name": "Jon Nader",
+                "forceNo": null,
+                "civilId": "string",
+                "phoneNumber": null,
+                "rank": null,
+                "isInternal": false,
+                "address": {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "description": "Suite 136 4174 Jina Squares, Bednarside, IL 12081-3251",
+                    "location": null,
+                    "city": null,
+                    "state": null,
+                    "area": null,
+                    "latitude": null,
+                    "longitude": null
+                }
+            },
+            "branchs": {
+                "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                "name": "string"
+            },
+            "collectionPoints": null,
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz",
+                "whatAppNumber": "1960281421"
+            },
+            "driverName": null,
+            "createdBy": {
+                "id": "9543a89f-143e-45b6-9a09-1f2b03f6a982",
+                "name": "LaundryStaff"
+            },
+            "duration": "57 دقيقة",
+            "totalItemsQuantity": 1,
+            "subTotal": 11.00,
+            "tax": 0.33,
+            "vat": 0.55,
+            "discount": null,
+            "total": 11.88,
+            "notes": "rezfgdm9b5c8zhyxss1q",
+            "services": [
+                {
+                    "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                    "name": "خدمة 443",
+                    "unitPrice": 11.00,
+                    "quantity": 1,
+                    "category": {
+                        "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                        "name": "تصنيف 1"
+                    }
+                }
+            ],
+            "recievedDate": null,
+            "completedDate": null
+        },
+        {
+            "id": "ad39c5a8-7380-4ecf-a40c-618d34d359e4",
+            "orderId": "1aec110b-01d8-4f50-9c75-08dde2d53359",
+            "invoiceNumber": "INV-20250824-D408BD",
+            "createdAt": "2025-08-24T09:12:27.4547983",
+            "orderNumber": "ORD-20250824-8B0FF8",
+            "orderStatus": {
+                "id": 2,
+                "name": "في الطريق إلى المغسلة",
+                "color": "#1E90FF"
+            },
+            "paymentStatus": {
+                "id": 1,
+                "name": "مدفوع",
+                "color": "#1E90FF"
+            },
+            "deliveryStatus": null,
+            "paymentMethod": {
+                "id": 1,
+                "name": "كاش",
+                "color": "#1E90FF"
+            },
+            "orderType": {
+                "id": 2,
+                "name": "استلام",
+                "color": "#1E90FF"
+            },
+            "customerType": "External",
+            "customer": {
+                "name": "Jon Nader",
+                "forceNo": null,
+                "civilId": "string",
+                "phoneNumber": null,
+                "rank": null,
+                "isInternal": false,
+                "address": {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "description": "Suite 136 4174 Jina Squares, Bednarside, IL 12081-3251",
+                    "location": null,
+                    "city": null,
+                    "state": null,
+                    "area": null,
+                    "latitude": null,
+                    "longitude": null
+                }
+            },
+            "branchs": {
+                "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                "name": "string"
+            },
+            "collectionPoints": null,
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz",
+                "whatAppNumber": "1960281421"
+            },
+            "driverName": null,
+            "createdBy": {
+                "id": "9543a89f-143e-45b6-9a09-1f2b03f6a982",
+                "name": "LaundryStaff"
+            },
+            "duration": "1 ساعة",
+            "totalItemsQuantity": 1,
+            "subTotal": 11.00,
+            "tax": 0.33,
+            "vat": 0.55,
+            "discount": null,
+            "total": 11.88,
+            "notes": "xym2ftmh1x91hzcnsi4j",
+            "services": [
+                {
+                    "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                    "name": "خدمة 443",
+                    "unitPrice": 11.00,
+                    "quantity": 1,
+                    "category": {
+                        "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                        "name": "تصنيف 1"
+                    }
+                }
+            ],
+            "recievedDate": null,
+            "completedDate": null
+        },
+        {
+            "id": "bb300682-cdb2-4384-95ee-dd66d7dbb8cc",
+            "orderId": "38d2d10b-1c1e-4f68-88c5-08dde0b31737",
+            "invoiceNumber": "INV-20250821-2AACFC",
+            "createdAt": "2025-08-21T16:03:15.9084531",
+            "orderNumber": "ORD-20250821-79FE0C",
+            "orderStatus": {
+                "id": 1,
+                "name": "قيد الانتظار",
+                "color": "#FFA500"
+            },
+            "paymentStatus": {
+                "id": 1,
+                "name": "مدفوع",
+                "color": "#1E90FF"
+            },
+            "deliveryStatus": null,
+            "paymentMethod": {
+                "id": 2,
+                "name": "فيزا",
+                "color": "#FFA500"
+            },
+            "orderType": {
+                "id": 2,
+                "name": "استلام",
+                "color": "#1E90FF"
+            },
+            "customerType": "Internal",
+            "customer": {
+                "name": "Benefaciary Benefaciary Benefaciary Benefaciary",
+                "forceNo": "51",
+                "civilId": "66666003",
+                "phoneNumber": "66666003",
+                "rank": {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية"
+                },
+                "isInternal": true,
+                "address": null
+            },
+            "branchs": {
+                "id": "dea4c134-d326-4244-847f-1aa3ec3623c6",
+                "name": "Zeina test"
+            },
+            "collectionPoints": {
+                "id": "78ed35d7-b7d3-4315-bdaf-08ddd3dec4ba",
+                "name": "test"
+            },
+            "laundary": {
+                "id": "b06b3f75-9fe1-4ade-bff1-675339c159b5",
+                "name": "مغسلة الاحتراف",
+                "whatAppNumber": "987654321"
+            },
+            "driverName": null,
+            "createdBy": {
+                "id": "19024b1c-fbf9-4877-8e9d-5a5d9c180025",
+                "name": "Benefaciary Benefaciary Benefaciary Benefaciary"
+            },
+            "duration": "2 يوم",
+            "totalItemsQuantity": 10,
+            "subTotal": 0.00,
+            "tax": null,
+            "vat": null,
+            "discount": null,
+            "total": 0.00,
+            "notes": null,
+            "services": [
+                {
+                    "id": "773956a6-baed-4f28-89da-1562fe5d6076",
+                    "name": "خدمة 5",
+                    "unitPrice": 100.00,
+                    "quantity": 10,
+                    "category": {
+                        "id": "01b0a9b8-2e23-441f-9326-338e5a55c239",
+                        "name": "تصنيف 6"
+                    }
+                }
+            ],
+            "recievedDate": null,
+            "completedDate": null
+        },
+        {
+            "id": "fc110366-1ba3-442b-832d-e901cff87168",
+            "orderId": "0469bfa3-20b2-431f-a6f2-08dddff1a3d3",
+            "invoiceNumber": "INV-20250820-FEBF71",
+            "createdAt": "2025-08-20T16:58:28.5746843",
+            "orderNumber": "ORD-20250820-687743",
+            "orderStatus": {
+                "id": 2,
+                "name": "في الطريق إلى المغسلة",
+                "color": "#1E90FF"
+            },
+            "paymentStatus": {
+                "id": 2,
+                "name": "غير مدفوع",
+                "color": "#FFA500"
+            },
+            "deliveryStatus": null,
+            "paymentMethod": {
+                "id": 1,
+                "name": "كاش",
+                "color": "#1E90FF"
+            },
+            "orderType": {
+                "id": 2,
+                "name": "استلام",
+                "color": "#1E90FF"
+            },
+            "customerType": "External",
+            "customer": {
+                "name": "Jon Nader",
+                "forceNo": null,
+                "civilId": "string",
+                "phoneNumber": null,
+                "rank": null,
+                "isInternal": false,
+                "address": {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "description": "Suite 136 4174 Jina Squares, Bednarside, IL 12081-3251",
+                    "location": null,
+                    "city": null,
+                    "state": null,
+                    "area": null,
+                    "latitude": null,
+                    "longitude": null
+                }
+            },
+            "branchs": {
+                "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                "name": "string"
+            },
+            "collectionPoints": null,
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz",
+                "whatAppNumber": "1960281421"
+            },
+            "driverName": null,
+            "createdBy": {
+                "id": "9543a89f-143e-45b6-9a09-1f2b03f6a982",
+                "name": "LaundryStaff"
+            },
+            "duration": "3 يوم",
+            "totalItemsQuantity": 1,
+            "subTotal": 11.00,
+            "tax": 0.33,
+            "vat": 0.55,
+            "discount": null,
+            "total": 11.88,
+            "notes": "uvll8z7kth0xo3qs2te8",
+            "services": [
+                {
+                    "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                    "name": "خدمة 443",
+                    "unitPrice": 11.00,
+                    "quantity": 1,
+                    "category": {
+                        "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                        "name": "تصنيف 1"
+                    }
+                }
+            ],
+            "recievedDate": null,
+            "completedDate": null
+        },
+        {
+            "id": "a5a2d078-f85a-4871-b8a2-2b9dd2964abb",
+            "orderId": "0f7d9476-8a39-4a50-6039-08dddff1592a",
+            "invoiceNumber": "INV-20250820-B74F14",
+            "createdAt": "2025-08-20T16:56:23.7852148",
+            "orderNumber": "ORD-20250820-DAED7D",
+            "orderStatus": {
+                "id": 1,
+                "name": "قيد الانتظار",
+                "color": "#FFA500"
+            },
+            "paymentStatus": {
+                "id": 1,
+                "name": "مدفوع",
+                "color": "#1E90FF"
+            },
+            "deliveryStatus": null,
+            "paymentMethod": {
+                "id": 2,
+                "name": "فيزا",
+                "color": "#FFA500"
+            },
+            "orderType": {
+                "id": 1,
+                "name": "توصيل ",
+                "color": "#28A745"
+            },
+            "customerType": "Internal",
+            "customer": {
+                "name": "Benefaciary Benefaciary Benefaciary Benefaciary",
+                "forceNo": "51",
+                "civilId": "66666003",
+                "phoneNumber": "66666003",
+                "rank": {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية"
+                },
+                "isInternal": true,
+                "address": null
+            },
+            "branchs": {
+                "id": "88ed5d3f-837a-4f1f-b2dd-f22f5d6230de",
+                "name": "فرع الاحتراف 2"
+            },
+            "collectionPoints": null,
+            "laundary": {
+                "id": "b06b3f75-9fe1-4ade-bff1-675339c159b5",
+                "name": "مغسلة الاحتراف",
+                "whatAppNumber": "987654321"
+            },
+            "driverName": null,
+            "createdBy": {
+                "id": "19024b1c-fbf9-4877-8e9d-5a5d9c180025",
+                "name": "Benefaciary Benefaciary Benefaciary Benefaciary"
+            },
+            "duration": "3 يوم",
+            "totalItemsQuantity": 10,
+            "subTotal": 0.00,
+            "tax": null,
+            "vat": null,
+            "discount": null,
+            "total": 0.00,
+            "notes": null,
+            "services": [
+                {
+                    "id": "987b0793-98c1-432c-bc5c-782b9b97c46b",
+                    "name": "تيست خدمة 2",
+                    "unitPrice": 10.00,
+                    "quantity": 2,
+                    "category": {
+                        "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                        "name": "تصنيف 2"
+                    }
+                },
+                {
+                    "id": "aaf4953b-ecba-4654-be40-4023f4fe5b74",
+                    "name": "تيست خدمة 4",
+                    "unitPrice": 30.00,
+                    "quantity": 5,
+                    "category": {
+                        "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                        "name": "تصنيف 2"
+                    }
+                },
+                {
+                    "id": "47afa665-0087-4154-bd07-6e3a9aece88c",
+                    "name": "تيست خدمة 3",
+                    "unitPrice": 20.00,
+                    "quantity": 3,
+                    "category": {
+                        "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                        "name": "تصنيف 2"
+                    }
+                }
+            ],
+            "recievedDate": null,
+            "completedDate": null
+        },
+        {
+            "id": "b67a02c6-0854-474e-8014-03e9aea12b9e",
+            "orderId": "3929b086-0b3a-4b62-a90c-08dddfeafc20",
+            "invoiceNumber": "INV-20250820-9E5863",
+            "createdAt": "2025-08-20T16:37:52.2509718",
+            "orderNumber": "ORD-20250820-35B04E",
+            "orderStatus": {
+                "id": 1,
+                "name": "قيد الانتظار",
+                "color": "#FFA500"
+            },
+            "paymentStatus": {
+                "id": 2,
+                "name": "غير مدفوع",
+                "color": "#FFA500"
+            },
+            "deliveryStatus": null,
+            "paymentMethod": {
+                "id": 2,
+                "name": "فيزا",
+                "color": "#FFA500"
+            },
+            "orderType": {
+                "id": 1,
+                "name": "توصيل ",
+                "color": "#28A745"
+            },
+            "customerType": "Internal",
+            "customer": {
+                "name": "Benefaciary Benefaciary Benefaciary Benefaciary",
+                "forceNo": "51",
+                "civilId": "66666003",
+                "phoneNumber": "66666003",
+                "rank": {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية"
+                },
+                "isInternal": true,
+                "address": null
+            },
+            "branchs": {
+                "id": "88ed5d3f-837a-4f1f-b2dd-f22f5d6230de",
+                "name": "فرع الاحتراف 2"
+            },
+            "collectionPoints": null,
+            "laundary": {
+                "id": "b06b3f75-9fe1-4ade-bff1-675339c159b5",
+                "name": "مغسلة الاحتراف",
+                "whatAppNumber": "987654321"
+            },
+            "driverName": null,
+            "createdBy": {
+                "id": "19024b1c-fbf9-4877-8e9d-5a5d9c180025",
+                "name": "Benefaciary Benefaciary Benefaciary Benefaciary"
+            },
+            "duration": "3 يوم",
+            "totalItemsQuantity": 10,
+            "subTotal": 0.00,
+            "tax": null,
+            "vat": null,
+            "discount": null,
+            "total": 0.00,
+            "notes": null,
+            "services": [
+                {
+                    "id": "47afa665-0087-4154-bd07-6e3a9aece88c",
+                    "name": "تيست خدمة 3",
+                    "unitPrice": 20.00,
+                    "quantity": 3,
+                    "category": {
+                        "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                        "name": "تصنيف 2"
+                    }
+                },
+                {
+                    "id": "987b0793-98c1-432c-bc5c-782b9b97c46b",
+                    "name": "تيست خدمة 2",
+                    "unitPrice": 10.00,
+                    "quantity": 2,
+                    "category": {
+                        "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                        "name": "تصنيف 2"
+                    }
+                },
+                {
+                    "id": "aaf4953b-ecba-4654-be40-4023f4fe5b74",
+                    "name": "تيست خدمة 4",
+                    "unitPrice": 30.00,
+                    "quantity": 5,
+                    "category": {
+                        "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                        "name": "تصنيف 2"
+                    }
+                }
+            ],
+            "recievedDate": null,
+            "completedDate": null
+        },
+        {
+            "id": "ae0a7756-4ede-4b3b-a8a7-fd20be904d51",
+            "orderId": "2fa7d525-6c23-4766-a90b-08dddfeafc20",
+            "invoiceNumber": "INV-20250820-84A109",
+            "createdAt": "2025-08-20T16:26:37.8182735",
+            "orderNumber": "ORD-20250820-6B2296",
+            "orderStatus": {
+                "id": 1,
+                "name": "قيد الانتظار",
+                "color": "#FFA500"
+            },
+            "paymentStatus": {
+                "id": 2,
+                "name": "غير مدفوع",
+                "color": "#FFA500"
+            },
+            "deliveryStatus": null,
+            "paymentMethod": {
+                "id": 2,
+                "name": "فيزا",
+                "color": "#FFA500"
+            },
+            "orderType": {
+                "id": 1,
+                "name": "توصيل ",
+                "color": "#28A745"
+            },
+            "customerType": "Internal",
+            "customer": {
+                "name": "Benefaciary Benefaciary Benefaciary Benefaciary",
+                "forceNo": "51",
+                "civilId": "66666003",
+                "phoneNumber": "66666003",
+                "rank": {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية"
+                },
+                "isInternal": true,
+                "address": null
+            },
+            "branchs": {
+                "id": "88ed5d3f-837a-4f1f-b2dd-f22f5d6230de",
+                "name": "فرع الاحتراف 2"
+            },
+            "collectionPoints": null,
+            "laundary": {
+                "id": "b06b3f75-9fe1-4ade-bff1-675339c159b5",
+                "name": "مغسلة الاحتراف",
+                "whatAppNumber": "987654321"
+            },
+            "driverName": null,
+            "createdBy": {
+                "id": "19024b1c-fbf9-4877-8e9d-5a5d9c180025",
+                "name": "Benefaciary Benefaciary Benefaciary Benefaciary"
+            },
+            "duration": "3 يوم",
+            "totalItemsQuantity": 10,
+            "subTotal": 0.00,
+            "tax": null,
+            "vat": null,
+            "discount": null,
+            "total": 0.00,
+            "notes": null,
+            "services": [
+                {
+                    "id": "aaf4953b-ecba-4654-be40-4023f4fe5b74",
+                    "name": "تيست خدمة 4",
+                    "unitPrice": 30.00,
+                    "quantity": 5,
+                    "category": {
+                        "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                        "name": "تصنيف 2"
+                    }
+                },
+                {
+                    "id": "47afa665-0087-4154-bd07-6e3a9aece88c",
+                    "name": "تيست خدمة 3",
+                    "unitPrice": 20.00,
+                    "quantity": 3,
+                    "category": {
+                        "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                        "name": "تصنيف 2"
+                    }
+                },
+                {
+                    "id": "987b0793-98c1-432c-bc5c-782b9b97c46b",
+                    "name": "تيست خدمة 2",
+                    "unitPrice": 10.00,
+                    "quantity": 2,
+                    "category": {
+                        "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                        "name": "تصنيف 2"
+                    }
+                }
+            ],
+            "recievedDate": null,
+            "completedDate": null
+        },
+        {
+            "id": "8b0575a2-74cc-4ee0-9beb-d206edbbe3cc",
+            "orderId": "f4e01b7b-57d0-4b0f-a90a-08dddfeafc20",
+            "invoiceNumber": "INV-20250820-A774CD",
+            "createdAt": "2025-08-20T16:22:30.8403925",
+            "orderNumber": "ORD-20250820-E4F185",
+            "orderStatus": {
+                "id": 1,
+                "name": "قيد الانتظار",
+                "color": "#FFA500"
+            },
+            "paymentStatus": {
+                "id": 2,
+                "name": "غير مدفوع",
+                "color": "#FFA500"
+            },
+            "deliveryStatus": null,
+            "paymentMethod": {
+                "id": 2,
+                "name": "فيزا",
+                "color": "#FFA500"
+            },
+            "orderType": {
+                "id": 1,
+                "name": "توصيل ",
+                "color": "#28A745"
+            },
+            "customerType": "Internal",
+            "customer": {
+                "name": "Benefaciary Benefaciary Benefaciary Benefaciary",
+                "forceNo": "51",
+                "civilId": "66666003",
+                "phoneNumber": "66666003",
+                "rank": {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية"
+                },
+                "isInternal": true,
+                "address": null
+            },
+            "branchs": {
+                "id": "88ed5d3f-837a-4f1f-b2dd-f22f5d6230de",
+                "name": "فرع الاحتراف 2"
+            },
+            "collectionPoints": null,
+            "laundary": {
+                "id": "b06b3f75-9fe1-4ade-bff1-675339c159b5",
+                "name": "مغسلة الاحتراف",
+                "whatAppNumber": "987654321"
+            },
+            "driverName": null,
+            "createdBy": {
+                "id": "19024b1c-fbf9-4877-8e9d-5a5d9c180025",
+                "name": "Benefaciary Benefaciary Benefaciary Benefaciary"
+            },
+            "duration": "3 يوم",
+            "totalItemsQuantity": 6,
+            "subTotal": 0.00,
+            "tax": null,
+            "vat": null,
+            "discount": null,
+            "total": 0.00,
+            "notes": null,
+            "services": [
+                {
+                    "id": "aaf4953b-ecba-4654-be40-4023f4fe5b74",
+                    "name": "تيست خدمة 4",
+                    "unitPrice": 30.00,
+                    "quantity": 1,
+                    "category": {
+                        "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                        "name": "تصنيف 2"
+                    }
+                },
+                {
+                    "id": "47afa665-0087-4154-bd07-6e3a9aece88c",
+                    "name": "تيست خدمة 3",
+                    "unitPrice": 20.00,
+                    "quantity": 2,
+                    "category": {
+                        "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                        "name": "تصنيف 2"
+                    }
+                },
+                {
+                    "id": "987b0793-98c1-432c-bc5c-782b9b97c46b",
+                    "name": "تيست خدمة 2",
+                    "unitPrice": 10.00,
+                    "quantity": 3,
+                    "category": {
+                        "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                        "name": "تصنيف 2"
+                    }
+                }
+            ],
+            "recievedDate": null,
+            "completedDate": null
+        },
+        {
+            "id": "5d9dc4b3-9e9d-456b-9c45-b1a9de229448",
+            "orderId": "27ec2c20-cde6-4eae-a909-08dddfeafc20",
+            "invoiceNumber": "INV-20250820-4DE967",
+            "createdAt": "2025-08-20T16:10:52.3652034",
+            "orderNumber": "ORD-20250820-FFB1B1",
+            "orderStatus": {
+                "id": 1,
+                "name": "قيد الانتظار",
+                "color": "#FFA500"
+            },
+            "paymentStatus": {
+                "id": 2,
+                "name": "غير مدفوع",
+                "color": "#FFA500"
+            },
+            "deliveryStatus": null,
+            "paymentMethod": {
+                "id": 2,
+                "name": "فيزا",
+                "color": "#FFA500"
+            },
+            "orderType": {
+                "id": 1,
+                "name": "توصيل ",
+                "color": "#28A745"
+            },
+            "customerType": "Internal",
+            "customer": {
+                "name": "Benefaciary Benefaciary Benefaciary Benefaciary",
+                "forceNo": "51",
+                "civilId": "66666003",
+                "phoneNumber": "66666003",
+                "rank": {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية"
+                },
+                "isInternal": true,
+                "address": null
+            },
+            "branchs": {
+                "id": "88ed5d3f-837a-4f1f-b2dd-f22f5d6230de",
+                "name": "فرع الاحتراف 2"
+            },
+            "collectionPoints": null,
+            "laundary": {
+                "id": "b06b3f75-9fe1-4ade-bff1-675339c159b5",
+                "name": "مغسلة الاحتراف",
+                "whatAppNumber": "987654321"
+            },
+            "driverName": null,
+            "createdBy": {
+                "id": "19024b1c-fbf9-4877-8e9d-5a5d9c180025",
+                "name": "Benefaciary Benefaciary Benefaciary Benefaciary"
+            },
+            "duration": "3 يوم",
+            "totalItemsQuantity": 4,
+            "subTotal": 0.00,
+            "tax": null,
+            "vat": null,
+            "discount": null,
+            "total": 0.00,
+            "notes": null,
+            "services": [
+                {
+                    "id": "4196b7f9-6775-460c-b417-59fe56d69b69",
+                    "name": "تست ",
+                    "unitPrice": 20.00,
+                    "quantity": 4,
+                    "category": {
+                        "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                        "name": "تصنيف 2"
+                    }
+                }
+            ],
+            "recievedDate": null,
+            "completedDate": null
+        },
+        {
+            "id": "5f78713b-f385-4afb-ad87-c0bbe0b73fa8",
+            "orderId": "25373536-5209-4d9f-9f11-08dddfdaf194",
+            "invoiceNumber": "INV-20250820-F513AA",
+            "createdAt": "2025-08-20T14:16:00.6019089",
+            "orderNumber": "ORD-20250820-54AE51",
+            "orderStatus": {
+                "id": 2,
+                "name": "في الطريق إلى المغسلة",
+                "color": "#1E90FF"
+            },
+            "paymentStatus": {
+                "id": 2,
+                "name": "غير مدفوع",
+                "color": "#FFA500"
+            },
+            "deliveryStatus": null,
+            "paymentMethod": {
+                "id": 1,
+                "name": "كاش",
+                "color": "#1E90FF"
+            },
+            "orderType": {
+                "id": 2,
+                "name": "استلام",
+                "color": "#1E90FF"
+            },
+            "customerType": "External",
+            "customer": {
+                "name": "Jon Nader",
+                "forceNo": null,
+                "civilId": "string",
+                "phoneNumber": null,
+                "rank": null,
+                "isInternal": false,
+                "address": {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "description": "Suite 136 4174 Jina Squares, Bednarside, IL 12081-3251",
+                    "location": null,
+                    "city": null,
+                    "state": null,
+                    "area": null,
+                    "latitude": null,
+                    "longitude": null
+                }
+            },
+            "branchs": {
+                "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                "name": "string"
+            },
+            "collectionPoints": null,
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz",
+                "whatAppNumber": "1960281421"
+            },
+            "driverName": null,
+            "createdBy": {
+                "id": "9543a89f-143e-45b6-9a09-1f2b03f6a982",
+                "name": "LaundryStaff"
+            },
+            "duration": "3 يوم",
+            "totalItemsQuantity": 1,
+            "subTotal": 11.00,
+            "tax": 0.33,
+            "vat": 0.55,
+            "discount": null,
+            "total": 11.88,
+            "notes": "wob62fxylcv3508ydrv2",
+            "services": [
+                {
+                    "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                    "name": "خدمة 443",
+                    "unitPrice": 11.00,
+                    "quantity": 1,
+                    "category": {
+                        "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                        "name": "تصنيف 1"
+                    }
+                }
+            ],
+            "recievedDate": null,
+            "completedDate": null
+        }
+    ],
+    "pagination": {
+        "totalRecords": 50,
+        "pageNumber": 1,
+        "pageSize": 10,
+        "totalPages": 5,
+        "hasNextPage": true,
+        "hasPreviousPage": false,
+        "isPaginated": true
+    }
+}

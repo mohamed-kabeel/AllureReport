@@ -1,0 +1,11 @@
+{
+  "name": "oo6l5c15iz",
+  "description": "99skgizxyl",
+  "location": "zhxw91cu52gao9cwqb9qmcqrm0vral",
+  "areaId": "2217e8a9-0437-4b57-b17e-08ddae4b0018",
+  "phoneNumber": "4444004401",
+  "branchIds": [
+    "ea46dde6-47ef-4019-946b-f92161b1f3f4"
+  ],
+  "laundaryId": "8e4bf5c9-01b4-4e4e-9367-aaca82722461"
+}

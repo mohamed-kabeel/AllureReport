@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "message": "تم إنشاء المرفق بنجاح.",
+    "data": {
+        "id": "7c53f87e-905f-4a6b-ec1c-08dde2df1a2b",
+        "description": "Delectus qui omnis vel mollitia reprehenderit natus magni.",
+        "type": "nobis",
+        "isGallery": true,
+        "url": "Uploads/LaundaryAttachments/test_4b126c35-7bf3-4c97-a652-4a390214ae8c.jpeg",
+        "createdAt": "2025-08-24T10:23:20.1006734+03:00"
+    },
+    "errors": null,
+    "pagination": null,
+    "statusCode": 200
+}

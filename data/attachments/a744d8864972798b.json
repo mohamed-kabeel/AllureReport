@@ -1,0 +1,707 @@
+{
+    "success": true,
+    "message": "تم استرجاع الخصومات والزيادات بنجاح.",
+    "data": [
+        {
+            "id": "16fd5364-375f-4cf0-4432-08dde0929833",
+            "name": "تجربة1",
+            "nameAr": "تجربة1",
+            "nameEn": "test",
+            "type": {
+                "id": 2,
+                "name": "زيادة",
+                "color": "#ffc107"
+            },
+            "coupon": "BA22D",
+            "fromDate": "2025-08-21T00:00:00",
+            "toDate": "2025-08-30T00:00:00",
+            "value": 5.00,
+            "valueType": {
+                "id": 1,
+                "name": "نسبة",
+                "color": "#28a745"
+            },
+            "isActive": false,
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "quantity": 20,
+            "createdAt": "2025-08-21T15:18:51.6557949",
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                    "name": "تصنيف 2",
+                    "nameAr": "تصنيف 2",
+                    "nameEn": "4g60htnuibkvmag42paf",
+                    "services": [
+                        {
+                            "id": "aaf4953b-ecba-4654-be40-4023f4fe5b74",
+                            "name": "تيست خدمة 4",
+                            "nameAr": "تيست خدمة 4",
+                            "nameEn": "test service 4",
+                            "price": 30.00,
+                            "branch": {
+                                "id": "1d55f772-ead4-4dd4-9ba9-1ed9199b776b",
+                                "name": "04kgaytbnf"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "beneficiaries": [
+                {
+                    "id": "19024b1c-fbf9-4877-8e9d-5a5d9c180025",
+                    "name": "Benefaciary Benefaciary Benefaciary Benefaciary",
+                    "nameAr": "Benefaciary Benefaciary Benefaciary",
+                    "nameEn": "Benefaciary Benefaciary Benefaciary",
+                    "identityNo": "66666003",
+                    "email": "51@rop.gov.ps",
+                    "photo": "Uploads/Default.png",
+                    "phoneNumber": "66666003",
+                    "forceNo": "51"
+                }
+            ]
+        },
+        {
+            "id": "97477a4a-1672-4852-4431-08dde0929833",
+            "name": "خبتقفطيحدس",
+            "nameAr": "خبتقفطيحدس",
+            "nameEn": "1npgvc",
+            "type": {
+                "id": 1,
+                "name": "خصم",
+                "color": "#007bff"
+            },
+            "coupon": "kp7wob",
+            "fromDate": "2025-08-17T08:14:52.56",
+            "toDate": "2025-08-30T08:14:52.56",
+            "value": 2.00,
+            "valueType": {
+                "id": 1,
+                "name": "نسبة",
+                "color": "#28a745"
+            },
+            "isActive": true,
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "quantity": 2,
+            "createdAt": "2025-08-21T12:10:37.9795807",
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                    "name": "تصنيف 1",
+                    "nameAr": "تصنيف 1",
+                    "nameEn": "84itpp8s1v9d33dteohe",
+                    "services": [
+                        {
+                            "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                            "name": "خدمة 443",
+                            "nameAr": "خدمة 443",
+                            "nameEn": "new ",
+                            "price": 11.00,
+                            "branch": {
+                                "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                                "name": "string"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "beneficiaries": [
+                {
+                    "id": "72d2e920-627e-4f63-9aed-e4ab08da3ffe",
+                    "name": "زينب ",
+                    "nameAr": "Benefaciary Benefaciary Benefaciary",
+                    "nameEn": "Benefaciary2 Benefaciary2 Benefaciary2",
+                    "identityNo": "66666002",
+                    "email": "52@rop.gov.ps",
+                    "photo": "Uploads/Default.png",
+                    "phoneNumber": "66666002",
+                    "forceNo": "52"
+                }
+            ]
+        },
+        {
+            "id": "d561f42c-8a2b-4cca-b39c-08dddfdad5a9",
+            "name": "قططبظرفخاز",
+            "nameAr": "قططبظرفخاز",
+            "nameEn": "qkkv8p",
+            "type": {
+                "id": 1,
+                "name": "خصم",
+                "color": "#007bff"
+            },
+            "coupon": "ulfy1b",
+            "fromDate": "2025-08-17T08:14:52.56",
+            "toDate": "2025-08-30T08:14:52.56",
+            "value": 230.00,
+            "valueType": {
+                "id": 2,
+                "name": "مبلغ",
+                "color": "#007bff"
+            },
+            "isActive": false,
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "quantity": 2,
+            "createdAt": "2025-08-20T14:15:13.6987458",
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                    "name": "تصنيف 1",
+                    "nameAr": "تصنيف 1",
+                    "nameEn": "84itpp8s1v9d33dteohe",
+                    "services": [
+                        {
+                            "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                            "name": "خدمة 443",
+                            "nameAr": "خدمة 443",
+                            "nameEn": "new ",
+                            "price": 11.00,
+                            "branch": {
+                                "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                                "name": "string"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "beneficiaries": [
+                {
+                    "id": "72d2e920-627e-4f63-9aed-e4ab08da3ffe",
+                    "name": "زينب ",
+                    "nameAr": "Benefaciary Benefaciary Benefaciary",
+                    "nameEn": "Benefaciary2 Benefaciary2 Benefaciary2",
+                    "identityNo": "66666002",
+                    "email": "52@rop.gov.ps",
+                    "photo": "Uploads/Default.png",
+                    "phoneNumber": "66666002",
+                    "forceNo": "52"
+                }
+            ]
+        },
+        {
+            "id": "de79bd0e-5624-42fa-146f-08dddfc5b455",
+            "name": "تلرللسععتل",
+            "nameAr": "تلرللسععتل",
+            "nameEn": "mea3y6",
+            "type": {
+                "id": 1,
+                "name": "خصم",
+                "color": "#007bff"
+            },
+            "coupon": "3kk5kw",
+            "fromDate": "2025-08-17T08:14:52.56",
+            "toDate": "2025-08-30T08:14:52.56",
+            "value": 230.00,
+            "valueType": {
+                "id": 2,
+                "name": "مبلغ",
+                "color": "#007bff"
+            },
+            "isActive": false,
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "quantity": 2,
+            "createdAt": "2025-08-20T12:10:02.1546489",
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                    "name": "تصنيف 1",
+                    "nameAr": "تصنيف 1",
+                    "nameEn": "84itpp8s1v9d33dteohe",
+                    "services": [
+                        {
+                            "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                            "name": "خدمة 443",
+                            "nameAr": "خدمة 443",
+                            "nameEn": "new ",
+                            "price": 11.00,
+                            "branch": {
+                                "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                                "name": "string"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "beneficiaries": [
+                {
+                    "id": "72d2e920-627e-4f63-9aed-e4ab08da3ffe",
+                    "name": "زينب ",
+                    "nameAr": "Benefaciary Benefaciary Benefaciary",
+                    "nameEn": "Benefaciary2 Benefaciary2 Benefaciary2",
+                    "identityNo": "66666002",
+                    "email": "52@rop.gov.ps",
+                    "photo": "Uploads/Default.png",
+                    "phoneNumber": "66666002",
+                    "forceNo": "52"
+                }
+            ]
+        },
+        {
+            "id": "bcbac2e3-8403-4d83-146e-08dddfc5b455",
+            "name": "مقنفيحظنغت",
+            "nameAr": "مقنفيحظنغت",
+            "nameEn": "6yqpu6",
+            "type": {
+                "id": 1,
+                "name": "خصم",
+                "color": "#007bff"
+            },
+            "coupon": "xhk0xv",
+            "fromDate": "2025-08-17T08:14:52.56",
+            "toDate": "2025-08-30T08:14:52.56",
+            "value": 230.00,
+            "valueType": {
+                "id": 2,
+                "name": "مبلغ",
+                "color": "#007bff"
+            },
+            "isActive": false,
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "quantity": 2,
+            "createdAt": "2025-08-20T12:02:28.0911499",
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                    "name": "تصنيف 1",
+                    "nameAr": "تصنيف 1",
+                    "nameEn": "84itpp8s1v9d33dteohe",
+                    "services": [
+                        {
+                            "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                            "name": "خدمة 443",
+                            "nameAr": "خدمة 443",
+                            "nameEn": "new ",
+                            "price": 11.00,
+                            "branch": {
+                                "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                                "name": "string"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "beneficiaries": [
+                {
+                    "id": "72d2e920-627e-4f63-9aed-e4ab08da3ffe",
+                    "name": "زينب ",
+                    "nameAr": "Benefaciary Benefaciary Benefaciary",
+                    "nameEn": "Benefaciary2 Benefaciary2 Benefaciary2",
+                    "identityNo": "66666002",
+                    "email": "52@rop.gov.ps",
+                    "photo": "Uploads/Default.png",
+                    "phoneNumber": "66666002",
+                    "forceNo": "52"
+                }
+            ]
+        },
+        {
+            "id": "44cd8ac8-1c50-4152-146d-08dddfc5b455",
+            "name": "ضمعصجرلرفر",
+            "nameAr": "ضمعصجرلرفر",
+            "nameEn": "vo26w1",
+            "type": {
+                "id": 1,
+                "name": "خصم",
+                "color": "#007bff"
+            },
+            "coupon": "8implb",
+            "fromDate": "2025-08-17T08:14:52.56",
+            "toDate": "2025-08-30T08:14:52.56",
+            "value": 230.00,
+            "valueType": {
+                "id": 2,
+                "name": "مبلغ",
+                "color": "#007bff"
+            },
+            "isActive": false,
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "quantity": 2,
+            "createdAt": "2025-08-20T11:59:56.5169528",
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                    "name": "تصنيف 1",
+                    "nameAr": "تصنيف 1",
+                    "nameEn": "84itpp8s1v9d33dteohe",
+                    "services": [
+                        {
+                            "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                            "name": "خدمة 443",
+                            "nameAr": "خدمة 443",
+                            "nameEn": "new ",
+                            "price": 11.00,
+                            "branch": {
+                                "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                                "name": "string"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "beneficiaries": [
+                {
+                    "id": "72d2e920-627e-4f63-9aed-e4ab08da3ffe",
+                    "name": "زينب ",
+                    "nameAr": "Benefaciary Benefaciary Benefaciary",
+                    "nameEn": "Benefaciary2 Benefaciary2 Benefaciary2",
+                    "identityNo": "66666002",
+                    "email": "52@rop.gov.ps",
+                    "photo": "Uploads/Default.png",
+                    "phoneNumber": "66666002",
+                    "forceNo": "52"
+                }
+            ]
+        },
+        {
+            "id": "dcde52ca-8e56-4a60-146c-08dddfc5b455",
+            "name": "طظحشلصضبقخ",
+            "nameAr": "طظحشلصضبقخ",
+            "nameEn": "n5jszk",
+            "type": {
+                "id": 1,
+                "name": "خصم",
+                "color": "#007bff"
+            },
+            "coupon": "zxyo57",
+            "fromDate": "2025-08-17T08:14:52.56",
+            "toDate": "2025-08-30T08:14:52.56",
+            "value": 230.00,
+            "valueType": {
+                "id": 2,
+                "name": "مبلغ",
+                "color": "#007bff"
+            },
+            "isActive": false,
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "quantity": 2,
+            "createdAt": "2025-08-20T11:59:15.2174525",
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                    "name": "تصنيف 1",
+                    "nameAr": "تصنيف 1",
+                    "nameEn": "84itpp8s1v9d33dteohe",
+                    "services": [
+                        {
+                            "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                            "name": "خدمة 443",
+                            "nameAr": "خدمة 443",
+                            "nameEn": "new ",
+                            "price": 11.00,
+                            "branch": {
+                                "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                                "name": "string"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "beneficiaries": [
+                {
+                    "id": "72d2e920-627e-4f63-9aed-e4ab08da3ffe",
+                    "name": "زينب ",
+                    "nameAr": "Benefaciary Benefaciary Benefaciary",
+                    "nameEn": "Benefaciary2 Benefaciary2 Benefaciary2",
+                    "identityNo": "66666002",
+                    "email": "52@rop.gov.ps",
+                    "photo": "Uploads/Default.png",
+                    "phoneNumber": "66666002",
+                    "forceNo": "52"
+                }
+            ]
+        },
+        {
+            "id": "df42eefb-b9a7-47e3-146b-08dddfc5b455",
+            "name": "عفدلكرسبكف",
+            "nameAr": "عفدلكرسبكف",
+            "nameEn": "7sbcri",
+            "type": {
+                "id": 1,
+                "name": "خصم",
+                "color": "#007bff"
+            },
+            "coupon": "4pd7ka",
+            "fromDate": "2025-08-17T08:14:52.56",
+            "toDate": "2025-08-30T08:14:52.56",
+            "value": 230.00,
+            "valueType": {
+                "id": 2,
+                "name": "مبلغ",
+                "color": "#007bff"
+            },
+            "isActive": false,
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "quantity": 2,
+            "createdAt": "2025-08-20T11:50:16.4411416",
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                    "name": "تصنيف 1",
+                    "nameAr": "تصنيف 1",
+                    "nameEn": "84itpp8s1v9d33dteohe",
+                    "services": [
+                        {
+                            "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                            "name": "خدمة 443",
+                            "nameAr": "خدمة 443",
+                            "nameEn": "new ",
+                            "price": 11.00,
+                            "branch": {
+                                "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                                "name": "string"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "beneficiaries": [
+                {
+                    "id": "72d2e920-627e-4f63-9aed-e4ab08da3ffe",
+                    "name": "زينب ",
+                    "nameAr": "Benefaciary Benefaciary Benefaciary",
+                    "nameEn": "Benefaciary2 Benefaciary2 Benefaciary2",
+                    "identityNo": "66666002",
+                    "email": "52@rop.gov.ps",
+                    "photo": "Uploads/Default.png",
+                    "phoneNumber": "66666002",
+                    "forceNo": "52"
+                }
+            ]
+        },
+        {
+            "id": "bf10051b-69bd-4837-146a-08dddfc5b455",
+            "name": "نصنعلههاطن",
+            "nameAr": "نصنعلههاطن",
+            "nameEn": "f5xvcz",
+            "type": {
+                "id": 1,
+                "name": "خصم",
+                "color": "#007bff"
+            },
+            "coupon": "n6q8h7",
+            "fromDate": "2025-08-17T08:14:52.56",
+            "toDate": "2025-08-30T08:14:52.56",
+            "value": 230.00,
+            "valueType": {
+                "id": 2,
+                "name": "مبلغ",
+                "color": "#007bff"
+            },
+            "isActive": false,
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "quantity": 2,
+            "createdAt": "2025-08-20T11:43:58.3486963",
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                    "name": "تصنيف 1",
+                    "nameAr": "تصنيف 1",
+                    "nameEn": "84itpp8s1v9d33dteohe",
+                    "services": [
+                        {
+                            "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                            "name": "خدمة 443",
+                            "nameAr": "خدمة 443",
+                            "nameEn": "new ",
+                            "price": 11.00,
+                            "branch": {
+                                "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                                "name": "string"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "beneficiaries": [
+                {
+                    "id": "72d2e920-627e-4f63-9aed-e4ab08da3ffe",
+                    "name": "زينب ",
+                    "nameAr": "Benefaciary Benefaciary Benefaciary",
+                    "nameEn": "Benefaciary2 Benefaciary2 Benefaciary2",
+                    "identityNo": "66666002",
+                    "email": "52@rop.gov.ps",
+                    "photo": "Uploads/Default.png",
+                    "phoneNumber": "66666002",
+                    "forceNo": "52"
+                }
+            ]
+        },
+        {
+            "id": "b7beefe6-99f8-4be3-8ed3-08dddfb5e49b",
+            "name": "خظديغازقين",
+            "nameAr": "خظديغازقين",
+            "nameEn": "irkqp3",
+            "type": {
+                "id": 1,
+                "name": "خصم",
+                "color": "#007bff"
+            },
+            "coupon": "zcl3tp",
+            "fromDate": "2025-08-17T08:14:52.56",
+            "toDate": "2025-08-30T08:14:52.56",
+            "value": 230.00,
+            "valueType": {
+                "id": 2,
+                "name": "مبلغ",
+                "color": "#007bff"
+            },
+            "isActive": false,
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "quantity": 2,
+            "createdAt": "2025-08-20T09:50:47.3910016",
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                    "name": "تصنيف 1",
+                    "nameAr": "تصنيف 1",
+                    "nameEn": "84itpp8s1v9d33dteohe",
+                    "services": [
+                        {
+                            "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                            "name": "خدمة 443",
+                            "nameAr": "خدمة 443",
+                            "nameEn": "new ",
+                            "price": 11.00,
+                            "branch": {
+                                "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                                "name": "string"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "beneficiaries": [
+                {
+                    "id": "72d2e920-627e-4f63-9aed-e4ab08da3ffe",
+                    "name": "زينب ",
+                    "nameAr": "Benefaciary Benefaciary Benefaciary",
+                    "nameEn": "Benefaciary2 Benefaciary2 Benefaciary2",
+                    "identityNo": "66666002",
+                    "email": "52@rop.gov.ps",
+                    "photo": "Uploads/Default.png",
+                    "phoneNumber": "66666002",
+                    "forceNo": "52"
+                }
+            ]
+        }
+    ],
+    "errors": null,
+    "pagination": {
+        "totalRecords": 26,
+        "pageNumber": 1,
+        "pageSize": 10,
+        "totalPages": 3,
+        "hasNextPage": true,
+        "hasPreviousPage": false,
+        "isPaginated": true
+    },
+    "statusCode": 200
+}

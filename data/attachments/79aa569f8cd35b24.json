@@ -1,0 +1,8 @@
+{
+    "success": false,
+    "message": "حدث خطأ أثناء إنشاء المغسلة: An error occurred while saving the entity changes. See the inner exception for details.",
+    "data": null,
+    "errors": null,
+    "pagination": null,
+    "statusCode": 400
+}

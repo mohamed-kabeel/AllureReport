@@ -1,0 +1,8 @@
+{
+    "success": false,
+    "message": "الباقة غير موجودة.",
+    "data": null,
+    "errors": null,
+    "pagination": null,
+    "statusCode": 400
+}

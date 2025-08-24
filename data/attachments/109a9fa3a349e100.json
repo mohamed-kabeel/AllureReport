@@ -1,0 +1,31 @@
+{
+    "id": "c22c5f86-f48a-4944-a869-ce505b86a3b8",
+    "name": "حضعصفلفذيد",
+    "nameAr": "حضعصفلفذيد",
+    "nameEn": "p0jxwmjpem",
+    "price": 100.00,
+    "isActive": false,
+    "serviceCategory": {
+        "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+        "name": "تصنيف 1",
+        "nameAr": "تصنيف 1",
+        "nameEn": "84itpp8s1v9d33dteohe",
+        "isActive": true
+    },
+    "laundry": {
+        "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+        "name": "hef71cityz"
+    },
+    "branches": [
+        {
+            "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+            "name": "string"
+        }
+    ],
+    "collectionPoints": [
+        {
+            "id": "e0039a27-231e-4de6-d98a-08ddde1b5f42",
+            "name": "Sample Service"
+        }
+    ]
+}

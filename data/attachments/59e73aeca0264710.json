@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "message": null,
+    "data": [
+        {
+            "totalOrders": 40,
+            "inProgressOrders": 3,
+            "completedOrders": 3,
+            "paidIncome": 1728.00,
+            "deliveryOrders": 6,
+            "pickupOrders": 34
+        }
+    ],
+    "pagination": {
+        "totalRecords": 1,
+        "pageNumber": 1,
+        "pageSize": 1,
+        "totalPages": 1,
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "isPaginated": true
+    }
+}

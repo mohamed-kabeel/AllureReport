@@ -1,0 +1,15 @@
+{
+  "laundaryId": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+  "name": "aew9kwsu5m",
+  "cityId": "472f1eca-65b1-44b1-c283-08ddad82b7e7",
+  "stateId": "cb6a19c3-1b6c-4de2-c137-08ddae4affbd",
+  "areaId": "2217e8a9-0437-4b57-b17e-08ddae4b0018",
+  "phoneNumber": "7272784842",
+  "telePhone": "7770424885",
+  "email": "man.jacobson@yahoo.com",
+  "latitude": 23.321926243728676,
+  "longitude": 58.32796819173696,
+  "countryCode": "OM",
+  "dialCode": "968",
+  "location": "{\"location\":\"7HMW88CH+Q5\",\"countryCode\":\"OM\",\"longitude\":58.32796819173696,\"latitude\":23.321926243728676,\"dialCode\":\"968\",\"city\":\"مسقط\",\"cityId\":\"472f1eca-65b1-44b1-c283-08ddad82b7e7\",\"state\":\"السيب\",\"stateId\":\"cb6a19c3-1b6c-4de2-c137-08ddae4affbd\",\"area\":\"المنطقة التجارية\",\"areaId\":\"2217e8a9-0437-4b57-b17e-08ddae4b0018\"}"
+}

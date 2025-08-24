@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "message": "تم إنشاء المرفق بنجاح.",
+    "data": {
+        "id": "dc6d0cdc-440e-434d-6059-08dde2d51a55",
+        "description": "Iusto voluptates dolore.",
+        "type": "commodi",
+        "isGallery": true,
+        "url": "Uploads/LaundaryAttachments/test_e0472c1d-bd62-4788-bd07-d50e23b21fde.jpeg",
+        "createdAt": "2025-08-24T09:25:40.0966907+03:00"
+    },
+    "errors": null,
+    "pagination": null,
+    "statusCode": 200
+}

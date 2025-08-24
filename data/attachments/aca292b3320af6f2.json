@@ -1,0 +1,59 @@
+{
+    "invoiceId": "2d5be3ab-0de2-4fd5-9cba-7775219ec6bc",
+    "orderId": "e9e2461c-bb8b-43ae-9c76-08dde2d53359",
+    "invoiceNumber": "INV-20250824-9DEE74",
+    "orderNumber": "ORD-20250824-2BE617",
+    "createdAt": "2025-08-24T09:26:17.9095083",
+    "orderType": {
+        "id": 2,
+        "name": "استلام",
+        "color": "#1E90FF"
+    },
+    "customer": {
+        "id": "f74a96ed-9c7c-4105-8217-69906a936b75",
+        "name": "Jon Nader",
+        "civilId": "string",
+        "forceNumber": null,
+        "phone": null
+    },
+    "address": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "description": "Suite 136 4174 Jina Squares, Bednarside, IL 12081-3251",
+        "location": null,
+        "city": null,
+        "state": null,
+        "area": null,
+        "latitude": null,
+        "longitude": null
+    },
+    "driverName": null,
+    "subTotal": 11.00,
+    "tax": 0.33,
+    "vat": 0.55,
+    "discount": 0,
+    "totalAmount": 11.88,
+    "paymentStatus": "Paid",
+    "paymentMethod": "cash",
+    "paymentGateway": "",
+    "notes": "rezfgdm9b5c8zhyxss1q",
+    "laundary": {
+        "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+        "name": "hef71cityz",
+        "whatAppNumber": "1960281421"
+    },
+    "items": [
+        {
+            "service": {
+                "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                "name": "خدمة 443",
+                "unitPrice": 11.00,
+                "quantity": 1,
+                "lineTotal": 11.00
+            },
+            "category": {
+                "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                "name": "تصنيف 1"
+            }
+        }
+    ]
+}

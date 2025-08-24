@@ -1,0 +1,1 @@
+https://staging-api-laundry.rieaya.live/api/OrderRules/f1e7cd72-dde7-4f9b-b09b-64e310d7bbb9/toggle

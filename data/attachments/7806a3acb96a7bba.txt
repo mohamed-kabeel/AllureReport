@@ -1,0 +1,11 @@
+{
+  "id": "92d23e36-5012-4f00-7a97-08dde2df1e2d",
+  "nameEn": "ewqe5m4av4",
+  "nameAr": "kb8s8yltxh",
+  "createdAt": "2025-08-10T07:35:39.823Z",
+  "createdBy": "9nuygg71zw",
+  "updatedAt": "2025-08-10T07:35:39.823Z",
+  "updatedBy": "l7tw5nuxjr",
+  "isDeleted": false,
+  "isActive": true
+}

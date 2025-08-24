@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "message": "تم تحديث نقطة التجميع بنجاح.",
+    "data": {
+        "id": "e57eb46f-1d97-4856-4c77-08dde2d5164a",
+        "name": "1sf0ubi9ed",
+        "city": null,
+        "description": "zuj5imwlez",
+        "location": "hyktj4m3g5qvc5z3s7qzwvyj5wmoop",
+        "state": null,
+        "area": "روي",
+        "laundaryName": "hef71cityz",
+        "phoneNumber": "3056029784",
+        "branchInfoo": [
+            {
+                "branchId": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                "branchName": "string"
+            }
+        ],
+        "orderCount": 0,
+        "laundaryId": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+        "collectionPointsStatus": 1
+    },
+    "errors": null,
+    "pagination": null,
+    "statusCode": 200
+}

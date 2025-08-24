@@ -1,0 +1,1 @@
+https://staging-api-laundry.rieaya.live/api/Roles/GetUserPermissions/84b877fb-69e7-4663-a938-5e3579a83139

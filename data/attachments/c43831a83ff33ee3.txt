@@ -1,0 +1,16 @@
+{
+  "id": "8d65d5c4-fbef-4f63-a0a5-799e3d9eae57",
+  "name": "0z7oqeehb5",
+  "userIds": null,
+  "typeOfRank": "all",
+  "rankIds": null,
+  "typeOfService": "all",
+  "serviceIds": null,
+  "privilegeIds": [
+    "a9cf85ba-e564-4b74-9c50-e8c025595cf4",
+    "8108484b-24a2-4aee-8230-12d066d3631a"
+  ],
+  "isActive": true,
+  "isAllRanks": true,
+  "isAllServices": true
+}

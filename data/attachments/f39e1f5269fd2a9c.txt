@@ -1,0 +1,25 @@
+{
+  "duration": 10,
+  "fromDate": "2025-08-14T12:47:34.078Z",
+  "isActive": true,
+  "nameAr": "aehwr3d40q",
+  "nameEn": "i49mhkkstx",
+  "price": 10,
+  "ranks": [
+    "d192a9f7-b8d6-4b15-828b-3d37cc4407a2"
+  ],
+  "serviceCategories": [
+    {
+      "categoryId": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+      "services": [
+        {
+          "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+          "branchId": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+          "quantity": 5
+        }
+      ]
+    }
+  ],
+  "toDate": "2025-09-30T12:47:34.078Z",
+  "laundaryId": "8e4bf5c9-01b4-4e4e-9367-aaca82722461"
+}

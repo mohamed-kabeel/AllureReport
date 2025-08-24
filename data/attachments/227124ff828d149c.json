@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "message": " تم إنشاء المدينة بنجاح",
+    "data": {
+        "id": "92d23e36-5012-4f00-7a97-08dde2df1e2d",
+        "nameEn": "string",
+        "nameAr": "string",
+        "createdAt": "1946-02-02T22:03:47.855Z",
+        "createdBy": "string",
+        "updatedAt": "1963-08-08T22:19:53.488Z",
+        "updatedBy": "string",
+        "isDeleted": false,
+        "stateId": "00000000-0000-0000-0000-000000000000",
+        "isActive": true
+    },
+    "errors": null,
+    "pagination": null,
+    "statusCode": 200
+}

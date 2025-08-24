@@ -1,0 +1,129 @@
+{
+    "success": true,
+    "message": "FetchStateData",
+    "data": [
+        {
+            "id": "c9254053-3dd4-40a9-b17b-08ddae4b0018",
+            "nameEn": "Al Khuwair",
+            "nameAr": "الخوير",
+            "isActive": true
+        },
+        {
+            "id": "d9c540b2-5c4c-48a9-b17c-08ddae4b0018",
+            "nameEn": "Salalah",
+            "nameAr": "Al Ghubrah",
+            "isActive": true
+        },
+        {
+            "id": "ea291eba-db52-42de-b17d-08ddae4b0018",
+            "nameEn": "Wattayah",
+            "nameAr": "الوطية",
+            "isActive": true
+        },
+        {
+            "id": "2217e8a9-0437-4b57-b17e-08ddae4b0018",
+            "nameEn": "Ruwi",
+            "nameAr": "روي",
+            "isActive": true
+        },
+        {
+            "id": "fa1d8204-bc68-452a-b17f-08ddae4b0018",
+            "nameEn": "Sur",
+            "nameAr": "المنطقة التجارية",
+            "isActive": true
+        },
+        {
+            "id": "25776fd9-a08e-4e16-b180-08ddae4b0018",
+            "nameEn": "Al Khuwair",
+            "nameAr": "الخوير",
+            "isActive": true
+        },
+        {
+            "id": "ce1f385f-d9a7-445d-b181-08ddae4b0018",
+            "nameEn": "Salalah",
+            "nameAr": "Al Ghubrah",
+            "isActive": true
+        },
+        {
+            "id": "40429633-fb79-4bdd-b182-08ddae4b0018",
+            "nameEn": "Wattayah",
+            "nameAr": "الوطية",
+            "isActive": true
+        },
+        {
+            "id": "32b28c9b-8aab-4b78-b183-08ddae4b0018",
+            "nameEn": "Ruwi",
+            "nameAr": "روي",
+            "isActive": true
+        },
+        {
+            "id": "268e6994-659d-478b-b184-08ddae4b0018",
+            "nameEn": "Sur",
+            "nameAr": "المنطقة التجارية",
+            "isActive": true
+        },
+        {
+            "id": "82ea018f-5a54-459a-b185-08ddae4b0018",
+            "nameEn": "Al Khuwair",
+            "nameAr": "الخوير",
+            "isActive": true
+        },
+        {
+            "id": "8624ab8e-95a1-4716-b186-08ddae4b0018",
+            "nameEn": "Salalah",
+            "nameAr": "Al Ghubrah",
+            "isActive": true
+        },
+        {
+            "id": "0ae9751f-d3a5-448b-b187-08ddae4b0018",
+            "nameEn": "Wattayah",
+            "nameAr": "الوطية",
+            "isActive": true
+        },
+        {
+            "id": "88b67392-df68-41c9-b188-08ddae4b0018",
+            "nameEn": "Ruwi",
+            "nameAr": "روي",
+            "isActive": true
+        },
+        {
+            "id": "b5e68042-4922-469e-b189-08ddae4b0018",
+            "nameEn": "Sur",
+            "nameAr": "المنطقة التجارية",
+            "isActive": true
+        },
+        {
+            "id": "31525866-4c0b-4d0e-b18a-08ddae4b0018",
+            "nameEn": "Al Khuwair",
+            "nameAr": "الخوير",
+            "isActive": true
+        },
+        {
+            "id": "2fae44bb-7608-4e50-b18b-08ddae4b0018",
+            "nameEn": "Salalah",
+            "nameAr": "Al Ghubrah",
+            "isActive": true
+        },
+        {
+            "id": "f5f8e381-0156-4051-b18c-08ddae4b0018",
+            "nameEn": "Wattayah",
+            "nameAr": "الوطية",
+            "isActive": true
+        },
+        {
+            "id": "17e40c8e-c7a2-4943-b18d-08ddae4b0018",
+            "nameEn": "Ruwi",
+            "nameAr": "روي",
+            "isActive": true
+        },
+        {
+            "id": "d09a8548-bd10-45aa-b18e-08ddae4b0018",
+            "nameEn": "Sur",
+            "nameAr": "المنطقة التجارية",
+            "isActive": true
+        }
+    ],
+    "errors": null,
+    "pagination": null,
+    "statusCode": 200
+}

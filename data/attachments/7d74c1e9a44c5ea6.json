@@ -1,0 +1,8 @@
+{
+    "success": false,
+    "message": "المرفق المطلوب غير موجود.",
+    "data": null,
+    "errors": null,
+    "pagination": null,
+    "statusCode": 404
+}

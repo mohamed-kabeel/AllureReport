@@ -1,0 +1,8 @@
+{
+  "title": "yeljvid28gung7arzv0o",
+  "content": "t21jbjfgbz01azbshkynu6paprf4v8nrep4frempdyp5b0wnau",
+  "type": 1,
+  "isToAll": true,
+  "receiverUserIds": ["string"],
+  "senderUserId": "6451b696-b469-4df2-b0a3-5cfa2364367b"
+}

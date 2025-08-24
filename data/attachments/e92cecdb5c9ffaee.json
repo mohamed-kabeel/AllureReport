@@ -1,0 +1,36 @@
+{
+    "message": "تم تحديث القاعدة بنجاح.",
+    "data": [
+        {
+            "id": "e6d5d73b-79d6-4057-bca3-97edd022dae6",
+            "name": "6i7as8c4xs",
+            "isActive": true,
+            "isAllRanks": true,
+            "ranks": [
+                
+            ],
+            "isAllUsers": false,
+            "users": [
+                
+            ],
+            "isAllServices": true,
+            "services": [
+                
+            ],
+            "privileges": [
+                {
+                    "id": "a9cf85ba-e564-4b74-9c50-e8c025595cf4",
+                    "name": "وخطفبخشثكه",
+                    "nameAr": "وخطفبخشثكه",
+                    "nameEN": "r712wt5x8i"
+                },
+                {
+                    "id": "8108484b-24a2-4aee-8230-12d066d3631a",
+                    "name": "نستدجشصعتز",
+                    "nameAr": "نستدجشصعتز",
+                    "nameEN": "maiuxerdng"
+                }
+            ]
+        }
+    ]
+}

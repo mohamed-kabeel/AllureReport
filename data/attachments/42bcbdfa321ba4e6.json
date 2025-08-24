@@ -1,0 +1,627 @@
+{
+    "success": true,
+    "message": "تم استرجاع الخصومات والزيادات بنجاح.",
+    "data": [
+        {
+            "id": "e65dd6d2-2202-499b-197f-08dddb34ea53",
+            "name": "string",
+            "nameAr": "string",
+            "nameEn": "string",
+            "type": {
+                "id": 1,
+                "name": "خصم",
+                "color": "#007bff"
+            },
+            "coupon": null,
+            "fromDate": "2025-05-14T12:07:05.856",
+            "toDate": "2025-08-14T12:07:05.856",
+            "value": 100.00,
+            "valueType": {
+                "id": 1,
+                "name": "نسبة",
+                "color": "#28a745"
+            },
+            "isActive": true,
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "quantity": 10,
+            "createdAt": "2025-08-14T16:17:34.5709175",
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "01b0a9b8-2e23-441f-9326-338e5a55c239",
+                    "name": "تصنيف 6",
+                    "nameAr": "تصنيف 6",
+                    "nameEn": "n8kyrl5pcbf5ctsdu3ca",
+                    "services": [
+                        {
+                            "id": "773956a6-baed-4f28-89da-1562fe5d6076",
+                            "name": "خدمة 5",
+                            "nameAr": "خدمة 5",
+                            "nameEn": "a9hv0jtjod",
+                            "price": 100.00,
+                            "branch": {
+                                "id": "dea4c134-d326-4244-847f-1aa3ec3623c6",
+                                "name": "Zeina test"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "beneficiaries": [
+                
+            ]
+        },
+        {
+            "id": "8a201ce5-082e-4042-1980-08dddb34ea53",
+            "name": "string",
+            "nameAr": "string",
+            "nameEn": "string",
+            "type": {
+                "id": 1,
+                "name": "خصم",
+                "color": "#007bff"
+            },
+            "coupon": null,
+            "fromDate": "2025-05-14T12:07:05.856",
+            "toDate": "2025-08-14T12:07:05.856",
+            "value": 200.00,
+            "valueType": {
+                "id": 2,
+                "name": "مبلغ",
+                "color": "#007bff"
+            },
+            "isActive": false,
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "quantity": 20,
+            "createdAt": "2025-08-14T16:18:01.4386926",
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "01b0a9b8-2e23-441f-9326-338e5a55c239",
+                    "name": "تصنيف 6",
+                    "nameAr": "تصنيف 6",
+                    "nameEn": "n8kyrl5pcbf5ctsdu3ca",
+                    "services": [
+                        {
+                            "id": "773956a6-baed-4f28-89da-1562fe5d6076",
+                            "name": "خدمة 5",
+                            "nameAr": "خدمة 5",
+                            "nameEn": "a9hv0jtjod",
+                            "price": 100.00,
+                            "branch": {
+                                "id": "dea4c134-d326-4244-847f-1aa3ec3623c6",
+                                "name": "Zeina test"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "beneficiaries": [
+                
+            ]
+        },
+        {
+            "id": "8676058b-cca1-4893-1981-08dddb34ea53",
+            "name": "string",
+            "nameAr": "string",
+            "nameEn": "string",
+            "type": {
+                "id": 1,
+                "name": "خصم",
+                "color": "#007bff"
+            },
+            "coupon": null,
+            "fromDate": "2025-05-14T12:07:05.856",
+            "toDate": "2025-08-14T12:07:05.856",
+            "value": 230.00,
+            "valueType": {
+                "id": 2,
+                "name": "مبلغ",
+                "color": "#007bff"
+            },
+            "isActive": true,
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "quantity": 0,
+            "createdAt": "2025-08-14T16:18:10.6487846",
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "01b0a9b8-2e23-441f-9326-338e5a55c239",
+                    "name": "تصنيف 6",
+                    "nameAr": "تصنيف 6",
+                    "nameEn": "n8kyrl5pcbf5ctsdu3ca",
+                    "services": [
+                        {
+                            "id": "773956a6-baed-4f28-89da-1562fe5d6076",
+                            "name": "خدمة 5",
+                            "nameAr": "خدمة 5",
+                            "nameEn": "a9hv0jtjod",
+                            "price": 100.00,
+                            "branch": {
+                                "id": "dea4c134-d326-4244-847f-1aa3ec3623c6",
+                                "name": "Zeina test"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "beneficiaries": [
+                
+            ]
+        },
+        {
+            "id": "8c967393-fba5-48c3-3c56-08dddb354a68",
+            "name": "bbb",
+            "nameAr": "bbb",
+            "nameEn": "bbb",
+            "type": {
+                "id": 1,
+                "name": "خصم",
+                "color": "#007bff"
+            },
+            "coupon": null,
+            "fromDate": "2025-05-14T12:07:05.856",
+            "toDate": "2025-08-14T12:07:05.856",
+            "value": 230.00,
+            "valueType": {
+                "id": 2,
+                "name": "مبلغ",
+                "color": "#007bff"
+            },
+            "isActive": true,
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "quantity": 0,
+            "createdAt": "2025-08-14T16:20:08.4396704",
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "01b0a9b8-2e23-441f-9326-338e5a55c239",
+                    "name": "تصنيف 6",
+                    "nameAr": "تصنيف 6",
+                    "nameEn": "n8kyrl5pcbf5ctsdu3ca",
+                    "services": [
+                        {
+                            "id": "773956a6-baed-4f28-89da-1562fe5d6076",
+                            "name": "خدمة 5",
+                            "nameAr": "خدمة 5",
+                            "nameEn": "a9hv0jtjod",
+                            "price": 100.00,
+                            "branch": {
+                                "id": "dea4c134-d326-4244-847f-1aa3ec3623c6",
+                                "name": "Zeina test"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "beneficiaries": [
+                
+            ]
+        },
+        {
+            "id": "9d72b385-0a24-4deb-3c57-08dddb354a68",
+            "name": "cc",
+            "nameAr": "cc",
+            "nameEn": "cc",
+            "type": {
+                "id": 1,
+                "name": "خصم",
+                "color": "#007bff"
+            },
+            "coupon": null,
+            "fromDate": "2025-05-14T12:07:05.856",
+            "toDate": "2025-08-14T12:07:05.856",
+            "value": 230.00,
+            "valueType": {
+                "id": 2,
+                "name": "مبلغ",
+                "color": "#007bff"
+            },
+            "isActive": false,
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "quantity": 0,
+            "createdAt": "2025-08-14T16:20:16.6048464",
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "01b0a9b8-2e23-441f-9326-338e5a55c239",
+                    "name": "تصنيف 6",
+                    "nameAr": "تصنيف 6",
+                    "nameEn": "n8kyrl5pcbf5ctsdu3ca",
+                    "services": [
+                        {
+                            "id": "773956a6-baed-4f28-89da-1562fe5d6076",
+                            "name": "خدمة 5",
+                            "nameAr": "خدمة 5",
+                            "nameEn": "a9hv0jtjod",
+                            "price": 100.00,
+                            "branch": {
+                                "id": "dea4c134-d326-4244-847f-1aa3ec3623c6",
+                                "name": "Zeina test"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "beneficiaries": [
+                
+            ]
+        },
+        {
+            "id": "be565809-385d-4d13-3c58-08dddb354a68",
+            "name": "cc",
+            "nameAr": "cc",
+            "nameEn": "cc",
+            "type": {
+                "id": 1,
+                "name": "خصم",
+                "color": "#007bff"
+            },
+            "coupon": null,
+            "fromDate": "2025-05-14T12:07:05.856",
+            "toDate": "2025-08-14T12:07:05.856",
+            "value": 230.00,
+            "valueType": {
+                "id": 2,
+                "name": "مبلغ",
+                "color": "#007bff"
+            },
+            "isActive": true,
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "quantity": 0,
+            "createdAt": "2025-08-14T16:20:21.5488634",
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "01b0a9b8-2e23-441f-9326-338e5a55c239",
+                    "name": "تصنيف 6",
+                    "nameAr": "تصنيف 6",
+                    "nameEn": "n8kyrl5pcbf5ctsdu3ca",
+                    "services": [
+                        {
+                            "id": "773956a6-baed-4f28-89da-1562fe5d6076",
+                            "name": "خدمة 5",
+                            "nameAr": "خدمة 5",
+                            "nameEn": "a9hv0jtjod",
+                            "price": 100.00,
+                            "branch": {
+                                "id": "dea4c134-d326-4244-847f-1aa3ec3623c6",
+                                "name": "Zeina test"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "beneficiaries": [
+                
+            ]
+        },
+        {
+            "id": "32967333-f241-4fb8-3c59-08dddb354a68",
+            "name": "dddd",
+            "nameAr": "dddd",
+            "nameEn": "ddd",
+            "type": {
+                "id": 1,
+                "name": "خصم",
+                "color": "#007bff"
+            },
+            "coupon": null,
+            "fromDate": "2025-05-14T12:07:05.856",
+            "toDate": "2025-08-14T12:07:05.856",
+            "value": 230.00,
+            "valueType": {
+                "id": 2,
+                "name": "مبلغ",
+                "color": "#007bff"
+            },
+            "isActive": true,
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "quantity": 0,
+            "createdAt": "2025-08-14T16:21:06.4665891",
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "01b0a9b8-2e23-441f-9326-338e5a55c239",
+                    "name": "تصنيف 6",
+                    "nameAr": "تصنيف 6",
+                    "nameEn": "n8kyrl5pcbf5ctsdu3ca",
+                    "services": [
+                        {
+                            "id": "773956a6-baed-4f28-89da-1562fe5d6076",
+                            "name": "خدمة 5",
+                            "nameAr": "خدمة 5",
+                            "nameEn": "a9hv0jtjod",
+                            "price": 100.00,
+                            "branch": {
+                                "id": "dea4c134-d326-4244-847f-1aa3ec3623c6",
+                                "name": "Zeina test"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "beneficiaries": [
+                
+            ]
+        },
+        {
+            "id": "0f4a6749-8ec7-4503-3c5a-08dddb354a68",
+            "name": "dddd",
+            "nameAr": "dddd",
+            "nameEn": "ddd",
+            "type": {
+                "id": 1,
+                "name": "خصم",
+                "color": "#007bff"
+            },
+            "coupon": null,
+            "fromDate": "2025-07-01T00:00:00",
+            "toDate": "2025-08-14T12:07:05.856",
+            "value": 230.00,
+            "valueType": {
+                "id": 2,
+                "name": "مبلغ",
+                "color": "#007bff"
+            },
+            "isActive": false,
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "quantity": 0,
+            "createdAt": "2025-08-14T16:21:12.5289838",
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "01b0a9b8-2e23-441f-9326-338e5a55c239",
+                    "name": "تصنيف 6",
+                    "nameAr": "تصنيف 6",
+                    "nameEn": "n8kyrl5pcbf5ctsdu3ca",
+                    "services": [
+                        {
+                            "id": "773956a6-baed-4f28-89da-1562fe5d6076",
+                            "name": "خدمة 5",
+                            "nameAr": "خدمة 5",
+                            "nameEn": "a9hv0jtjod",
+                            "price": 100.00,
+                            "branch": {
+                                "id": "dea4c134-d326-4244-847f-1aa3ec3623c6",
+                                "name": "Zeina test"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "beneficiaries": [
+                
+            ]
+        },
+        {
+            "id": "97477a4a-1672-4852-4431-08dde0929833",
+            "name": "خبتقفطيحدس",
+            "nameAr": "خبتقفطيحدس",
+            "nameEn": "1npgvc",
+            "type": {
+                "id": 1,
+                "name": "خصم",
+                "color": "#007bff"
+            },
+            "coupon": "kp7wob",
+            "fromDate": "2025-08-17T08:14:52.56",
+            "toDate": "2025-08-30T08:14:52.56",
+            "value": 2.00,
+            "valueType": {
+                "id": 1,
+                "name": "نسبة",
+                "color": "#28a745"
+            },
+            "isActive": true,
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "quantity": 2,
+            "createdAt": "2025-08-21T12:10:37.9795807",
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                    "name": "تصنيف 1",
+                    "nameAr": "تصنيف 1",
+                    "nameEn": "84itpp8s1v9d33dteohe",
+                    "services": [
+                        {
+                            "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                            "name": "خدمة 443",
+                            "nameAr": "خدمة 443",
+                            "nameEn": "new ",
+                            "price": 11.00,
+                            "branch": {
+                                "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                                "name": "string"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "beneficiaries": [
+                {
+                    "id": "72d2e920-627e-4f63-9aed-e4ab08da3ffe",
+                    "name": "زينب ",
+                    "nameAr": "Benefaciary Benefaciary Benefaciary",
+                    "nameEn": "Benefaciary2 Benefaciary2 Benefaciary2",
+                    "identityNo": "66666002",
+                    "email": "52@rop.gov.ps",
+                    "photo": "Uploads/Default.png",
+                    "phoneNumber": "66666002",
+                    "forceNo": "52"
+                }
+            ]
+        },
+        {
+            "id": "a9024374-d384-4aa4-5c3e-08dde2dae7f6",
+            "name": "يقودكذخرتف",
+            "nameAr": "يقودكذخرتف",
+            "nameEn": "5a2kg2",
+            "type": {
+                "id": 1,
+                "name": "خصم",
+                "color": "#007bff"
+            },
+            "coupon": "4bg97w",
+            "fromDate": "2025-08-17T08:14:52.56",
+            "toDate": "2025-08-30T08:14:52.56",
+            "value": 230.00,
+            "valueType": {
+                "id": 2,
+                "name": "مبلغ",
+                "color": "#007bff"
+            },
+            "isActive": false,
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "quantity": 2,
+            "createdAt": "2025-08-24T09:53:17.8658216",
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                    "name": "تصنيف 1",
+                    "nameAr": "تصنيف 1",
+                    "nameEn": "84itpp8s1v9d33dteohe",
+                    "services": [
+                        {
+                            "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                            "name": "خدمة 443",
+                            "nameAr": "خدمة 443",
+                            "nameEn": "new ",
+                            "price": 11.00,
+                            "branch": {
+                                "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                                "name": "string"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "beneficiaries": [
+                {
+                    "id": "72d2e920-627e-4f63-9aed-e4ab08da3ffe",
+                    "name": "زينب ",
+                    "nameAr": "Benefaciary Benefaciary Benefaciary",
+                    "nameEn": "Benefaciary2 Benefaciary2 Benefaciary2",
+                    "identityNo": "66666002",
+                    "email": "52@rop.gov.ps",
+                    "photo": "Uploads/Default.png",
+                    "phoneNumber": "66666002",
+                    "forceNo": "52"
+                }
+            ]
+        }
+    ],
+    "errors": null,
+    "pagination": {
+        "totalRecords": 43,
+        "pageNumber": 1,
+        "pageSize": 10,
+        "totalPages": 5,
+        "hasNextPage": true,
+        "hasPreviousPage": false,
+        "isPaginated": true
+    },
+    "statusCode": 200
+}

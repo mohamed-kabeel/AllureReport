@@ -1,0 +1,95 @@
+{
+    "success": true,
+    "message": "تم جلب الفاتورة بنجاح",
+    "data": [
+        {
+            "id": "2d5be3ab-0de2-4fd5-9cba-7775219ec6bc",
+            "orderId": "00000000-0000-0000-0000-000000000000",
+            "invoiceNumber": "INV-20250824-9DEE74",
+            "createdAt": "2025-08-24T09:26:17.9095083",
+            "orderNumber": "ORD-20250824-2BE617",
+            "orderStatus": {
+                "id": 2,
+                "name": "في الطريق إلى المغسلة",
+                "color": "#1E90FF"
+            },
+            "paymentStatus": {
+                "id": 2,
+                "name": "غير مدفوع",
+                "color": "#FFA500"
+            },
+            "deliveryStatus": null,
+            "paymentMethod": null,
+            "orderType": {
+                "id": 2,
+                "name": "استلام",
+                "color": "#1E90FF"
+            },
+            "customerType": "External",
+            "customer": {
+                "name": "Jon Nader",
+                "forceNo": null,
+                "civilId": "string",
+                "phoneNumber": null,
+                "rank": null,
+                "isInternal": false,
+                "address": {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "description": "Suite 136 4174 Jina Squares, Bednarside, IL 12081-3251",
+                    "location": null,
+                    "city": null,
+                    "state": null,
+                    "area": null,
+                    "latitude": null,
+                    "longitude": null
+                }
+            },
+            "branchs": {
+                "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                "name": "string"
+            },
+            "collectionPoints": null,
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz",
+                "whatAppNumber": "1960281421"
+            },
+            "driverName": null,
+            "createdBy": {
+                "id": "9543a89f-143e-45b6-9a09-1f2b03f6a982",
+                "name": "LaundryStaff"
+            },
+            "duration": "57 دقيقة",
+            "totalItemsQuantity": 0,
+            "subTotal": 11.00,
+            "tax": 0.33,
+            "vat": null,
+            "discount": null,
+            "total": 11.88,
+            "notes": "rezfgdm9b5c8zhyxss1q",
+            "services": [
+                {
+                    "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                    "name": "خدمة 443",
+                    "unitPrice": 11.00,
+                    "quantity": 1,
+                    "category": {
+                        "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                        "name": "تصنيف 1"
+                    }
+                }
+            ],
+            "recievedDate": null,
+            "completedDate": null
+        }
+    ],
+    "pagination": {
+        "totalRecords": 1,
+        "pageNumber": 1,
+        "pageSize": 1,
+        "totalPages": 1,
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "isPaginated": true
+    }
+}

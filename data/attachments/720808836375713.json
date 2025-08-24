@@ -1,0 +1,352 @@
+{
+    "success": true,
+    "message": null,
+    "data": [
+        {
+            "orderId": "1aba0cdc-6ffb-4eed-ae27-08dddf21e251",
+            "orderNumber": "ORD-20250819-DA91BE",
+            "customer": {
+                "name": "تجربة",
+                "forceNo": null,
+                "civilId": "34343434",
+                "phoneNumber": null,
+                "rank": null,
+                "isInternal": false,
+                "address": {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "description": null,
+                    "location": null,
+                    "city": null,
+                    "state": null,
+                    "area": null,
+                    "latitude": null,
+                    "longitude": null
+                }
+            },
+            "customerType": "External",
+            "orderDate": "2025-08-19T16:11:18.0287512",
+            "servicesCount": 2,
+            "orderStatus": {
+                "id": 7,
+                "name": "مكتمل",
+                "color": "#6C757D"
+            },
+            "paymentStatus": {
+                "id": 2,
+                "name": "غير مدفوع",
+                "color": "#FFA500"
+            },
+            "paymentType": {
+                "id": 1,
+                "name": "كاش",
+                "color": "#1E90FF"
+            },
+            "orderType": {
+                "id": 2,
+                "name": "استلام",
+                "color": "#1E90FF"
+            },
+            "assignment": {
+                "id": 0,
+                "name": "غير معيّن",
+                "color": "#6C757D"
+            },
+            "branchs": {
+                "id": "05377c05-7b0f-4f9e-a7b1-3d3745177a39",
+                "name": "Khaled Alaa 3"
+            },
+            "collectionPoints": null,
+            "driverName": null,
+            "duration": "5 يوم",
+            "totalPrice": 448.80,
+            "subTotal": 110.00,
+            "vatAmount": 5.50,
+            "discountCode": null,
+            "taxAmount": 333.30,
+            "totalQuantities": 10,
+            "rate": null,
+            "isCollectionPointOrder": false,
+            "notes": [
+                {
+                    "id": "5deebb0d-7855-4e60-891e-0e2ab9fa2569",
+                    "noteText": "test",
+                    "createdAt": "2025-08-19T16:11:18.0289612",
+                    "createdByUserId": "9543a89f-143e-45b6-9a09-1f2b03f6a982",
+                    "createdByUserName": "LaundryStaff",
+                    "createdByRole": "LaundaryStaff",
+                    "target": 0
+                }
+            ],
+            "deliveryStatus": {
+                "id": 5,
+                "name": "تم التسليم للمغسلة",
+                "color": "#F52749"
+            },
+            "services": [
+                {
+                    "id": "e679d686-48ae-4b5d-ae64-166d4986cb76",
+                    "name": "خدمة 12",
+                    "unitPrice": 11.00,
+                    "quantity": 5,
+                    "category": {
+                        "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                        "name": "تصنيف 1"
+                    }
+                },
+                {
+                    "id": "b10f9afc-2805-4e42-a4af-a42cf6a0c38a",
+                    "name": "new",
+                    "unitPrice": 11.00,
+                    "quantity": 5,
+                    "category": {
+                        "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                        "name": "تصنيف 1"
+                    }
+                }
+            ],
+            "createdBy": {
+                "id": "9543a89f-143e-45b6-9a09-1f2b03f6a982",
+                "name": "LaundryStaff"
+            },
+            "laundry": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz",
+                "whatAppNumber": "1960281421"
+            }
+        },
+        {
+            "orderId": "279036f9-94fe-4815-cb6c-08ddde87a004",
+            "orderNumber": "ORD-20250818-A89755",
+            "customer": {
+                "name": "Jon Nader",
+                "forceNo": null,
+                "civilId": "string",
+                "phoneNumber": null,
+                "rank": null,
+                "isInternal": false,
+                "address": {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "description": "Suite 136 4174 Jina Squares, Bednarside, IL 12081-3251",
+                    "location": null,
+                    "city": null,
+                    "state": null,
+                    "area": null,
+                    "latitude": null,
+                    "longitude": null
+                }
+            },
+            "customerType": "External",
+            "orderDate": "2025-08-18T21:47:04.3026005",
+            "servicesCount": 1,
+            "orderStatus": {
+                "id": 7,
+                "name": "مكتمل",
+                "color": "#6C757D"
+            },
+            "paymentStatus": {
+                "id": 2,
+                "name": "غير مدفوع",
+                "color": "#FFA500"
+            },
+            "paymentType": {
+                "id": 1,
+                "name": "كاش",
+                "color": "#1E90FF"
+            },
+            "orderType": {
+                "id": 2,
+                "name": "استلام",
+                "color": "#1E90FF"
+            },
+            "assignment": {
+                "id": 0,
+                "name": "غير معيّن",
+                "color": "#6C757D"
+            },
+            "branchs": {
+                "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                "name": "string"
+            },
+            "collectionPoints": null,
+            "driverName": null,
+            "duration": "6 يوم",
+            "totalPrice": 44.88,
+            "subTotal": 11.00,
+            "vatAmount": 0.55,
+            "discountCode": "rowhcqvrfpw5anvpco2i",
+            "taxAmount": 33.33,
+            "totalQuantities": 1,
+            "rate": null,
+            "isCollectionPointOrder": false,
+            "notes": [
+                {
+                    "id": "1acc0786-8cbf-456b-9177-2c88018e0278",
+                    "noteText": "Hello from recieved",
+                    "createdAt": "2025-08-19T08:45:45.3872244",
+                    "createdByUserId": "9543a89f-143e-45b6-9a09-1f2b03f6a982",
+                    "createdByUserName": "LaundryStaff",
+                    "createdByRole": "LaundaryStaff",
+                    "target": 0
+                },
+                {
+                    "id": "b4569e3f-4c19-451e-8536-155c206bfb0e",
+                    "noteText": "test",
+                    "createdAt": "2025-08-19T08:45:02.9623568",
+                    "createdByUserId": "9543a89f-143e-45b6-9a09-1f2b03f6a982",
+                    "createdByUserName": "LaundryStaff",
+                    "createdByRole": "LaundaryStaff",
+                    "target": 0
+                },
+                {
+                    "id": "e072e971-9d8c-4f5f-b4a8-30848a5f29c7",
+                    "noteText": "nmmg430s2evxh4p1jj5y",
+                    "createdAt": "2025-08-18T21:47:04.3028511",
+                    "createdByUserId": "9543a89f-143e-45b6-9a09-1f2b03f6a982",
+                    "createdByUserName": "LaundryStaff",
+                    "createdByRole": "LaundaryStaff",
+                    "target": 0
+                },
+                {
+                    "id": "4ee4be90-ecb8-46d8-a1f2-22d94fc455a6",
+                    "noteText": "Adipisci qui sed consequatur tenetur voluptatem.",
+                    "createdAt": "2025-08-18T18:47:09.1917605",
+                    "createdByUserId": "fe780599-d108-474d-87c6-1d46fb2d5ab0",
+                    "createdByUserName": "Bree White1",
+                    "createdByRole": "laundaryManger",
+                    "target": 0
+                }
+            ],
+            "deliveryStatus": {
+                "id": 5,
+                "name": "تم التسليم للمغسلة",
+                "color": "#F52749"
+            },
+            "services": [
+                {
+                    "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                    "name": "خدمة 443",
+                    "unitPrice": 11.00,
+                    "quantity": 1,
+                    "category": {
+                        "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                        "name": "تصنيف 1"
+                    }
+                }
+            ],
+            "createdBy": {
+                "id": "9543a89f-143e-45b6-9a09-1f2b03f6a982",
+                "name": "LaundryStaff"
+            },
+            "laundry": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz",
+                "whatAppNumber": "1960281421"
+            }
+        },
+        {
+            "orderId": "a47a3905-05f6-4b0d-6fe6-08ddd4b52d21",
+            "orderNumber": "ORD-20250806-EF5DA5",
+            "customer": {
+                "name": "زينب ",
+                "forceNo": "52",
+                "civilId": "66666002",
+                "phoneNumber": "66666002",
+                "rank": {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية"
+                },
+                "isInternal": true,
+                "address": null
+            },
+            "customerType": "Internal",
+            "orderDate": "2025-08-06T09:47:56.7559101",
+            "servicesCount": 1,
+            "orderStatus": {
+                "id": 7,
+                "name": "مكتمل",
+                "color": "#6C757D"
+            },
+            "paymentStatus": {
+                "id": 1,
+                "name": "مدفوع",
+                "color": "#1E90FF"
+            },
+            "paymentType": {
+                "id": 1,
+                "name": "كاش",
+                "color": "#1E90FF"
+            },
+            "orderType": {
+                "id": 2,
+                "name": "استلام",
+                "color": "#1E90FF"
+            },
+            "assignment": {
+                "id": 0,
+                "name": "غير معيّن",
+                "color": "#6C757D"
+            },
+            "branchs": {
+                "id": "042db500-0937-4156-b653-cc9bf0d96092",
+                "name": "فرع مغسلة الزهور 12"
+            },
+            "collectionPoints": null,
+            "driverName": null,
+            "duration": "3 أسبوع",
+            "totalPrice": 216.00,
+            "subTotal": 200.00,
+            "vatAmount": 10.00,
+            "discountCode": "2010",
+            "taxAmount": 6.00,
+            "totalQuantities": 0,
+            "rate": null,
+            "isCollectionPointOrder": false,
+            "notes": [
+                {
+                    "id": "a4c3a450-c853-4839-94d8-af411f2069cb",
+                    "noteText": "TestNote",
+                    "createdAt": "2025-08-13T12:19:15.8963",
+                    "createdByUserId": "fe780599-d108-474d-87c6-1d46fb2d5ab0",
+                    "createdByUserName": "Bree White1",
+                    "createdByRole": "laundaryManger",
+                    "target": 0
+                },
+                {
+                    "id": "1ad33f29-c3a7-4597-8549-7aa575b752ab",
+                    "noteText": "testDDING",
+                    "createdAt": "2025-08-06T09:47:56.7564075",
+                    "createdByUserId": "9543a89f-143e-45b6-9a09-1f2b03f6a982",
+                    "createdByUserName": "LaundryStaff",
+                    "createdByRole": "LaundaryStaff",
+                    "target": 0
+                }
+            ],
+            "deliveryStatus": {
+                "id": 1,
+                "name": "طلب جديد",
+                "color": "#FFA500"
+            },
+            "services": [
+                
+            ],
+            "createdBy": {
+                "id": "9543a89f-143e-45b6-9a09-1f2b03f6a982",
+                "name": "LaundryStaff"
+            },
+            "laundry": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz",
+                "whatAppNumber": "1960281421"
+            }
+        }
+    ],
+    "pagination": {
+        "totalRecords": 3,
+        "pageNumber": 1,
+        "pageSize": 10,
+        "totalPages": 1,
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "isPaginated": true
+    }
+}

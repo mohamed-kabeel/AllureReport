@@ -1,0 +1,6 @@
+{
+  "name": "molestiae",
+  "percentage": 20,
+  "taxType": 2,
+  "isActive": true
+}

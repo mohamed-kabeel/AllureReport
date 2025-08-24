@@ -1,0 +1,152 @@
+[
+    {
+        "id": "26cc3232-0c2a-4a1a-af79-31d8ed219310",
+        "nameAr": "الشركات",
+        "nameEn": "الشركات",
+        "orderIndex": 0,
+        "actionName": "ModuleAccess",
+        "moduleId": "26cc3232-0c2a-4a1a-af79-31d8ed219310",
+        "module": null,
+        "subPermissions": null
+    },
+    {
+        "id": "650a1b44-0724-4475-aa18-39a8b1db272c",
+        "nameAr": "okltpkpjde",
+        "nameEn": "lv11lcour5",
+        "orderIndex": 0,
+        "actionName": "797edegouk",
+        "moduleId": "26cc3232-0c2a-4a1a-af79-31d8ed219310",
+        "module": null,
+        "subPermissions": null
+    },
+    {
+        "id": "56e407d7-81e8-4b1a-9faf-3f1d10e2729d",
+        "nameAr": "المنتسبين",
+        "nameEn": "المنتسبين",
+        "orderIndex": 0,
+        "actionName": "ModuleAccess",
+        "moduleId": "56e407d7-81e8-4b1a-9faf-3f1d10e2729d",
+        "module": null,
+        "subPermissions": null
+    },
+    {
+        "id": "147b8e47-e9ed-45eb-9696-60f70326be48",
+        "nameAr": "الأخبار",
+        "nameEn": "الأخبار",
+        "orderIndex": 0,
+        "actionName": "ModuleAccess",
+        "moduleId": "147b8e47-e9ed-45eb-9696-60f70326be48",
+        "module": null,
+        "subPermissions": null
+    },
+    {
+        "id": "a6c01999-f9f5-4f87-9d72-6a0787fd93b0",
+        "nameAr": "8e1w7gxoev",
+        "nameEn": "v2ji4b20xx",
+        "orderIndex": 0,
+        "actionName": "mrcvjfugv2n",
+        "moduleId": "26cc3232-0c2a-4a1a-af79-31d8ed219310",
+        "module": null,
+        "subPermissions": null
+    },
+    {
+        "id": "1b1aa7f1-d806-4852-8513-6c4eaf7bd2d3",
+        "nameAr": "الموظفين والصلاحيات",
+        "nameEn": "الموظفين والصلاحيات",
+        "orderIndex": 0,
+        "actionName": "ModuleAccess",
+        "moduleId": "1b1aa7f1-d806-4852-8513-6c4eaf7bd2d3",
+        "module": null,
+        "subPermissions": null
+    },
+    {
+        "id": "a14ab4a0-5e8a-4d4e-99af-7c1de7827e73",
+        "nameAr": "عروض الشركات",
+        "nameEn": "عروض الشركات",
+        "orderIndex": 0,
+        "actionName": "ModuleAccess",
+        "moduleId": "a14ab4a0-5e8a-4d4e-99af-7c1de7827e73",
+        "module": null,
+        "subPermissions": null
+    },
+    {
+        "id": "fe8cc7be-1414-4275-930a-a9979566d493",
+        "nameAr": "eos1t6weki",
+        "nameEn": "d59horh0l3",
+        "orderIndex": 0,
+        "actionName": "ee7dmhkdosn",
+        "moduleId": "26cc3232-0c2a-4a1a-af79-31d8ed219310",
+        "module": null,
+        "subPermissions": null
+    },
+    {
+        "id": "556440a4-2800-4db7-86fc-a9b68621b2d3",
+        "nameAr": "الإعدادات",
+        "nameEn": "الإعدادات",
+        "orderIndex": 0,
+        "actionName": "ModuleAccess",
+        "moduleId": "556440a4-2800-4db7-86fc-a9b68621b2d3",
+        "module": null,
+        "subPermissions": null
+    },
+    {
+        "id": "3a44f404-6a43-4660-a515-c1a89e0d4629",
+        "nameAr": "yjgiow2qk6",
+        "nameEn": "aj2twliv15",
+        "orderIndex": 0,
+        "actionName": "solfye4rcs",
+        "moduleId": "26cc3232-0c2a-4a1a-af79-31d8ed219310",
+        "module": null,
+        "subPermissions": null
+    },
+    {
+        "id": "98dd1d4d-cca9-416b-a798-d1429a9a6340",
+        "nameAr": "التقارير",
+        "nameEn": "التقارير",
+        "orderIndex": 0,
+        "actionName": "ModuleAccess",
+        "moduleId": "98dd1d4d-cca9-416b-a798-d1429a9a6340",
+        "module": null,
+        "subPermissions": null
+    },
+    {
+        "id": "367b654e-cf0d-4e23-ae71-da7572dbf695",
+        "nameAr": "1xl16y1d1u",
+        "nameEn": "umfmp0qo7x",
+        "orderIndex": 0,
+        "actionName": "cwdfzmmbdhn",
+        "moduleId": "26cc3232-0c2a-4a1a-af79-31d8ed219310",
+        "module": null,
+        "subPermissions": null
+    },
+    {
+        "id": "4af00df6-e4e6-4f27-834f-e76a19ce0d2a",
+        "nameAr": "نظرة عامة",
+        "nameEn": "نظرة عامة",
+        "orderIndex": 0,
+        "actionName": "ModuleAccess",
+        "moduleId": "4af00df6-e4e6-4f27-834f-e76a19ce0d2a",
+        "module": null,
+        "subPermissions": null
+    },
+    {
+        "id": "954c48af-d3d4-4e1a-8ff4-e7e78f73b873",
+        "nameAr": "cfhm8ckqz1",
+        "nameEn": "lli5psx9xg",
+        "orderIndex": 0,
+        "actionName": "iwfboyy3s3",
+        "moduleId": "26cc3232-0c2a-4a1a-af79-31d8ed219310",
+        "module": null,
+        "subPermissions": null
+    },
+    {
+        "id": "1a1fb746-a386-4f99-9f26-f681bec1bee8",
+        "nameAr": "المغاسل",
+        "nameEn": "المغاسل",
+        "orderIndex": 0,
+        "actionName": "ModuleAccess",
+        "moduleId": "1a1fb746-a386-4f99-9f26-f681bec1bee8",
+        "module": null,
+        "subPermissions": null
+    }
+]

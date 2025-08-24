@@ -1,0 +1,26 @@
+[
+    {
+        "id": "29e3e853-37a2-4fa5-a345-08ddd33e5f27",
+        "name": "ضريبه مضافهVAT",
+        "percentage": 5.00,
+        "isActive": true,
+        "taxType": 2,
+        "createdAt": "2025-08-04T13:04:59.4267884"
+    },
+    {
+        "id": "cc32ae66-2dc6-49a8-a374-08ddd33ef232",
+        "name": "Tax الضريبة",
+        "percentage": 3.00,
+        "isActive": true,
+        "taxType": 1,
+        "createdAt": "2025-08-04T13:09:06.1224708"
+    },
+    {
+        "id": "4f314399-0f62-4b11-2029-08dde2df3873",
+        "name": "impedit",
+        "percentage": 15.00,
+        "isActive": true,
+        "taxType": 1,
+        "createdAt": "2025-08-24T10:24:10.9128654"
+    }
+]

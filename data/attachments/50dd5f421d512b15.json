@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "message": "تم إنشاء الفرع بنجاح.",
+    "data": {
+        "id": "b9f8a32e-8064-4702-99c4-40ca99a8180e",
+        "name": "aew9kwsu5m",
+        "cityName": null,
+        "cityId": "472f1eca-65b1-44b1-c283-08ddad82b7e7",
+        "state": null,
+        "stateId": "cb6a19c3-1b6c-4de2-c137-08ddae4affbd",
+        "area": null,
+        "areaId": "2217e8a9-0437-4b57-b17e-08ddae4b0018",
+        "phoneNumber": "7272784842",
+        "telePhone": "7770424885",
+        "email": "man.jacobson@yahoo.com",
+        "laundaryId": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+        "location": "{\"location\":\"7HMW88CH+Q5\",\"countryCode\":\"OM\",\"longitude\":58.32796819173696,\"latitude\":23.321926243728676,\"dialCode\":\"968\",\"city\":\"مسقط\",\"cityId\":\"472f1eca-65b1-44b1-c283-08ddad82b7e7\",\"state\":\"السيب\",\"stateId\":\"cb6a19c3-1b6c-4de2-c137-08ddae4affbd\",\"area\":\"المنطقة التجارية\",\"areaId\":\"2217e8a9-0437-4b57-b17e-08ddae4b0018\"}"
+    },
+    "errors": null,
+    "pagination": null,
+    "statusCode": 200
+}

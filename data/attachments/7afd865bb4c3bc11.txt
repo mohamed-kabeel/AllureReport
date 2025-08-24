@@ -1,0 +1,8 @@
+{
+  "title": "exc6br1dxi06xd3q5m10",
+  "content": "m6rfn33sfe5c01dyfymlgqtt9apdnormiq8fznatgfwgfqt00w",
+  "type": 1,
+  "isToAll": true,
+  "receiverUserIds": ["string"],
+  "senderUserId": "6451b696-b469-4df2-b0a3-5cfa2364367b"
+}

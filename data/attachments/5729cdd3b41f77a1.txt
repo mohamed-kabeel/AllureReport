@@ -1,0 +1,5 @@
+{
+  "id": "44a92f6c-3f7c-411c-f9fa-08dde2df07ad",
+  "isApproved": true,
+  "rejectionReason": "string"
+}

@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "تم استرجاع الاشتراكات بنجاح.",
+    "data": [
+        {
+            "id": "9d8b882d-e011-4705-fac8-08dddef670f4",
+            "package": {
+                "id": "97eba3b3-5ad6-435c-2680-08dddee2f2a5",
+                "name": "نيو باقة ",
+                "nameAr": "نيو باقة ",
+                "nameEn": "new "
+            },
+            "beneficiary": {
+                "id": "19024b1c-fbf9-4877-8e9d-5a5d9c180025",
+                "name": "Benefaciary Benefaciary Benefaciary Benefaciary",
+                "nameAr": "Benefaciary Benefaciary Benefaciary",
+                "nameEn": "Benefaciary Benefaciary Benefaciary",
+                "identityNo": "66666003",
+                "email": "51@rop.gov.ps",
+                "photo": "Uploads/Default.png",
+                "forceNo": "51",
+                "relations": {
+                    "maritalStatusEn": "married",
+                    "maritalStatusAr": "متزوج",
+                    "deathStatus": "false",
+                    "relation": [
+                        
+                    ]
+                }
+            },
+            "status": {
+                "id": 1,
+                "name": "نشط",
+                "color": "#28a745"
+            },
+            "price": 11.00,
+            "expirationDate": "2025-08-30T10:59:57.070896",
+            "totalQuantity": 2,
+            "usedQuantity": 0,
+            "serviceCategories": [
+                {
+                    "id": "caf72a92-a10b-4e08-82e3-d801942ed42f",
+                    "name": "تللاندمحظن",
+                    "nameAr": "تللاندمحظن",
+                    "nameEn": "s2ehlye58gygg5kqm4tg",
+                    "services": [
+                        {
+                            "id": "b66515c0-1dc7-433c-a0b9-2c5dba021f9a",
+                            "name": "الخدمة 111",
+                            "nameAr": "الخدمة 111",
+                            "nameEn": "الخدمة 111",
+                            "price": 1.00,
+                            "quantity": 2,
+                            "usedQuantity": 0,
+                            "branch": {
+                                "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                                "name": "string",
+                                "phoneNumber": "string",
+                                "email": "string",
+                                "city": {
+                                    "id": "472f1eca-65b1-44b1-c283-08ddad82b7e7",
+                                    "name": "البريمي",
+                                    "nameAr": "البريمي",
+                                    "nameEn": "Al Buraimi"
+                                },
+                                "state": {
+                                    "id": "cb6a19c3-1b6c-4de2-c137-08ddae4affbd",
+                                    "name": "قريات",
+                                    "nameAr": "قريات",
+                                    "nameEn": "Qurayyat"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "dd1d0430-c073-414a-266c-08dddeec6781",
+            "package": {
+                "id": "97eba3b3-5ad6-435c-2680-08dddee2f2a5",
+                "name": "نيو باقة ",
+                "nameAr": "نيو باقة ",
+                "nameEn": "new "
+            },
+            "beneficiary": {
+                "id": "19024b1c-fbf9-4877-8e9d-5a5d9c180025",
+                "name": "Benefaciary Benefaciary Benefaciary Benefaciary",
+                "nameAr": "Benefaciary Benefaciary Benefaciary",
+                "nameEn": "Benefaciary Benefaciary Benefaciary",
+                "identityNo": "66666003",
+                "email": "51@rop.gov.ps",
+                "photo": "Uploads/Default.png",
+                "forceNo": "51",
+                "relations": {
+                    "maritalStatusEn": "married",
+                    "maritalStatusAr": "متزوج",
+                    "deathStatus": "false",
+                    "relation": [
+                        
+                    ]
+                }
+            },
+            "status": {
+                "id": 2,
+                "name": "منتهي",
+                "color": "#dc3545"
+            },
+            "price": 11.00,
+            "expirationDate": "2025-07-30T09:48:22.7338694",
+            "totalQuantity": 2,
+            "usedQuantity": 0,
+            "serviceCategories": [
+                {
+                    "id": "caf72a92-a10b-4e08-82e3-d801942ed42f",
+                    "name": "تللاندمحظن",
+                    "nameAr": "تللاندمحظن",
+                    "nameEn": "s2ehlye58gygg5kqm4tg",
+                    "services": [
+                        {
+                            "id": "b66515c0-1dc7-433c-a0b9-2c5dba021f9a",
+                            "name": "الخدمة 111",
+                            "nameAr": "الخدمة 111",
+                            "nameEn": "الخدمة 111",
+                            "price": 1.00,
+                            "quantity": 2,
+                            "usedQuantity": 0,
+                            "branch": {
+                                "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                                "name": "string",
+                                "phoneNumber": "string",
+                                "email": "string",
+                                "city": {
+                                    "id": "472f1eca-65b1-44b1-c283-08ddad82b7e7",
+                                    "name": "البريمي",
+                                    "nameAr": "البريمي",
+                                    "nameEn": "Al Buraimi"
+                                },
+                                "state": {
+                                    "id": "cb6a19c3-1b6c-4de2-c137-08ddae4affbd",
+                                    "name": "قريات",
+                                    "nameAr": "قريات",
+                                    "nameEn": "Qurayyat"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "errors": null,
+    "pagination": {
+        "totalRecords": 2,
+        "pageNumber": 1,
+        "pageSize": 10,
+        "totalPages": 1,
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "isPaginated": true
+    },
+    "statusCode": 200
+}

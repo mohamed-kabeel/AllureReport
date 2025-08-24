@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": null,
+    "data": [
+        {
+            "orderId": "4b7a2f99-2df3-49aa-917e-08dddfb449c6",
+            "orderNumber": "ORD-20250820-05D722",
+            "customer": {
+                "name": "john",
+                "forceNo": null,
+                "civilId": "8888855555",
+                "phoneNumber": null,
+                "rank": null,
+                "isInternal": false,
+                "address": {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "description": null,
+                    "location": null,
+                    "city": null,
+                    "state": null,
+                    "area": null,
+                    "latitude": null,
+                    "longitude": null
+                }
+            },
+            "customerType": "External",
+            "orderDate": "2025-08-20T09:39:18.1266351",
+            "servicesCount": 2,
+            "orderStatus": {
+                "id": 6,
+                "name": "في الطريق للعميل",
+                "color": "#17A2B8"
+            },
+            "paymentStatus": {
+                "id": 2,
+                "name": "غير مدفوع",
+                "color": "#FFA500"
+            },
+            "paymentType": {
+                "id": 1,
+                "name": "كاش",
+                "color": "#1E90FF"
+            },
+            "orderType": {
+                "id": 2,
+                "name": "استلام",
+                "color": "#1E90FF"
+            },
+            "assignment": {
+                "id": 0,
+                "name": "غير معيّن",
+                "color": "#6C757D"
+            },
+            "branchs": {
+                "id": "a9e756d7-e3a7-49ef-be48-2ececc8bef45",
+                "name": "Khaled Alaa 2"
+            },
+            "collectionPoints": null,
+            "driverName": null,
+            "duration": "4 يوم",
+            "totalPrice": 118.80,
+            "subTotal": 110.00,
+            "vatAmount": 5.50,
+            "discountCode": null,
+            "taxAmount": 3.30,
+            "totalQuantities": 10,
+            "rate": null,
+            "isCollectionPointOrder": false,
+            "notes": [
+                {
+                    "id": "f7658b6b-c193-4603-86d7-11b8ebf12a01",
+                    "noteText": "text tax",
+                    "createdAt": "2025-08-20T09:39:18.1268649",
+                    "createdByUserId": "9543a89f-143e-45b6-9a09-1f2b03f6a982",
+                    "createdByUserName": "LaundryStaff",
+                    "createdByRole": "LaundaryStaff",
+                    "target": 0
+                }
+            ],
+            "deliveryStatus": {
+                "id": 7,
+                "name": "مع السائق",
+                "color": "#4DB838"
+            },
+            "services": [
+                {
+                    "id": "ccae7094-9eff-439c-a01e-0dbe7645544b",
+                    "name": "خدمة 13",
+                    "unitPrice": 11.00,
+                    "quantity": 5,
+                    "category": {
+                        "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                        "name": "تصنيف 2"
+                    }
+                },
+                {
+                    "id": "e679d686-48ae-4b5d-ae64-166d4986cb76",
+                    "name": "خدمة 12",
+                    "unitPrice": 11.00,
+                    "quantity": 5,
+                    "category": {
+                        "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                        "name": "تصنيف 1"
+                    }
+                }
+            ],
+            "createdBy": {
+                "id": "9543a89f-143e-45b6-9a09-1f2b03f6a982",
+                "name": "LaundryStaff"
+            },
+            "laundry": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz",
+                "whatAppNumber": "1960281421"
+            }
+        }
+    ],
+    "pagination": {
+        "totalRecords": 1,
+        "pageNumber": 1,
+        "pageSize": 10,
+        "totalPages": 1,
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "isPaginated": true
+    }
+}

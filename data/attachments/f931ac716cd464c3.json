@@ -1,0 +1,36 @@
+{
+    "success": true,
+    "message": null,
+    "data": [
+        {
+            "id": "01b0a9b8-2e23-441f-9326-338e5a55c239",
+            "name": "تصنيف 6",
+            "nameAr": "تصنيف 6",
+            "nameEn": "n8kyrl5pcbf5ctsdu3ca",
+            "isActive": true
+        },
+        {
+            "id": "13cf5703-d58f-4e9f-905d-8026be9d3423",
+            "name": "تصنيف 7",
+            "nameAr": "تصنيف 7",
+            "nameEn": "y1i1ww0zm8yiv99cqo6n",
+            "isActive": true
+        },
+        {
+            "id": "11f5d325-14be-4b7c-8a32-fd6680e7704a",
+            "name": "تصنيف 8",
+            "nameAr": "تصنيف 8",
+            "nameEn": "kgrj8nnfyovk1q0s336d",
+            "isActive": true
+        }
+    ],
+    "pagination": {
+        "totalRecords": 10,
+        "pageNumber": 2,
+        "pageSize": 7,
+        "totalPages": 2,
+        "hasNextPage": false,
+        "hasPreviousPage": true,
+        "isPaginated": true
+    }
+}

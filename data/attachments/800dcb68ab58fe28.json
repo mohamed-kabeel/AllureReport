@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": " تم استلام بيانات المستخدم بنجاح",
+    "data": {
+        "id": "afedbe18-dea6-43e2-8454-405c3066d68c",
+        "name": "lkg9twqerk",
+        "email": "trenton.ryan@hotmail.com",
+        "phoneNumber": "4450223550",
+        "isActive": true,
+        "photo": null,
+        "createdAt": "2025-08-24T06:25:37.143121",
+        "note": "42se5c2u7m",
+        "roleName": null,
+        "roles": [
+            "laundaryStaffDelivery"
+        ],
+        "roleIds": [
+            "1b71f5d5-ec30-4603-a19c-b6dcffa59038"
+        ],
+        "identityNo": "6287621367",
+        "branches": [
+            {
+                "id": "0539cb78-fdce-4f9e-b27a-864acbefafc8",
+                "name": "lkjasdkljfoiwjer"
+            }
+        ],
+        "laundaries": [
+            {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            }
+        ],
+        "collectionPoints": [
+            {
+                "id": "0d2b5bf7-fa62-4807-39ee-08ddd350d2bb",
+                "name": "Sample Service"
+            }
+        ]
+    },
+    "errors": null,
+    "pagination": null,
+    "statusCode": 200
+}

@@ -1,0 +1,8 @@
+{
+    "success": true,
+    "message": "تم رفض طلب إضافة نقطة التجميع.",
+    "data": null,
+    "errors": null,
+    "pagination": null,
+    "statusCode": 200
+}

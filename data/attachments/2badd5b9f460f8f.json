@@ -1,0 +1,230 @@
+{
+    "success": true,
+    "message": " تم استرجاع الأدوار بنجاح",
+    "data": [
+        {
+            "id": "0669c38a-c992-458d-8c61-b475595659e3",
+            "name": "a58diohtt3"
+        },
+        {
+            "id": "11a0de3d-55b1-4e8d-9d4c-713cdbd8168a",
+            "name": "AdminStaff"
+        },
+        {
+            "id": "1a4fd656-7c5b-404d-b9b9-88f4c72a0146",
+            "name": "5n9tekwqad"
+        },
+        {
+            "id": "1b71f5d5-ec30-4603-a19c-b6dcffa59038",
+            "name": "laundaryStaffDelivery"
+        },
+        {
+            "id": "1c81ef77-bf42-4cb2-8629-e2a39adaaa93",
+            "name": "w6ayzcvb7x"
+        },
+        {
+            "id": "20395370-f50f-48d2-825e-2f841f9fcf90",
+            "name": "dvf6i5jl6f"
+        },
+        {
+            "id": "20ff9273-3d7f-4e89-b308-980ff71f254e",
+            "name": "CompanyAdmin"
+        },
+        {
+            "id": "21566af8-2ce9-467d-94d8-0898ab985960",
+            "name": "uv6xgodmij"
+        },
+        {
+            "id": "2b854b91-ccf5-444c-b5d8-b6a26312553f",
+            "name": "lomey5dcnf"
+        },
+        {
+            "id": "3425fa03-96a6-4354-8676-d28a0d3970f9",
+            "name": "ho64a786ik"
+        },
+        {
+            "id": "36eae6ab-3e38-4c41-8b6e-dd51d12ecc90",
+            "name": "ZeinabTestRole"
+        },
+        {
+            "id": "3bd4f091-39de-44d2-98a9-09b87851ef3a",
+            "name": "ic52jg6v61"
+        },
+        {
+            "id": "3d41733c-f14a-4de9-a1d7-1665370e0435",
+            "name": "r5ejzh6u80"
+        },
+        {
+            "id": "3fb29cfc-ef18-411a-b458-2462b2639bf6",
+            "name": "yy1lj90par"
+        },
+        {
+            "id": "40d2fd95-adde-46ff-a409-8fba8646cc51",
+            "name": "9aodchdfgd"
+        },
+        {
+            "id": "46452f93-271c-4637-8aca-ad0cdff9cc54",
+            "name": "kp0z5hb4ac"
+        },
+        {
+            "id": "4a557b14-a71b-4832-b3ac-0cf6f00a6c64",
+            "name": "ji6st9d9k8"
+        },
+        {
+            "id": "5378e4bd-0053-46c6-bba0-fcb74bc290b2",
+            "name": "b4dus3dwk9"
+        },
+        {
+            "id": "588ec07a-a427-4f6f-9c7b-878a4a246938",
+            "name": "bxlfzdcx0y"
+        },
+        {
+            "id": "5ad9498d-262e-4aa8-9c30-63f1336911ce",
+            "name": "o3hgk5k3pf"
+        },
+        {
+            "id": "5b1f8db4-d086-41f9-a798-1b77125848d3",
+            "name": "hrv5m05nbt"
+        },
+        {
+            "id": "5d45445f-887e-4056-8fb4-29de84a3c9e2",
+            "name": "0c8p50u0n8"
+        },
+        {
+            "id": "5e9eb706-50a3-4668-85aa-fd34a1a1e5eb",
+            "name": "Admin"
+        },
+        {
+            "id": "602127c5-aaca-4acb-9e9d-f2227eedb9c2",
+            "name": "CompanyStaff"
+        },
+        {
+            "id": "627a27dd-97c5-49ef-ad7d-7853448ef2dc",
+            "name": "x3evah17im"
+        },
+        {
+            "id": "690b91eb-1404-424b-968f-ef0775a9e9be",
+            "name": "n1fxtv24v9"
+        },
+        {
+            "id": "6cc095b2-215c-4800-a1a1-4daf475ac9e4",
+            "name": "8yqvbugiq5"
+        },
+        {
+            "id": "7086ef74-cc53-4369-8a3b-06f87cacc89e",
+            "name": "lzk5lopt00"
+        },
+        {
+            "id": "72296302-241b-4db6-8e04-32ebdab1a5f9",
+            "name": "ydhfjrztlb"
+        },
+        {
+            "id": "74c4fdd2-845f-45b5-9e92-927d8ca2b3fb",
+            "name": "w5mvt2k8yy"
+        },
+        {
+            "id": "7722273c-306b-40eb-b049-f498775462da",
+            "name": "a9zaiebl4m"
+        },
+        {
+            "id": "788e1b88-71b6-4eeb-88e9-01b8bb728ddd",
+            "name": "apdylde8bi"
+        },
+        {
+            "id": "7ab41196-aeec-4e60-94fa-4a123793eadc",
+            "name": "7dxpnq4vfi"
+        },
+        {
+            "id": "7d029e12-a9c2-402b-94d7-c8b0dac95bcb",
+            "name": "ux136fajji"
+        },
+        {
+            "id": "7d032b65-e054-4b97-af0e-ca6ff4b8ed66",
+            "name": "4ozyulsook"
+        },
+        {
+            "id": "88b17fca-96ac-40ae-bbf7-e2aca1d02387",
+            "name": "385e3qo20t"
+        },
+        {
+            "id": "913b57c4-3694-49a8-a251-61dfc378acfb",
+            "name": "laundaryManger"
+        },
+        {
+            "id": "9714879a-d1bc-42a0-aee3-44615b380e17",
+            "name": "kv7gn7js2f"
+        },
+        {
+            "id": "a13b266a-d334-4c90-88a3-63df2e304cbc",
+            "name": "nn1lldaww7"
+        },
+        {
+            "id": "ab1dbabd-a9a8-4d40-b89a-972d210f20bb",
+            "name": "sbhi2l8f08"
+        },
+        {
+            "id": "aefa544a-a17c-4f1f-99d9-ef689519d33e",
+            "name": "yvuy6hj3di"
+        },
+        {
+            "id": "b0234785-f976-4759-b9bf-3900153f2fb5",
+            "name": "idyfkwrypj"
+        },
+        {
+            "id": "b0bf1183-42b9-40e1-9573-9601f7cc6458",
+            "name": "60rp1wfqbm"
+        },
+        {
+            "id": "b585fdaa-7e1d-416f-8fc9-669f234bc8e0",
+            "name": "kdjrcrikmh"
+        },
+        {
+            "id": "bad0737d-88de-4972-8270-7d73dba89892",
+            "name": "LaundaryStaff"
+        },
+        {
+            "id": "bd60791a-56d2-4479-90fe-2396a69bd083",
+            "name": "fg20kppcxf"
+        },
+        {
+            "id": "bd667da4-3d6c-460a-b927-d31cf3d3110c",
+            "name": "evc61qvbdi"
+        },
+        {
+            "id": "c264bd8e-4bb4-481d-b372-84aae59c07d8",
+            "name": "kri3n97brc"
+        },
+        {
+            "id": "cb5ea06f-6c0c-46fc-89ce-6e787ac55532",
+            "name": "n9h0040sfx"
+        },
+        {
+            "id": "e244ad0d-1eb3-461b-bec4-80dfd30248d8",
+            "name": "jwogisxcph"
+        },
+        {
+            "id": "e6dbaa81-f3f7-4b2f-8c37-49d3d184b539",
+            "name": "7foyh3x91m"
+        },
+        {
+            "id": "e7deeea3-36d2-41a4-af06-c2fd02041544",
+            "name": "laundryDelivery"
+        },
+        {
+            "id": "f3407048-fd70-42aa-b8f5-5122711f7a96",
+            "name": "LaundryRepresenter"
+        },
+        {
+            "id": "f4a90d21-45d0-4433-b2d9-3c53f2cccf74",
+            "name": "bmi3vwkiy7"
+        },
+        {
+            "id": "fb2581d2-168e-4df5-adac-61e17b6ef2f7",
+            "name": "Beneficiary"
+        },
+        {
+            "id": "fb40b85a-1a95-4784-9f53-b6e0572f504a",
+            "name": "tvhck9qgrj"
+        }
+    ]
+}

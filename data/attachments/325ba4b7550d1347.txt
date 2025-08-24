@@ -1,0 +1,13 @@
+{
+  "customerAddress": "tp4zrey449",
+  "laundaryId": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+  "branchId": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+  "collectionPointId": "e0039a27-231e-4de6-d98a-08ddde1b5f42",
+  "orderType": 1,
+  "services": [
+    {
+      "serviceId": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+      "quantity": 2
+    }
+  ]
+}

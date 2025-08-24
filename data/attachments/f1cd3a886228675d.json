@@ -1,0 +1,398 @@
+{
+    "success": true,
+    "message": "تم جلب قائمة الموظفين بنجاح.",
+    "data": [
+        {
+            "id": "da61fd3e-acb3-4c6d-a7f7-b627a34a050e",
+            "name": "hsfa7nzamu",
+            "email": "etta.beier@hotmail.com",
+            "phoneNumber": "5020497199",
+            "isActive": true,
+            "photo": null,
+            "createdAt": "2025-08-24T07:23:16.9782741",
+            "note": "m0141rs2jd",
+            "roleName": "laundaryStaffDelivery",
+            "roles": [
+                "laundaryStaffDelivery"
+            ],
+            "roleIds": [
+                "1b71f5d5-ec30-4603-a19c-b6dcffa59038"
+            ],
+            "identityNo": "3083865503",
+            "branches": [
+                {
+                    "id": "0539cb78-fdce-4f9e-b27a-864acbefafc8",
+                    "name": "lkjasdkljfoiwjer"
+                }
+            ],
+            "laundaries": [
+                {
+                    "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                    "name": "hef71cityz"
+                }
+            ],
+            "collectionPoints": [
+                {
+                    "id": "0d2b5bf7-fa62-4807-39ee-08ddd350d2bb",
+                    "name": "Sample Service"
+                }
+            ]
+        },
+        {
+            "id": "64ec4ca9-5006-460e-821f-c475b2974090",
+            "name": "driver_laundry",
+            "email": "test4548@test.com",
+            "phoneNumber": "54648484",
+            "isActive": true,
+            "photo": null,
+            "createdAt": "2025-08-18T08:18:07.0511528",
+            "note": "test",
+            "roleName": "laundryDelivery",
+            "roles": [
+                "laundryDelivery"
+            ],
+            "roleIds": [
+                "e7deeea3-36d2-41a4-af06-c2fd02041544"
+            ],
+            "identityNo": "1546484",
+            "branches": [
+                {
+                    "id": "1222ad82-d50d-424e-a46c-1a038aff4dfc",
+                    "name": "1d8i9rcz5m"
+                },
+                {
+                    "id": "1d55f772-ead4-4dd4-9ba9-1ed9199b776b",
+                    "name": "04kgaytbnf"
+                },
+                {
+                    "id": "c2eaac6b-2f2b-424d-b61e-270a65e180d4",
+                    "name": "059qa43o38"
+                },
+                {
+                    "id": "9db8eb76-d730-45e5-bec2-561b6db5d56b",
+                    "name": "35jplmam34"
+                },
+                {
+                    "id": "053a025d-5424-42b8-ba7b-6020406381ec",
+                    "name": "1l7aj96p1k"
+                },
+                {
+                    "id": "8ab6d6f8-f273-4423-83ca-6976c39aa357",
+                    "name": "1vmwcbqop8"
+                },
+                {
+                    "id": "ed9cf74b-eeae-4f99-8e7a-8073bb4c63ac",
+                    "name": "10rxkrfzy6"
+                },
+                {
+                    "id": "06a1b345-a596-4b1b-a203-b14f36ecec71",
+                    "name": "1cx60ufabs"
+                },
+                {
+                    "id": "6e3c5d5f-58b3-46b9-b2b8-d0fb2eca0863",
+                    "name": "30rayb2lcl"
+                },
+                {
+                    "id": "e2e23659-9249-4438-b99e-e56f51d6bacf",
+                    "name": "29tnucawe4"
+                }
+            ],
+            "laundaries": [
+                {
+                    "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                    "name": "hef71cityz"
+                }
+            ],
+            "collectionPoints": [
+                {
+                    "id": "e0039a27-231e-4de6-d98a-08ddde1b5f42",
+                    "name": "Sample Service"
+                }
+            ]
+        },
+        {
+            "id": "6425f821-5b0e-4884-94cf-a25aaa212231",
+            "name": "موظف اداره توصيل وطلبات",
+            "email": "DevMange@apex.com",
+            "phoneNumber": "99996666",
+            "isActive": true,
+            "photo": null,
+            "createdAt": "2025-08-18T07:11:47.9289014",
+            "note": "موظف اداره توصيل وطلبات ",
+            "roleName": "laundaryStaffDelivery",
+            "roles": [
+                "laundaryStaffDelivery"
+            ],
+            "roleIds": [
+                "1b71f5d5-ec30-4603-a19c-b6dcffa59038"
+            ],
+            "identityNo": "99996666",
+            "branches": [
+                {
+                    "id": "37b9da97-f872-4ebe-8f5d-556b74885d67",
+                    "name": "فرع مغسلة الاحتراف"
+                }
+            ],
+            "laundaries": [
+                {
+                    "id": "b06b3f75-9fe1-4ade-bff1-675339c159b5",
+                    "name": "مغسلة الاحتراف"
+                }
+            ],
+            "collectionPoints": [
+                {
+                    "id": "4f52c702-c0f7-488e-7f30-08ddba1d2633",
+                    "name": "فرع مغسلة الاحتراف"
+                }
+            ]
+        },
+        {
+            "id": "c9b05fcf-627b-43de-978f-27a05ecfdf61",
+            "name": "موظف مغسله Don'tDeletedplease",
+            "email": "LStest@ls.com",
+            "phoneNumber": "7770666",
+            "isActive": true,
+            "photo": null,
+            "createdAt": "2025-08-18T06:20:53.3751956",
+            "note": "موظف مغسله Don'tDeletedplease",
+            "roleName": "LaundaryStaff",
+            "roles": [
+                "LaundaryStaff"
+            ],
+            "roleIds": [
+                "bad0737d-88de-4972-8270-7d73dba89892"
+            ],
+            "identityNo": "7770666",
+            "branches": [
+                {
+                    "id": "37b9da97-f872-4ebe-8f5d-556b74885d67",
+                    "name": "فرع مغسلة الاحتراف"
+                }
+            ],
+            "laundaries": [
+                {
+                    "id": "b06b3f75-9fe1-4ade-bff1-675339c159b5",
+                    "name": "مغسلة الاحتراف"
+                }
+            ],
+            "collectionPoints": [
+                {
+                    "id": "4f52c702-c0f7-488e-7f30-08ddba1d2633",
+                    "name": "فرع مغسلة الاحتراف"
+                }
+            ]
+        },
+        {
+            "id": "dcc3854b-6897-404a-a2b8-b078c4869d39",
+            "name": "متمسحوش بتيست بيه",
+            "email": "Dev@dev.com",
+            "phoneNumber": "999666",
+            "isActive": true,
+            "photo": null,
+            "createdAt": "2025-08-18T06:18:31.5096018",
+            "note": "Deriver  اياك تمسحوه",
+            "roleName": "laundryDelivery",
+            "roles": [
+                "laundryDelivery"
+            ],
+            "roleIds": [
+                "e7deeea3-36d2-41a4-af06-c2fd02041544"
+            ],
+            "identityNo": "999666",
+            "branches": [
+                {
+                    "id": "37b9da97-f872-4ebe-8f5d-556b74885d67",
+                    "name": "فرع مغسلة الاحتراف"
+                }
+            ],
+            "laundaries": [
+                {
+                    "id": "b06b3f75-9fe1-4ade-bff1-675339c159b5",
+                    "name": "مغسلة الاحتراف"
+                }
+            ],
+            "collectionPoints": [
+                {
+                    "id": "4f52c702-c0f7-488e-7f30-08ddba1d2633",
+                    "name": "فرع مغسلة الاحتراف"
+                }
+            ]
+        },
+        {
+            "id": "013643e1-0b32-4f50-a8fb-aa5fc42d4060",
+            "name": "x4l9r0xghn",
+            "email": "tracy.ryan@gmail.com",
+            "phoneNumber": "5114290552",
+            "isActive": true,
+            "photo": null,
+            "createdAt": "2025-08-12T15:12:49.215061",
+            "note": null,
+            "roleName": "laundaryManger",
+            "roles": [
+                "laundaryManger"
+            ],
+            "roleIds": [
+                "913b57c4-3694-49a8-a251-61dfc378acfb"
+            ],
+            "identityNo": "60",
+            "branches": [
+                
+            ],
+            "laundaries": [
+                {
+                    "id": "75eb7371-2104-4b9e-9283-2a54a60428fc",
+                    "name": "iihj96ulet"
+                }
+            ],
+            "collectionPoints": [
+                
+            ]
+        },
+        {
+            "id": "d375f987-13fd-4a1e-b2ae-d84bcb8dc9e9",
+            "name": "عمرو محمد",
+            "email": "Amr@gmail.com",
+            "phoneNumber": "15415484548645",
+            "isActive": true,
+            "photo": null,
+            "createdAt": "2025-08-12T12:16:17.9946524",
+            "note": null,
+            "roleName": "LaundaryStaff",
+            "roles": [
+                "LaundaryStaff"
+            ],
+            "roleIds": [
+                "bad0737d-88de-4972-8270-7d73dba89892"
+            ],
+            "identityNo": "1531464984",
+            "branches": [
+                {
+                    "id": "8a0f0351-f27b-49c8-9412-ac2114dd6c87",
+                    "name": "فرع الزهور 1"
+                }
+            ],
+            "laundaries": [
+                {
+                    "id": "75eb7371-2104-4b9e-9283-2a54a60428fc",
+                    "name": "iihj96ulet"
+                }
+            ],
+            "collectionPoints": [
+                
+            ]
+        },
+        {
+            "id": "01ebabae-f5bb-4e12-9368-938f826ac041",
+            "name": "cg9nlf4xsk",
+            "email": "debby.halvorson@yahoo.com",
+            "phoneNumber": "1403518017",
+            "isActive": true,
+            "photo": null,
+            "createdAt": "2025-08-11T10:41:43.726653",
+            "note": null,
+            "roleName": "laundaryManger",
+            "roles": [
+                "laundaryManger"
+            ],
+            "roleIds": [
+                "913b57c4-3694-49a8-a251-61dfc378acfb"
+            ],
+            "identityNo": "1.288229729128823e+39",
+            "branches": [
+                
+            ],
+            "laundaries": [
+                {
+                    "id": "cfcdb218-c30c-46dc-8718-a4f9c16734fd",
+                    "name": "nq3lzdwtfb"
+                }
+            ],
+            "collectionPoints": [
+                
+            ]
+        },
+        {
+            "id": "6500bcf9-e3a7-41c8-80cf-5636d87c0e0f",
+            "name": "prq6u5m93n",
+            "email": "myles.tromp@yahoo.com",
+            "phoneNumber": "2177713692",
+            "isActive": true,
+            "photo": null,
+            "createdAt": "2025-08-06T14:13:01.621815",
+            "note": null,
+            "roleName": "laundaryManger",
+            "roles": [
+                "laundaryManger"
+            ],
+            "roleIds": [
+                "913b57c4-3694-49a8-a251-61dfc378acfb"
+            ],
+            "identityNo": "54564848",
+            "branches": [
+                
+            ],
+            "laundaries": [
+                {
+                    "id": "0957e004-cc21-4ed9-b578-01cfb1990b56",
+                    "name": "6635h4bcyq"
+                }
+            ],
+            "collectionPoints": [
+                
+            ]
+        },
+        {
+            "id": "b7a505bb-0710-4e0d-a7d7-44cdd08ed0b1",
+            "name": "5u7velyr8w",
+            "email": "wilber.jones@gmail.com",
+            "phoneNumber": "4048372650",
+            "isActive": true,
+            "photo": null,
+            "createdAt": "2025-08-06T10:58:45.4979552",
+            "note": "kl;pkl;k",
+            "roleName": "laundaryStaffDelivery",
+            "roles": [
+                "laundaryStaffDelivery"
+            ],
+            "roleIds": [
+                "1b71f5d5-ec30-4603-a19c-b6dcffa59038"
+            ],
+            "identityNo": "4473564214",
+            "branches": [
+                {
+                    "id": "0539cb78-fdce-4f9e-b27a-864acbefafc8",
+                    "name": "lkjasdkljfoiwjer"
+                },
+                {
+                    "id": "e3e7efd0-1d2d-4b5a-be59-e9e162e19a1c",
+                    "name": "lkdjsfoijeoirj"
+                }
+            ],
+            "laundaries": [
+                {
+                    "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                    "name": "hef71cityz"
+                }
+            ],
+            "collectionPoints": [
+                {
+                    "id": "0d2b5bf7-fa62-4807-39ee-08ddd350d2bb",
+                    "name": "Sample Service"
+                },
+                {
+                    "id": "ad8e2848-f159-442b-39ef-08ddd350d2bb",
+                    "name": "Sample Service"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "totalRecords": 134,
+        "pageNumber": 1,
+        "pageSize": 10,
+        "totalPages": 14,
+        "hasNextPage": true,
+        "hasPreviousPage": false,
+        "isPaginated": true
+    }
+}

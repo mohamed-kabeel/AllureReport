@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "نجاح",
+    "data": {
+        "id": "b9f8a32e-8064-4702-99c4-40ca99a8180e",
+        "name": "aew9kwsu5m",
+        "cityName": null,
+        "cityNameAr": null,
+        "cityNameEn": null,
+        "stateNameAr": null,
+        "stateNameEn": null,
+        "areaNameAr": null,
+        "areaNameEn": null,
+        "location": "{\"location\":\"7HMW88CH+Q5\",\"countryCode\":\"OM\",\"longitude\":58.32796819173696,\"latitude\":23.321926243728676,\"dialCode\":\"968\",\"city\":\"مسقط\",\"cityId\":\"472f1eca-65b1-44b1-c283-08ddad82b7e7\",\"state\":\"السيب\",\"stateId\":\"cb6a19c3-1b6c-4de2-c137-08ddae4affbd\",\"area\":\"المنطقة التجارية\",\"areaId\":\"2217e8a9-0437-4b57-b17e-08ddae4b0018\"}",
+        "description": null,
+        "phoneNumber": "7272784842",
+        "email": "man.jacobson@yahoo.com",
+        "isActive": true,
+        "totalDailyOrder": 0,
+        "branchStatus": 1,
+        "telePhone": "7770424885",
+        "cityId": "472f1eca-65b1-44b1-c283-08ddad82b7e7",
+        "stateId": "cb6a19c3-1b6c-4de2-c137-08ddae4affbd",
+        "areaId": "2217e8a9-0437-4b57-b17e-08ddae4b0018",
+        "laundaryId": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+        "laundaryName": "hef71cityz"
+    },
+    "errors": null,
+    "pagination": null,
+    "statusCode": 200
+}

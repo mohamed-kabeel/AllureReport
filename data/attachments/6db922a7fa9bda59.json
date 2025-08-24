@@ -1,0 +1,105 @@
+{
+    "success": true,
+    "message": null,
+    "data": [
+        {
+            "id": "31df2520-b3fc-44fc-7334-08dde2df09d6",
+            "requestType": 5,
+            "status": 1,
+            "statusName": "قيد الانتظار",
+            "createdAt": "2025-08-24T10:22:52.696966",
+            "laundryName": "hef71cityz",
+            "managerName": "Bree White1"
+        },
+        {
+            "id": "869e6d35-7291-4555-f9fb-08dde2df07ad",
+            "requestType": 7,
+            "status": 1,
+            "statusName": "قيد الانتظار",
+            "createdAt": "2025-08-24T10:22:51.8626789",
+            "laundryName": "hef71cityz",
+            "managerName": "Bree White1"
+        },
+        {
+            "id": "44a92f6c-3f7c-411c-f9fa-08dde2df07ad",
+            "requestType": 6,
+            "status": 2,
+            "statusName": "تم القبول",
+            "createdAt": "2025-08-24T10:22:49.0705358",
+            "laundryName": "hef71cityz",
+            "managerName": "Bree White1"
+        },
+        {
+            "id": "a4e4f0f9-caff-4164-1ec0-08dde2db074c",
+            "requestType": 12,
+            "status": 1,
+            "statusName": "قيد الانتظار",
+            "createdAt": "2025-08-24T09:54:14.3595724",
+            "laundryName": "hef71cityz",
+            "managerName": "Bree White1"
+        },
+        {
+            "id": "6cc65705-4425-450d-1ebf-08dde2db074c",
+            "requestType": 11,
+            "status": 1,
+            "statusName": "قيد الانتظار",
+            "createdAt": "2025-08-24T09:54:14.0093961",
+            "laundryName": "hef71cityz",
+            "managerName": "Bree White1"
+        },
+        {
+            "id": "853ef47d-98e5-4544-1ebe-08dde2db074c",
+            "requestType": 10,
+            "status": 1,
+            "statusName": "قيد الانتظار",
+            "createdAt": "2025-08-24T09:54:10.4563138",
+            "laundryName": "hef71cityz",
+            "managerName": "Bree White1"
+        },
+        {
+            "id": "ca56e4ef-263f-480c-5c21-08dde2d50e48",
+            "requestType": 11,
+            "status": 1,
+            "statusName": "قيد الانتظار",
+            "createdAt": "2025-08-24T09:36:19.3169074",
+            "laundryName": "hef71cityz",
+            "managerName": "Bree White1"
+        },
+        {
+            "id": "d4432e56-72f9-4166-5c20-08dde2d50e48",
+            "requestType": 12,
+            "status": 1,
+            "statusName": "قيد الانتظار",
+            "createdAt": "2025-08-24T09:25:24.6391953",
+            "laundryName": "hef71cityz",
+            "managerName": "Bree White1"
+        },
+        {
+            "id": "64c82c96-32c7-4806-3af5-08dde2d4ff57",
+            "requestType": 7,
+            "status": 1,
+            "statusName": "قيد الانتظار",
+            "createdAt": "2025-08-24T09:25:13.5102508",
+            "laundryName": "hef71cityz",
+            "managerName": "Bree White1"
+        },
+        {
+            "id": "92389aa2-1464-41e9-3af4-08dde2d4ff57",
+            "requestType": 6,
+            "status": 2,
+            "statusName": "تم القبول",
+            "createdAt": "2025-08-24T09:25:10.2208217",
+            "laundryName": "hef71cityz",
+            "managerName": "Bree White1"
+        }
+    ],
+    "pagination": {
+        "totalRecords": 398,
+        "pageNumber": 1,
+        "pageSize": 10,
+        "totalPages": 40,
+        "hasNextPage": true,
+        "hasPreviousPage": false,
+        "isPaginated": true
+    }
+}

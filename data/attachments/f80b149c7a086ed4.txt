@@ -1,0 +1,7 @@
+{
+  "userId": "72d2e920-627e-4f63-9aed-e4ab08da3ffe",
+  "moduleId": "26cc3232-0c2a-4a1a-af79-31d8ed219310",
+  "subPermissionIds": [
+    ""
+  ]
+}

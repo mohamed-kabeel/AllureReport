@@ -1,0 +1,30 @@
+{
+  "beneficiaries": [
+    "84b877fb-69e7-4663-a938-5e3579a83139"
+  ],
+  "coupon": "stu6d5",
+  "fromDate": "2025-08-17T08:14:52.560Z",
+  "isActive": true,
+  "nameAr": "بضجششنوعذس",
+  "nameEn": "zouwk0",
+  "ranks": [
+    "d192a9f7-b8d6-4b15-828b-3d37cc4407a2"
+  ],
+  "serviceCategories": [
+    {
+      "categoryId": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+      "services": [
+        {
+          "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+          "branchId": "ea46dde6-47ef-4019-946b-f92161b1f3f4"
+        , "note": "Dolorem suscipit id ut omnis." }
+      ]
+    , "note": "Dolorem suscipit id ut omnis." }
+  ],
+  "toDate": "2025-08-30T08:14:52.560Z",
+  "type": 1,
+  "value": 2,
+  "valueType": 1,
+  "quantity": 2,
+  "note": "eh99je"
+, "note": "Dolorem suscipit id ut omnis." }

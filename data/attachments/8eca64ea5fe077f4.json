@@ -1,0 +1,68 @@
+{
+    "success": true,
+    "message": "FetchPackageRequestSuccessfully",
+    "data": {
+        "id": "869e6d35-7291-4555-f9fb-08dde2df07ad",
+        "name": "string",
+        "nameAr": "string",
+        "nameEn": "string",
+        "fromDate": "2025-08-14T10:52:20.119",
+        "toDate": "2025-08-25T10:52:20.119",
+        "duration": 10,
+        "price": 90.00,
+        "isActive": true,
+        "requestType": {
+            "id": 7,
+            "name": "تعديل الباقة",
+            "color": "#000000"
+        },
+        "status": {
+            "id": 1,
+            "name": "قيد الانتظار",
+            "color": "#FDB44D"
+        },
+        "laundary": {
+            "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+            "name": "hef71cityz"
+        },
+        "package": {
+            "id": "0672240b-2981-47b8-4d14-08dde2df08bf",
+            "name": "string",
+            "nameAr": "string",
+            "nameEn": "string"
+        },
+        "rejectionReason": null,
+        "categories": [
+            {
+                "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                "name": "تصنيف 1",
+                "nameAr": "تصنيف 1",
+                "nameEn": "84itpp8s1v9d33dteohe",
+                "services": [
+                    {
+                        "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                        "branch": {
+                            "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                            "name": "string"
+                        },
+                        "name": "خدمة 443",
+                        "nameAr": "خدمة 443",
+                        "nameEn": "new ",
+                        "quantity": 10
+                    }
+                ]
+            }
+        ],
+        "ranks": [
+            {
+                "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                "name": "رتبة تجريبية",
+                "nameEn": "Test Rank",
+                "nameAr": "رتبة تجريبية"
+            }
+        ]
+    },
+    "errors": null,
+    "pagination": null,
+    "statusCode": 200
+}

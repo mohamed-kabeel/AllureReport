@@ -1,0 +1,1 @@
+https://staging-api-laundry.rieaya.live/api/LaundaryServiceCategories/59caa15f-764e-4695-a862-0f7a042a4166

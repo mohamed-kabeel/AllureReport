@@ -1,0 +1,487 @@
+{
+    "success": true,
+    "message": "تم استرجاع الباقات بنجاح.",
+    "data": [
+        {
+            "id": "bdaaca65-c593-4de8-b943-08dde2d5007f",
+            "name": "uw87qjb6h3",
+            "nameAr": "uw87qjb6h3",
+            "nameEn": "dev7ttntnf",
+            "fromDate": "2025-08-14T12:47:34.078",
+            "toDate": "2025-09-30T12:47:34.078",
+            "duration": 10,
+            "price": 10.00,
+            "isActive": true,
+            "totalQuantity": 5,
+            "requestStatus": null,
+            "createdAt": "2025-08-24T09:26:23.8502916",
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                    "name": "تصنيف 1",
+                    "nameAr": "تصنيف 1",
+                    "nameEn": "84itpp8s1v9d33dteohe",
+                    "services": [
+                        {
+                            "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                            "branch": {
+                                "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                                "name": "string"
+                            },
+                            "name": "خدمة 443",
+                            "nameAr": "خدمة 443",
+                            "nameEn": "new ",
+                            "quantity": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2f710f46-33c1-4df5-b942-08dde2d5007f",
+            "name": "string",
+            "nameAr": "string",
+            "nameEn": "string",
+            "fromDate": "2025-08-14T10:52:20.119",
+            "toDate": "2025-08-25T10:52:20.119",
+            "duration": 10,
+            "price": 90.00,
+            "isActive": true,
+            "totalQuantity": 10,
+            "requestStatus": 1,
+            "createdAt": "2025-08-24T09:25:11.5298185",
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                    "name": "تصنيف 1",
+                    "nameAr": "تصنيف 1",
+                    "nameEn": "84itpp8s1v9d33dteohe",
+                    "services": [
+                        {
+                            "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                            "branch": {
+                                "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                                "name": "string"
+                            },
+                            "name": "خدمة 443",
+                            "nameAr": "خدمة 443",
+                            "nameEn": "new ",
+                            "quantity": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "f75cfe1e-8099-4c1c-b940-08dde2d5007f",
+            "name": "string",
+            "nameAr": "string",
+            "nameEn": "string",
+            "fromDate": "2025-08-14T10:52:20.119",
+            "toDate": "2025-08-25T10:52:20.119",
+            "duration": 10,
+            "price": 90.00,
+            "isActive": true,
+            "totalQuantity": 10,
+            "requestStatus": 1,
+            "createdAt": "2025-08-24T09:11:02.0726596",
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                    "name": "تصنيف 1",
+                    "nameAr": "تصنيف 1",
+                    "nameEn": "84itpp8s1v9d33dteohe",
+                    "services": [
+                        {
+                            "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                            "branch": {
+                                "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                                "name": "string"
+                            },
+                            "name": "خدمة 443",
+                            "nameAr": "خدمة 443",
+                            "nameEn": "new ",
+                            "quantity": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1e164e5b-1d2d-4d36-c88a-08dde07431f8",
+            "name": "تست 1",
+            "nameAr": "تست 1",
+            "nameEn": "test 1",
+            "fromDate": "2025-08-23T00:00:00",
+            "toDate": "2025-08-29T00:00:00",
+            "duration": 10,
+            "price": 200.00,
+            "isActive": true,
+            "totalQuantity": 5,
+            "requestStatus": 2,
+            "createdAt": "2025-08-21T08:33:01.5670787",
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+                    "name": "تصنيف 2",
+                    "nameAr": "تصنيف 2",
+                    "nameEn": "4g60htnuibkvmag42paf",
+                    "services": [
+                        {
+                            "id": "aaf4953b-ecba-4654-be40-4023f4fe5b74",
+                            "branch": {
+                                "id": "1d55f772-ead4-4dd4-9ba9-1ed9199b776b",
+                                "name": "04kgaytbnf"
+                            },
+                            "name": "تيست خدمة 4",
+                            "nameAr": "تيست خدمة 4",
+                            "nameEn": "test service 4",
+                            "quantity": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "e0e7db57-7a16-4a17-9954-08dddfe83c34",
+            "name": "string",
+            "nameAr": "string",
+            "nameEn": "string",
+            "fromDate": "2025-08-14T10:52:20.119",
+            "toDate": "2025-08-25T10:52:20.119",
+            "duration": 10,
+            "price": 90.00,
+            "isActive": false,
+            "totalQuantity": 10,
+            "requestStatus": 2,
+            "createdAt": "2025-08-20T16:57:26.5419457",
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                    "name": "تصنيف 1",
+                    "nameAr": "تصنيف 1",
+                    "nameEn": "84itpp8s1v9d33dteohe",
+                    "services": [
+                        {
+                            "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                            "branch": {
+                                "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                                "name": "string"
+                            },
+                            "name": "خدمة 443",
+                            "nameAr": "خدمة 443",
+                            "nameEn": "new ",
+                            "quantity": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "faf297d0-c90d-4a63-b6d3-08dddfdacdd1",
+            "name": "string",
+            "nameAr": "string",
+            "nameEn": "string",
+            "fromDate": "2025-08-20T00:00:00",
+            "toDate": "2025-08-27T00:00:00",
+            "duration": 10,
+            "price": 90.00,
+            "isActive": true,
+            "totalQuantity": 10,
+            "requestStatus": 1,
+            "createdAt": "2025-08-20T14:15:00.5379531",
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                    "name": "تصنيف 1",
+                    "nameAr": "تصنيف 1",
+                    "nameEn": "84itpp8s1v9d33dteohe",
+                    "services": [
+                        {
+                            "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                            "branch": {
+                                "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                                "name": "string"
+                            },
+                            "name": "خدمة 443",
+                            "nameAr": "خدمة 443",
+                            "nameEn": "new ",
+                            "quantity": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "a535832a-57b4-4352-2245-08dddfc05dab",
+            "name": "string",
+            "nameAr": "string",
+            "nameEn": "string",
+            "fromDate": "2025-08-14T00:00:00",
+            "toDate": "2025-08-25T00:00:00",
+            "duration": 10,
+            "price": 90.00,
+            "isActive": true,
+            "totalQuantity": 10,
+            "requestStatus": 1,
+            "createdAt": "2025-08-20T12:09:45.3332344",
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                    "name": "تصنيف 1",
+                    "nameAr": "تصنيف 1",
+                    "nameEn": "84itpp8s1v9d33dteohe",
+                    "services": [
+                        {
+                            "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                            "branch": {
+                                "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                                "name": "string"
+                            },
+                            "name": "خدمة 443",
+                            "nameAr": "خدمة 443",
+                            "nameEn": "new ",
+                            "quantity": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ad0caf60-4609-4fba-2243-08dddfc05dab",
+            "name": "string",
+            "nameAr": "string",
+            "nameEn": "string",
+            "fromDate": "2025-08-14T10:52:20.119",
+            "toDate": "2025-08-25T10:52:20.119",
+            "duration": 10,
+            "price": 90.00,
+            "isActive": true,
+            "totalQuantity": 10,
+            "requestStatus": 1,
+            "createdAt": "2025-08-20T11:43:45.6626432",
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                    "name": "تصنيف 1",
+                    "nameAr": "تصنيف 1",
+                    "nameEn": "84itpp8s1v9d33dteohe",
+                    "services": [
+                        {
+                            "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                            "branch": {
+                                "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                                "name": "string"
+                            },
+                            "name": "خدمة 443",
+                            "nameAr": "خدمة 443",
+                            "nameEn": "new ",
+                            "quantity": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "034590f0-0d61-42f5-2242-08dddfc05dab",
+            "name": "نيو ميزة dd",
+            "nameAr": "نيو ميزة dd",
+            "nameEn": "new ",
+            "fromDate": "2025-08-24T00:00:00",
+            "toDate": "2025-08-31T00:00:00",
+            "duration": 11,
+            "price": 11.00,
+            "isActive": true,
+            "totalQuantity": 4,
+            "requestStatus": null,
+            "createdAt": "2025-08-20T11:05:45.4485418",
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                    "name": "تصنيف 1",
+                    "nameAr": "تصنيف 1",
+                    "nameEn": "84itpp8s1v9d33dteohe",
+                    "services": [
+                        {
+                            "id": "e679d686-48ae-4b5d-ae64-166d4986cb76",
+                            "branch": {
+                                "id": "a9e756d7-e3a7-49ef-be48-2ececc8bef45",
+                                "name": "Khaled Alaa 2"
+                            },
+                            "name": "خدمة 12",
+                            "nameAr": "خدمة 12",
+                            "nameEn": "211",
+                            "quantity": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "bd858538-5a9b-4924-812d-08dddfb453b3",
+            "name": "string",
+            "nameAr": "string",
+            "nameEn": "string",
+            "fromDate": "2025-08-14T10:52:20.119",
+            "toDate": "2025-08-25T10:52:20.119",
+            "duration": 10,
+            "price": 90.00,
+            "isActive": true,
+            "totalQuantity": 10,
+            "requestStatus": 1,
+            "createdAt": "2025-08-20T10:59:29.7520871",
+            "laundary": {
+                "id": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+                "name": "hef71cityz"
+            },
+            "ranks": [
+                {
+                    "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                    "name": "رتبة تجريبية",
+                    "nameEn": "Test Rank",
+                    "nameAr": "رتبة تجريبية"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+                    "name": "تصنيف 1",
+                    "nameAr": "تصنيف 1",
+                    "nameEn": "84itpp8s1v9d33dteohe",
+                    "services": [
+                        {
+                            "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                            "branch": {
+                                "id": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                                "name": "string"
+                            },
+                            "name": "خدمة 443",
+                            "nameAr": "خدمة 443",
+                            "nameEn": "new ",
+                            "quantity": 10
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "errors": null,
+    "pagination": {
+        "totalRecords": 29,
+        "pageNumber": 1,
+        "pageSize": 10,
+        "totalPages": 3,
+        "hasNextPage": true,
+        "hasPreviousPage": false,
+        "isPaginated": true
+    },
+    "statusCode": 200
+}

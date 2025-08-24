@@ -1,0 +1,15 @@
+{
+  "name": "string",
+  "branchIds": [
+    "ea46dde6-47ef-4019-946b-f92161b1f3f4"
+  ],
+  "cityId": "472f1eca-65b1-44b1-c283-08ddad82b7e7",
+  "stateId": "cb6a19c3-1b6c-4de2-c137-08ddae4affbd",
+  "areaId": "2217e8a9-0437-4b57-b17e-08ddae4b0018",
+  "address": "string",
+  "location": "string",
+  "phoneNumber": "string",
+  "email": "string",
+  "notes": "string",
+  "statusRequest": 1
+}

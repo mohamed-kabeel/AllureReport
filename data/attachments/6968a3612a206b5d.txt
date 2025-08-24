@@ -1,0 +1,1 @@
+https://staging-api-laundry.rieaya.live/api/Laundary/updateCollectionPoint

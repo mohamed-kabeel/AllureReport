@@ -1,0 +1,16 @@
+{
+    "success": true,
+    "message": "تم جلب السائقين",
+    "data": [
+        
+    ],
+    "pagination": {
+        "totalRecords": 0,
+        "pageNumber": 1,
+        "pageSize": 10,
+        "totalPages": 0,
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "isPaginated": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "519155a0-3996-4cfd-6cf1-08dde2d52094",
+  "nameEn": "vlgoh090rz",
+  "nameAr": "umi5tgjlf5",
+  "createdAt": "2025-08-10T07:35:39.823Z",
+  "createdBy": "q2qa03fs5r",
+  "updatedAt": "2025-08-10T07:35:39.823Z",
+  "updatedBy": "lvs9c2k73k",
+  "isDeleted": false,
+  "isActive": true
+}

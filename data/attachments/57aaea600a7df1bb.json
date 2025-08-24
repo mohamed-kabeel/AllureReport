@@ -1,0 +1,192 @@
+{
+    "success": true,
+    "message": "نجاح",
+    "data": [
+        {
+            "id": "ba3e3415-96bc-48fe-b781-08dde2df16e4",
+            "name": "uzcl8mtebd",
+            "city": "مسقط",
+            "description": "g7q8etz0cg",
+            "location": "8b0ymjlsx21ahwwtydjkwszonxh2c6",
+            "state": "بوشر",
+            "area": "روي",
+            "laundaryName": "hef71cityz",
+            "phoneNumber": "5745245868",
+            "branchInfoo": [
+                {
+                    "branchId": "ea46dde6-47ef-4019-946b-f92161b1f3f4",
+                    "branchName": "string"
+                }
+            ],
+            "orderCount": 0,
+            "laundaryId": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+            "collectionPointsStatus": 1
+        },
+        {
+            "id": "e0039a27-231e-4de6-d98a-08ddde1b5f42",
+            "name": "Sample Service",
+            "city": "مسقط",
+            "description": "This is a test service.",
+            "location": "Muscat",
+            "state": "السيب",
+            "area": "المنطقة التجارية",
+            "laundaryName": "hef71cityz",
+            "phoneNumber": "12345678",
+            "branchInfoo": [
+                {
+                    "branchId": "032a9396-f088-4eb4-b847-d5f6ccabad9c",
+                    "branchName": "string"
+                }
+            ],
+            "orderCount": 0,
+            "laundaryId": "8e4bf5c9-01b4-4e4e-9367-aaca82722461",
+            "collectionPointsStatus": 3
+        },
+        {
+            "id": "3f726c09-18d6-4c9b-f530-08ddd8ae627d",
+            "name": "1-Points-of-Collection",
+            "city": "مسقط",
+            "description": null,
+            "location": "{\"location\":\"97V6+5H Mughrah, عمان\",\"countryCode\":\"OM\",\"longitude\":58.261439852798006,\"latitude\":23.392926326150743,\"dialCode\":\"968\",\"city\":\"مسقط\",\"cityId\":\"e535d84d-f11f-44bd-c27c-08ddad82b7e7\",\"state\":\"قريات\",\"stateId\":\"cb6a19c3-1b6c-4de2-c137-08ddae4affbd\",\"area\":\"Al Ghubrah\",\"areaId\":\"2fae44bb-7608-4e50-b18b-08ddae4b0018\"}",
+            "state": "قريات",
+            "area": "Al Ghubrah",
+            "laundaryName": "nq3lzdwtfb",
+            "phoneNumber": "1877783444",
+            "branchInfoo": [
+                {
+                    "branchId": "f5746a92-7601-449d-8350-a8d275bf6fbe",
+                    "branchName": "Mina-branch2"
+                },
+                {
+                    "branchId": "9c4482c6-78b0-4221-b4ab-ca05dbe1ce4e",
+                    "branchName": "Mina-branch1"
+                }
+            ],
+            "orderCount": 0,
+            "laundaryId": "cfcdb218-c30c-46dc-8718-a4f9c16734fd",
+            "collectionPointsStatus": 1
+        },
+        {
+            "id": "95bc20b7-cae1-42ae-bb43-aa10f27bb223",
+            "name": "نقطة تجميع جديدة 1",
+            "city": "مسقط",
+            "description": null,
+            "location": "{\"location\":\"G3RJ+3C Say'، عمان\",\"countryCode\":\"OM\",\"longitude\":57.08102011718752,\"latitude\":23.54016647194983,\"dialCode\":\"968\",\"city\":\"مسقط\",\"cityId\":\"e535d84d-f11f-44bd-c27c-08ddad82b7e7\",\"state\":\"قريات\",\"stateId\":\"cb6a19c3-1b6c-4de2-c137-08ddae4affbd\",\"area\":\"الوطية\",\"areaId\":\"f5f8e381-0156-4051-b18c-08ddae4b0018\"}",
+            "state": "قريات",
+            "area": null,
+            "laundaryName": null,
+            "phoneNumber": "21215615156",
+            "branchInfoo": [
+                
+            ],
+            "orderCount": 0,
+            "laundaryId": "00000000-0000-0000-0000-000000000000",
+            "collectionPointsStatus": 1
+        },
+        {
+            "id": "c4bd1a19-3450-47af-9226-dad316c9ec7f",
+            "name": "نقطة مغسلة الاحتراف",
+            "city": "مسقط",
+            "description": null,
+            "location": "{\"location\":\"9JMP+HC العارض، عمان\",\"countryCode\":\"OM\",\"longitude\":56.63607382812502,\"latitude\":23.38395720686977,\"dialCode\":\"968\",\"city\":\"مسقط\",\"cityId\":\"e535d84d-f11f-44bd-c27c-08ddad82b7e7\",\"state\":\"بوشر\",\"stateId\":\"006be14d-11fb-4e3c-c134-08ddae4affbd\",\"area\":\"Al Ghubrah\",\"areaId\":\"d9c540b2-5c4c-48a9-b17c-08ddae4b0018\"}",
+            "state": "بوشر",
+            "area": null,
+            "laundaryName": null,
+            "phoneNumber": "15186484585",
+            "branchInfoo": [
+                
+            ],
+            "orderCount": 0,
+            "laundaryId": "00000000-0000-0000-0000-000000000000",
+            "collectionPointsStatus": 1
+        },
+        {
+            "id": "a81f1271-9ba3-4d26-0c90-08ddc1d8ac52",
+            "name": "new collection1",
+            "city": "مسقط",
+            "description": null,
+            "location": "{\"location\":\"7H7G+53 التريمدي، عمان\",\"countryCode\":\"OM\",\"longitude\":58.57516074218752,\"latitude\":23.262894328855293,\"dialCode\":\"968\",\"city\":\"مسقط\",\"cityId\":\"e535d84d-f11f-44bd-c27c-08ddad82b7e7\",\"state\":\"السيب\",\"stateId\":\"9413e922-b272-4918-c136-08ddae4affbd\",\"area\":\"Al Ghubrah\",\"areaId\":\"8624ab8e-95a1-4716-b186-08ddae4b0018\"}",
+            "state": "السيب",
+            "area": "Al Ghubrah",
+            "laundaryName": "مغسلة الاحتراف",
+            "phoneNumber": "1231485",
+            "branchInfoo": [
+                {
+                    "branchId": "dc453949-a4c8-4529-8138-14dc1a5db6e4",
+                    "branchName": "فرع3"
+                }
+            ],
+            "orderCount": 0,
+            "laundaryId": "b06b3f75-9fe1-4ade-bff1-675339c159b5",
+            "collectionPointsStatus": 3
+        },
+        {
+            "id": "d0bc9390-04b2-4742-162f-08ddbe1983fc",
+            "name": "NewCollection Point for two branches",
+            "city": "مسقط",
+            "description": null,
+            "location": "{\"location\":\"HCMH+HC2، مسقط، عمان\",\"countryCode\":\"OM\",\"longitude\":58.428190470680505,\"latitude\":23.583920029621346,\"dialCode\":\"968\",\"city\":\"مسقط\",\"cityId\":\"e535d84d-f11f-44bd-c27c-08ddad82b7e7\",\"state\":\"صلالة\",\"stateId\":\"ab9b7cae-3c55-47fe-c135-08ddae4affbd\",\"area\":\"الخوير\",\"areaId\":\"25776fd9-a08e-4e16-b180-08ddae4b0018\"}",
+            "state": "السيب",
+            "area": null,
+            "laundaryName": null,
+            "phoneNumber": "203050607",
+            "branchInfoo": [
+                
+            ],
+            "orderCount": 0,
+            "laundaryId": "00000000-0000-0000-0000-000000000000",
+            "collectionPointsStatus": 1
+        },
+        {
+            "id": "4f52c702-c0f7-488e-7f30-08ddba1d2633",
+            "name": "فرع مغسلة الاحتراف",
+            "city": "مسقط",
+            "description": null,
+            "location": "{\"location\":\"M2R3+HG الخشبة، عمان\",\"countryCode\":\"OM\",\"longitude\":58.00387167968752,\"latitude\":22.691418183141565,\"dialCode\":\"968\",\"city\":\"مسقط\",\"cityId\":\"e535d84d-f11f-44bd-c27c-08ddad82b7e7\",\"state\":\"قريات\",\"stateId\":\"cb6a19c3-1b6c-4de2-c137-08ddae4affbd\",\"area\":\"المنطقة التجارية\",\"areaId\":\"d09a8548-bd10-45aa-b18e-08ddae4b0018\"}",
+            "state": "قريات",
+            "area": "المنطقة التجارية",
+            "laundaryName": "مغسلة الاحتراف",
+            "phoneNumber": "1518654",
+            "branchInfoo": [
+                {
+                    "branchId": "37b9da97-f872-4ebe-8f5d-556b74885d67",
+                    "branchName": "فرع مغسلة الاحتراف"
+                }
+            ],
+            "orderCount": 0,
+            "laundaryId": "b06b3f75-9fe1-4ade-bff1-675339c159b5",
+            "collectionPointsStatus": 3
+        },
+        {
+            "id": "14115eed-dbc3-415b-9c39-08ddb96ed114",
+            "name": "نقطة تجميع مغسلة الاحتراف ",
+            "city": "مسقط",
+            "description": null,
+            "location": "{\"location\":\"R3G3+QC فلج بني ربيعة، عمان\",\"countryCode\":\"OM\",\"longitude\":57.05355429687502,\"latitude\":23.826905646402277,\"dialCode\":\"968\",\"city\":\"مسقط\",\"cityId\":\"e535d84d-f11f-44bd-c27c-08ddad82b7e7\",\"state\":\"السيب\",\"stateId\":\"9413e922-b272-4918-c136-08ddae4affbd\",\"area\":\"الخوير\",\"areaId\":\"82ea018f-5a54-459a-b185-08ddae4b0018\"}",
+            "state": "السيب",
+            "area": "الخوير",
+            "laundaryName": "مغسلة الاحتراف",
+            "phoneNumber": "10123456789",
+            "branchInfoo": [
+                {
+                    "branchId": "37b9da97-f872-4ebe-8f5d-556b74885d67",
+                    "branchName": "فرع مغسلة الاحتراف"
+                }
+            ],
+            "orderCount": 0,
+            "laundaryId": "b06b3f75-9fe1-4ade-bff1-675339c159b5",
+            "collectionPointsStatus": 3
+        }
+    ],
+    "errors": null,
+    "pagination": {
+        "totalRecords": 9,
+        "pageNumber": 1,
+        "pageSize": 10,
+        "totalPages": 1,
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "isPaginated": true
+    },
+    "statusCode": 200
+}

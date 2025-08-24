@@ -1,0 +1,132 @@
+{
+    "success": true,
+    "message": "تم جلب القاعدة بنجاح",
+    "data": {
+        "id": "f1e7cd72-dde7-4f9b-b09b-64e310d7bbb9",
+        "name": "du1qkfupdk",
+        "isActive": true,
+        "isAllRanks": false,
+        "ranks": [
+            {
+                "id": "d192a9f7-b8d6-4b15-828b-3d37cc4407a2",
+                "name": "رتبة تجريبية",
+                "nameAr": "رتبة تجريبية",
+                "nameEn": "Test Rank",
+                "color": null,
+                "grad": null,
+                "isActive": false
+            }
+        ],
+        "isAllUsers": false,
+        "users": [
+            
+        ],
+        "isAllServices": false,
+        "services": [
+            {
+                "id": "47afa665-0087-4154-bd07-6e3a9aece88c",
+                "name": "تيست خدمة 3",
+                "nameAr": null,
+                "nameEn": null
+            },
+            {
+                "id": "07a96f4a-76dc-4f7d-931f-f71ba186f447",
+                "name": "خدمة 6",
+                "nameAr": null,
+                "nameEn": null
+            },
+            {
+                "id": "81a14392-84e3-4db8-8fcf-a4fd28062879",
+                "name": "نيو ميزة 12",
+                "nameAr": null,
+                "nameEn": null
+            },
+            {
+                "id": "97f2bd68-32fa-474d-a485-4db113ca9e43",
+                "name": "خدمة 443",
+                "nameAr": null,
+                "nameEn": null
+            },
+            {
+                "id": "b10f9afc-2805-4e42-a4af-a42cf6a0c38a",
+                "name": "new",
+                "nameAr": null,
+                "nameEn": null
+            },
+            {
+                "id": "e679d686-48ae-4b5d-ae64-166d4986cb76",
+                "name": "خدمة 12",
+                "nameAr": null,
+                "nameEn": null
+            },
+            {
+                "id": "f6b46db2-d207-44f9-a0d9-eb9dc520929e",
+                "name": "خدمة 14",
+                "nameAr": null,
+                "nameEn": null
+            },
+            {
+                "id": "ccae7094-9eff-439c-a01e-0dbe7645544b",
+                "name": "خدمة 13",
+                "nameAr": null,
+                "nameEn": null
+            },
+            {
+                "id": "0745cfa3-0ca2-4eed-b028-a67d5492b953",
+                "name": "نيو ميزة 1133",
+                "nameAr": null,
+                "nameEn": null
+            },
+            {
+                "id": "aaf4953b-ecba-4654-be40-4023f4fe5b74",
+                "name": "تيست خدمة 4",
+                "nameAr": null,
+                "nameEn": null
+            },
+            {
+                "id": "5cd5c81c-fe91-4342-8ac7-5204cfae5145",
+                "name": "خدمة 3",
+                "nameAr": null,
+                "nameEn": null
+            },
+            {
+                "id": "4196b7f9-6775-460c-b417-59fe56d69b69",
+                "name": "تست ",
+                "nameAr": null,
+                "nameEn": null
+            },
+            {
+                "id": "2d28e642-76db-4073-8225-ab50efd8d5cc",
+                "name": "خدمة 4",
+                "nameAr": null,
+                "nameEn": null
+            },
+            {
+                "id": "773956a6-baed-4f28-89da-1562fe5d6076",
+                "name": "خدمة 5",
+                "nameAr": null,
+                "nameEn": null
+            },
+            {
+                "id": "987b0793-98c1-432c-bc5c-782b9b97c46b",
+                "name": "تيست خدمة 2",
+                "nameAr": null,
+                "nameEn": null
+            }
+        ],
+        "privileges": [
+            {
+                "id": "8108484b-24a2-4aee-8230-12d066d3631a",
+                "name": "نستدجشصعتز",
+                "nameAr": "نستدجشصعتز",
+                "nameEN": "maiuxerdng"
+            },
+            {
+                "id": "a9cf85ba-e564-4b74-9c50-e8c025595cf4",
+                "name": "وخطفبخشثكه",
+                "nameAr": "وخطفبخشثكه",
+                "nameEN": "r712wt5x8i"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "success": true,
+    "message": "تم جلب الملاحظات بنجاح",
+    "data": [
+        {
+            "id": "fb63f76d-3592-41e7-9915-6eda31acdc25",
+            "noteText": "rezfgdm9b5c8zhyxss1q",
+            "createdAt": "2025-08-24T09:26:17.9047775",
+            "createdByUserId": "9543a89f-143e-45b6-9a09-1f2b03f6a982",
+            "createdByUserName": "LaundryStaff",
+            "createdByRole": null,
+            "target": 0
+        },
+        {
+            "id": "2a96a17e-f44f-4549-b5ab-91d25d09ca2c",
+            "noteText": "Aut qui nesciunt.",
+            "createdAt": "2025-08-24T06:26:22.2891195",
+            "createdByUserId": "fe780599-d108-474d-87c6-1d46fb2d5ab0",
+            "createdByUserName": "Bree White1",
+            "createdByRole": null,
+            "target": 1
+        }
+    ],
+    "pagination": {
+        "totalRecords": 2,
+        "pageNumber": 1,
+        "pageSize": 20,
+        "totalPages": 1,
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "isPaginated": true
+    }
+}

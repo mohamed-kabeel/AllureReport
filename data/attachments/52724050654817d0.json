@@ -1,0 +1,10 @@
+{
+    "success": false,
+    "message": "حدثت أخطاء تحقق واحدة أو أكثر",
+    "data": null,
+    "errors": [
+        "المستفيدون المحددون غير موجودين."
+    ],
+    "pagination": null,
+    "statusCode": 400
+}

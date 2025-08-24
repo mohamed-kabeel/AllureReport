@@ -1,0 +1,1 @@
+https://staging-api-laundry.rieaya.live/api/Message/sent/6451b696-b469-4df2-b0a3-5cfa2364367b

@@ -1,0 +1,85 @@
+{
+    "success": true,
+    "message": null,
+    "data": [
+        {
+            "id": "59caa15f-764e-4695-a862-0f7a042a4166",
+            "name": "zwz7zcji83oyyabo60cx",
+            "nameAr": "جغثكيسرقكو",
+            "nameEn": "zwz7zcji83oyyabo60cx",
+            "isActive": true
+        },
+        {
+            "id": "733f34f4-122f-4f22-8f47-9be8fc2b4f7c",
+            "name": "new ",
+            "nameAr": "نيو  التصنيف ",
+            "nameEn": "new ",
+            "isActive": true
+        },
+        {
+            "id": "6aae6fc1-d11a-4abb-87ee-8367f6838353",
+            "name": "84itpp8s1v9d33dteohe",
+            "nameAr": "تصنيف 1",
+            "nameEn": "84itpp8s1v9d33dteohe",
+            "isActive": true
+        },
+        {
+            "id": "6df3cf4a-1bef-4133-b2aa-965dd52a0988",
+            "name": "4g60htnuibkvmag42paf",
+            "nameAr": "تصنيف 2",
+            "nameEn": "4g60htnuibkvmag42paf",
+            "isActive": true
+        },
+        {
+            "id": "8aacd3a7-dc25-4541-8c11-b3cca0b43df8",
+            "name": "d17q4o1xn0u6vwisk44p",
+            "nameAr": "تصنيف 3",
+            "nameEn": "d17q4o1xn0u6vwisk44p",
+            "isActive": true
+        },
+        {
+            "id": "e267cf63-ca11-4325-9936-c7e9cd4f0507",
+            "name": "oya3jg95vp3vz6nza90f",
+            "nameAr": "تصنيف 4",
+            "nameEn": "oya3jg95vp3vz6nza90f",
+            "isActive": true
+        },
+        {
+            "id": "92e39cf7-7041-4fa9-a60c-903e11ee96dc",
+            "name": "r7qmji4ptezu4hnmitex",
+            "nameAr": "تصنيف 5",
+            "nameEn": "r7qmji4ptezu4hnmitex",
+            "isActive": true
+        },
+        {
+            "id": "01b0a9b8-2e23-441f-9326-338e5a55c239",
+            "name": "n8kyrl5pcbf5ctsdu3ca",
+            "nameAr": "تصنيف 6",
+            "nameEn": "n8kyrl5pcbf5ctsdu3ca",
+            "isActive": true
+        },
+        {
+            "id": "13cf5703-d58f-4e9f-905d-8026be9d3423",
+            "name": "y1i1ww0zm8yiv99cqo6n",
+            "nameAr": "تصنيف 7",
+            "nameEn": "y1i1ww0zm8yiv99cqo6n",
+            "isActive": true
+        },
+        {
+            "id": "11f5d325-14be-4b7c-8a32-fd6680e7704a",
+            "name": "kgrj8nnfyovk1q0s336d",
+            "nameAr": "تصنيف 8",
+            "nameEn": "kgrj8nnfyovk1q0s336d",
+            "isActive": true
+        }
+    ],
+    "pagination": {
+        "totalRecords": 10,
+        "pageNumber": 1,
+        "pageSize": 10,
+        "totalPages": 1,
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "isPaginated": true
+    }
+}

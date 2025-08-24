@@ -1,0 +1,14 @@
+{
+    "type": "https://tools.ietf.org/html/rfc9110#section-15.5.1",
+    "title": "One or more validation errors occurred.",
+    "status": 400,
+    "errors": {
+        "$": [
+            "The JSON value could not be converted to System.String. Path: $ | LineNumber: 0 | BytePositionInLine: 1."
+        ],
+        "name": [
+            "The name field is required."
+        ]
+    },
+    "traceId": "00-c895cc98aa28863ad68d510194208981-1596b9b820b65ce9-00"
+}
